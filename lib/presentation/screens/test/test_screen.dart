@@ -225,18 +225,42 @@ class _TestScreenState extends State<TestScreen> {
     // Extract original choiceId from unique value if format is questionId_choiceId_index
     // Otherwise use _selectedAnswer as-is (for backward compatibility)
     String answerToSave = _selectedAnswer!;
-    if (_selectedAnswer!.contains('_') && _selectedAnswer!.split('_').length >= 3) {
+    
+    // Improved extraction: Find the choiceId by matching against actual choices
+    // This is more robust than splitting by underscores
+    if (_selectedAnswer!.contains('_') && question.choices.isNotEmpty) {
+      // Try to find which part of the unique value matches a choiceId
       final parts = _selectedAnswer!.split('_');
-      // Format is: questionId_choiceId_index
-      // Since questionId can contain underscores, we need to extract choiceId differently
-      // The choiceId is the second-to-last element, and the last element is the index
-      if (parts.length >= 2) {
-        // Get the second-to-last element as choiceId
+      final choiceIds = question.choices.map((c) => c.choiceId.toLowerCase()).toList();
+      
+      // Look for a part that matches a choiceId (check from end to start)
+      bool found = false;
+      for (int i = parts.length - 1; i >= 0; i--) {
+        if (choiceIds.contains(parts[i].toLowerCase())) {
+          answerToSave = parts[i];
+          found = true;
+          break;
+        }
+      }
+      
+      // Fallback to old logic if no match found
+      if (!found && parts.length >= 2) {
         answerToSave = parts[parts.length - 2];
       }
     }
     
     final isCorrect = ScoringService.isAnswerCorrect(question, answerToSave);
+    
+    // Debug: Log answer extraction for troubleshooting
+    if (kDebugMode) {
+      debugPrint('🔍 Answer Extraction Debug:');
+      debugPrint('  Question ID: ${question.id}');
+      debugPrint('  Selected Answer (unique): $_selectedAnswer');
+      debugPrint('  Extracted Answer: $answerToSave');
+      debugPrint('  Question Answer Field: ${question.answer}');
+      debugPrint('  Is Correct: $isCorrect');
+      debugPrint('  Question Type: ${question.type}');
+    }
     
     // Calculate time spent
     final startTime = _startTimes[_currentQuestionIndex] ?? DateTime.now().millisecondsSinceEpoch;
@@ -784,11 +808,25 @@ class _TestScreenState extends State<TestScreen> {
                                           });
                                           
                                           // Extract original choiceId from unique value
-                                          // Format: questionId_choiceId_index
-                                          final parts = value.split('_');
-                                          final originalChoiceId = parts.length >= 2 
-                                              ? parts[parts.length - 2] // Second-to-last element is choiceId
-                                              : choice.choiceId;
+                                          // Improved: Match against actual choices for robustness
+                                          String originalChoiceId = choice.choiceId;
+                                          if (value.contains('_') && question.choices.isNotEmpty) {
+                                            final parts = value.split('_');
+                                            final choiceIds = question.choices.map((c) => c.choiceId.toLowerCase()).toList();
+                                            
+                                            // Look for a part that matches a choiceId
+                                            for (int i = parts.length - 1; i >= 0; i--) {
+                                              if (choiceIds.contains(parts[i].toLowerCase())) {
+                                                originalChoiceId = parts[i];
+                                                break;
+                                              }
+                                            }
+                                            
+                                            // Fallback to old logic
+                                            if (originalChoiceId == choice.choiceId && parts.length >= 2) {
+                                              originalChoiceId = parts[parts.length - 2];
+                                            }
+                                          }
                                           
                                           // Debug callback: Answer select
                                           DebugService.instance.onAnswerSelect(

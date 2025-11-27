@@ -9,14 +9,36 @@
     "explanationTemplate": "Use 'that' or 'which' for things in restrictive clauses. 'That' is more common in restrictive clauses.",
     "exampleSentence": "The movie that we watched last night was excellent.",
     "choices": [
-      {"choiceId": "a", "text": "The movie that we watched last night was excellent.", "isCorrect": true},
-      {"choiceId": "b", "text": "The movie, that we watched last night, was excellent.", "isCorrect": false},
-      {"choiceId": "c", "text": "The movie which we watched last night, was excellent.", "isCorrect": false},
-      {"choiceId": "d", "text": "The movie, which we watched last night was excellent.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The movie that we watched last night was excellent.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The movie, that we watched last night, was excellent.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The movie which we watched last night, was excellent.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The movie, which we watched last night was excellent.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"},
-      {"tagType": "interest", "tagValue": "film"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "film"
+      }
     ]
   },
   {
@@ -29,14 +51,36 @@
     "explanationTemplate": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things.",
     "exampleSentence": "The book, whose cover is torn, needs to be replaced.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "whose", "isCorrect": true},
-      {"choiceId": "d", "text": "who", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "whose",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "who",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"},
-      {"tagType": "interest", "tagValue": "literature"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "literature"
+      }
     ]
   },
   {
@@ -49,13 +93,32 @@
     "explanationTemplate": "Use 'where' for places in adjective clauses. 'The city' refers to a location, so use 'where'.",
     "exampleSentence": "Tokyo is the city where I was born.",
     "choices": [
-      {"choiceId": "a", "text": "Tokyo is the city which I was born.", "isCorrect": false},
-      {"choiceId": "b", "text": "Tokyo is the city where I was born.", "isCorrect": true},
-      {"choiceId": "c", "text": "Tokyo is the city that I was born.", "isCorrect": false},
-      {"choiceId": "d", "text": "Tokyo is the city who I was born.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "Tokyo is the city which I was born.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "Tokyo is the city where I was born.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "Tokyo is the city that I was born.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "Tokyo is the city who I was born.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -68,13 +131,32 @@
     "explanationTemplate": "Use 'whom' (or 'who' in informal English) for people as objects in adjective clauses. 'The teacher' is the object of 'met'.",
     "exampleSentence": "The teacher whom I met yesterday is very experienced.",
     "choices": [
-      {"choiceId": "a", "text": "The teacher which I met yesterday is very experienced.", "isCorrect": false},
-      {"choiceId": "b", "text": "The teacher who I met yesterday is very experienced.", "isCorrect": false},
-      {"choiceId": "c", "text": "The teacher whom I met yesterday is very experienced.", "isCorrect": true},
-      {"choiceId": "d", "text": "The teacher that I met yesterday, is very experienced.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The teacher which I met yesterday is very experienced.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "The teacher who I met yesterday is very experienced.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The teacher whom I met yesterday is very experienced.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "The teacher that I met yesterday, is very experienced.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -87,13 +169,32 @@
     "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened.",
     "exampleSentence": "The reason why I called you is important.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "why", "isCorrect": true},
-      {"choiceId": "d", "text": "when", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "why",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "when",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -106,14 +207,36 @@
     "explanationTemplate": "Use 'so' or 'therefore' to show cause and effect. 'So' is more common in informal English.",
     "exampleSentence": "He studied hard, so he passed the exam.",
     "choices": [
-      {"choiceId": "a", "text": "He studied hard, he passed the exam.", "isCorrect": false},
-      {"choiceId": "b", "text": "He studied hard, so he passed the exam.", "isCorrect": true},
-      {"choiceId": "c", "text": "He studied hard. So he passed the exam.", "isCorrect": false},
-      {"choiceId": "d", "text": "He studied hard so he passed the exam.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "He studied hard, he passed the exam.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "He studied hard, so he passed the exam.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "He studied hard. So he passed the exam.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "He studied hard so he passed the exam.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -126,14 +249,36 @@
     "explanationTemplate": "Use 'but' or 'however' to show contrast. 'But' is more common and doesn't need a comma before it when connecting two independent clauses.",
     "exampleSentence": "She loves music, but she can't play any instrument.",
     "choices": [
-      {"choiceId": "a", "text": "She loves music, but she can't play any instrument.", "isCorrect": true},
-      {"choiceId": "b", "text": "She loves music, she can't play any instrument.", "isCorrect": false},
-      {"choiceId": "c", "text": "She loves music. But she can't play any instrument.", "isCorrect": false},
-      {"choiceId": "d", "text": "She loves music but, she can't play any instrument.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "She loves music, but she can't play any instrument.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "She loves music, she can't play any instrument.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "She loves music. But she can't play any instrument.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "She loves music but, she can't play any instrument.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"},
-      {"tagType": "interest", "tagValue": "k-pop"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "k-pop"
+      }
     ]
   },
   {
@@ -146,13 +291,32 @@
     "explanationTemplate": "Use 'but' or 'however' to show unexpected contrast. 'But' connects the clauses directly.",
     "exampleSentence": "I was late, but I still caught the train.",
     "choices": [
-      {"choiceId": "a", "text": "I was late, I still caught the train.", "isCorrect": false},
-      {"choiceId": "b", "text": "I was late. But I still caught the train.", "isCorrect": false},
-      {"choiceId": "c", "text": "I was late, but I still caught the train.", "isCorrect": true},
-      {"choiceId": "d", "text": "I was late but, I still caught the train.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "I was late, I still caught the train.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "I was late. But I still caught the train.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "I was late, but I still caught the train.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "I was late but, I still caught the train.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      }
     ]
   },
   {
@@ -165,13 +329,32 @@
     "explanationTemplate": "Use 'but' to show contrast between two ideas. 'But' connects contrasting clauses.",
     "exampleSentence": "I wanted to go to the party, but I had too much work.",
     "choices": [
-      {"choiceId": "a", "text": "and", "isCorrect": false},
-      {"choiceId": "b", "text": "but", "isCorrect": true},
-      {"choiceId": "c", "text": "so", "isCorrect": false},
-      {"choiceId": "d", "text": "or", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "and",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "but",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "so",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "or",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      }
     ]
   },
   {
@@ -184,13 +367,32 @@
     "explanationTemplate": "Use object pronouns (me, you, him, her, us, them) after prepositions like 'between'. 'Between you and me' is correct.",
     "exampleSentence": "Between you and me, I think this is a bad idea.",
     "choices": [
-      {"choiceId": "a", "text": "I", "isCorrect": false},
-      {"choiceId": "b", "text": "me", "isCorrect": true},
-      {"choiceId": "c", "text": "myself", "isCorrect": false},
-      {"choiceId": "d", "text": "my", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "I",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "me",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "myself",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "my",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -203,13 +405,32 @@
     "explanationTemplate": "Use reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) when the subject and object are the same.",
     "exampleSentence": "The students should do the homework themselves.",
     "choices": [
-      {"choiceId": "a", "text": "them", "isCorrect": false},
-      {"choiceId": "b", "text": "themselves", "isCorrect": true},
-      {"choiceId": "c", "text": "they", "isCorrect": false},
-      {"choiceId": "d", "text": "their", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "them",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "themselves",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "their",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -222,13 +443,32 @@
     "explanationTemplate": "Use 'his or her' (or 'their' in modern English) with 'everyone'. 'Everyone' is singular, so traditionally use 'his or her'.",
     "exampleSentence": "Everyone should bring his or her own lunch.",
     "choices": [
-      {"choiceId": "a", "text": "their", "isCorrect": false},
-      {"choiceId": "b", "text": "they", "isCorrect": false},
-      {"choiceId": "c", "text": "his or her", "isCorrect": true},
-      {"choiceId": "d", "text": "them", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "their",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "his or her",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "them",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -241,13 +481,32 @@
     "explanationTemplate": "Use 'his or her' (or 'their' in modern English) with 'neither of'. 'Neither' is singular.",
     "exampleSentence": "Neither of the students brought his or her book.",
     "choices": [
-      {"choiceId": "a", "text": "their", "isCorrect": false},
-      {"choiceId": "b", "text": "his or her", "isCorrect": true},
-      {"choiceId": "c", "text": "they", "isCorrect": false},
-      {"choiceId": "d", "text": "them", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "their",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "his or her",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "them",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -260,13 +519,32 @@
     "explanationTemplate": "Use 'who' for people as subjects in relative clauses. 'The doctor' is a person and the subject, so use 'who'.",
     "exampleSentence": "The doctor who treated me was very kind.",
     "choices": [
-      {"choiceId": "a", "text": "The doctor who treated me was very kind.", "isCorrect": true},
-      {"choiceId": "b", "text": "The doctor which treated me was very kind.", "isCorrect": false},
-      {"choiceId": "c", "text": "The doctor that treated me, was very kind.", "isCorrect": false},
-      {"choiceId": "d", "text": "The doctor whom treated me was very kind.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The doctor who treated me was very kind.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The doctor which treated me was very kind.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The doctor that treated me, was very kind.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The doctor whom treated me was very kind.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   },
   {
@@ -279,13 +557,32 @@
     "explanationTemplate": "Use 'where' for places in relative clauses. 'The company' refers to a place (location), so use 'where'.",
     "exampleSentence": "The company where I work is very large.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "where", "isCorrect": true},
-      {"choiceId": "d", "text": "who", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "where",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "who",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   },
   {
@@ -298,13 +595,32 @@
     "explanationTemplate": "Use 'which' for non-restrictive clauses (with commas). 'That' cannot be used with commas.",
     "exampleSentence": "My car, which is red, needs to be washed.",
     "choices": [
-      {"choiceId": "a", "text": "My car, that is red, needs to be washed.", "isCorrect": false},
-      {"choiceId": "b", "text": "My car, which is red, needs to be washed.", "isCorrect": true},
-      {"choiceId": "c", "text": "My car which is red, needs to be washed.", "isCorrect": false},
-      {"choiceId": "d", "text": "My car, which is red needs to be washed.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "My car, that is red, needs to be washed.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "My car, which is red, needs to be washed.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "My car which is red, needs to be washed.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "My car, which is red needs to be washed.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   },
   {
@@ -317,14 +633,36 @@
     "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Interesting' starts with a vowel sound.",
     "exampleSentence": "I saw an interesting movie yesterday.",
     "choices": [
-      {"choiceId": "a", "text": "an", "isCorrect": true},
-      {"choiceId": "b", "text": "a", "isCorrect": false},
-      {"choiceId": "c", "text": "the", "isCorrect": false},
-      {"choiceId": "d", "text": "no article", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "an",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "the",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "no article",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"},
-      {"tagType": "interest", "tagValue": "film"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "film"
+      }
     ]
   },
   {
@@ -337,13 +675,32 @@
     "explanationTemplate": "'A number of' is plural, so use 'are'. 'The number of' would be singular.",
     "exampleSentence": "A number of students are absent today.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "are", "isCorrect": true},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -356,13 +713,32 @@
     "explanationTemplate": "Use future passive: 'will be + past participle'. 'Will be being' is not used; use 'will be + past participle' instead.",
     "exampleSentence": "The new bridge will be built next year.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "will be", "isCorrect": true},
-      {"choiceId": "c", "text": "has", "isCorrect": false},
-      {"choiceId": "d", "text": "was", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "will be",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "has",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "was",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -375,13 +751,32 @@
     "explanationTemplate": "In reported speech, 'can' becomes 'could'. Present modals change to past modals.",
     "exampleSentence": "She said that she could help me.",
     "choices": [
-      {"choiceId": "a", "text": "She said that she can help me.", "isCorrect": false},
-      {"choiceId": "b", "text": "She said that she could help me.", "isCorrect": true},
-      {"choiceId": "c", "text": "She said that she will help me.", "isCorrect": false},
-      {"choiceId": "d", "text": "She said she helps me.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "She said that she can help me.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "She said that she could help me.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "She said that she will help me.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "She said she helps me.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -394,14 +789,36 @@
     "explanationTemplate": "Use 'that' or 'which' for things. In restrictive clauses, 'that' is preferred. No comma needed.",
     "exampleSentence": "The song that I heard yesterday was beautiful.",
     "choices": [
-      {"choiceId": "a", "text": "The song that I heard yesterday was beautiful.", "isCorrect": true},
-      {"choiceId": "b", "text": "The song, that I heard yesterday, was beautiful.", "isCorrect": false},
-      {"choiceId": "c", "text": "The song which I heard yesterday, was beautiful.", "isCorrect": false},
-      {"choiceId": "d", "text": "The song, which I heard yesterday was beautiful.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The song that I heard yesterday was beautiful.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The song, that I heard yesterday, was beautiful.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The song which I heard yesterday, was beautiful.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The song, which I heard yesterday was beautiful.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"},
-      {"tagType": "interest", "tagValue": "k-pop"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "k-pop"
+      }
     ]
   },
   {
@@ -414,13 +831,32 @@
     "explanationTemplate": "Use 'when' for time in adjective clauses. 'The day' refers to a time, so use 'when'.",
     "exampleSentence": "The day when I met you was the best day of my life.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "when", "isCorrect": true},
-      {"choiceId": "d", "text": "where", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "when",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "where",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -433,14 +869,36 @@
     "explanationTemplate": "Use 'whom' (or 'who' in informal English) for people as objects. 'The actor' is the object of 'admire'.",
     "exampleSentence": "The actor whom I admire most is very talented.",
     "choices": [
-      {"choiceId": "a", "text": "The actor which I admire most is very talented.", "isCorrect": false},
-      {"choiceId": "b", "text": "The actor who I admire most is very talented.", "isCorrect": false},
-      {"choiceId": "c", "text": "The actor whom I admire most is very talented.", "isCorrect": true},
-      {"choiceId": "d", "text": "The actor that I admire most, is very talented.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The actor which I admire most is very talented.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "The actor who I admire most is very talented.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The actor whom I admire most is very talented.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "The actor that I admire most, is very talented.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"},
-      {"tagType": "interest", "tagValue": "film"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "film"
+      }
     ]
   },
   {
@@ -453,13 +911,32 @@
     "explanationTemplate": "Use 'so' to show cause and effect. 'So' connects the reason and the result.",
     "exampleSentence": "I was hungry, so I ate a sandwich.",
     "choices": [
-      {"choiceId": "a", "text": "I was hungry, I ate a sandwich.", "isCorrect": false},
-      {"choiceId": "b", "text": "I was hungry, so I ate a sandwich.", "isCorrect": true},
-      {"choiceId": "c", "text": "I was hungry. So I ate a sandwich.", "isCorrect": false},
-      {"choiceId": "d", "text": "I was hungry so I ate a sandwich.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "I was hungry, I ate a sandwich.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "I was hungry, so I ate a sandwich.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "I was hungry. So I ate a sandwich.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "I was hungry so I ate a sandwich.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      }
     ]
   },
   {
@@ -472,14 +949,36 @@
     "explanationTemplate": "Use 'but' to show unexpected contrast. 'But' connects contrasting ideas.",
     "exampleSentence": "She studied all night, but she was still tired in the morning.",
     "choices": [
-      {"choiceId": "a", "text": "She studied all night, but she was still tired in the morning.", "isCorrect": true},
-      {"choiceId": "b", "text": "She studied all night, she was still tired in the morning.", "isCorrect": false},
-      {"choiceId": "c", "text": "She studied all night. But she was still tired in the morning.", "isCorrect": false},
-      {"choiceId": "d", "text": "She studied all night but, she was still tired in the morning.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "She studied all night, but she was still tired in the morning.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "She studied all night, she was still tired in the morning.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "She studied all night. But she was still tired in the morning.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "She studied all night but, she was still tired in the morning.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -492,14 +991,36 @@
     "explanationTemplate": "Use 'but' to show contrast between what you want and what you must do.",
     "exampleSentence": "I wanted to watch the movie, but I had to finish my homework first.",
     "choices": [
-      {"choiceId": "a", "text": "and", "isCorrect": false},
-      {"choiceId": "b", "text": "but", "isCorrect": true},
-      {"choiceId": "c", "text": "so", "isCorrect": false},
-      {"choiceId": "d", "text": "or", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "and",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "but",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "so",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "or",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"},
-      {"tagType": "interest", "tagValue": "film"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "film"
+      }
     ]
   },
   {
@@ -512,13 +1033,32 @@
     "explanationTemplate": "Use possessive pronouns (my, your, his, her, its, our, their) to show ownership. 'Students' is plural, so use 'their'.",
     "exampleSentence": "The teacher gave the students their homework.",
     "choices": [
-      {"choiceId": "a", "text": "they", "isCorrect": false},
-      {"choiceId": "b", "text": "them", "isCorrect": false},
-      {"choiceId": "c", "text": "their", "isCorrect": true},
-      {"choiceId": "d", "text": "theirs", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "them",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "their",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "theirs",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -531,13 +1071,32 @@
     "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'She' cut 'herself'.",
     "exampleSentence": "She cut herself while cooking.",
     "choices": [
-      {"choiceId": "a", "text": "her", "isCorrect": false},
-      {"choiceId": "b", "text": "herself", "isCorrect": true},
-      {"choiceId": "c", "text": "she", "isCorrect": false},
-      {"choiceId": "d", "text": "hers", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "her",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "herself",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "she",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "hers",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -550,13 +1109,32 @@
     "explanationTemplate": "Use 'their' with 'both of' because 'both' refers to multiple people. 'Both' is plural.",
     "exampleSentence": "Both of the students finished their assignments.",
     "choices": [
-      {"choiceId": "a", "text": "his or her", "isCorrect": false},
-      {"choiceId": "b", "text": "their", "isCorrect": true},
-      {"choiceId": "c", "text": "they", "isCorrect": false},
-      {"choiceId": "d", "text": "them", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "his or her",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "their",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "them",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -569,14 +1147,36 @@
     "explanationTemplate": "Use 'who' for people as subjects. 'The writer' is a person and the subject, so use 'who'.",
     "exampleSentence": "The writer who wrote this novel is very famous.",
     "choices": [
-      {"choiceId": "a", "text": "The writer who wrote this novel is very famous.", "isCorrect": true},
-      {"choiceId": "b", "text": "The writer which wrote this novel is very famous.", "isCorrect": false},
-      {"choiceId": "c", "text": "The writer that wrote this novel, is very famous.", "isCorrect": false},
-      {"choiceId": "d", "text": "The writer whom wrote this novel is very famous.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The writer who wrote this novel is very famous.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The writer which wrote this novel is very famous.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The writer that wrote this novel, is very famous.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The writer whom wrote this novel is very famous.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"},
-      {"tagType": "interest", "tagValue": "literature"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "literature"
+      }
     ]
   },
   {
@@ -589,13 +1189,32 @@
     "explanationTemplate": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'.",
     "exampleSentence": "The restaurant where we had dinner was expensive.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "where", "isCorrect": true},
-      {"choiceId": "d", "text": "who", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "where",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "who",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   },
   {
@@ -608,13 +1227,32 @@
     "explanationTemplate": "Use 'which' for non-restrictive clauses (with commas). 'That' cannot be used with commas.",
     "exampleSentence": "My laptop, which I bought last year, is already slow.",
     "choices": [
-      {"choiceId": "a", "text": "My laptop, that I bought last year, is already slow.", "isCorrect": false},
-      {"choiceId": "b", "text": "My laptop, which I bought last year, is already slow.", "isCorrect": true},
-      {"choiceId": "c", "text": "My laptop which I bought last year, is already slow.", "isCorrect": false},
-      {"choiceId": "d", "text": "My laptop, which I bought last year is already slow.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "My laptop, that I bought last year, is already slow.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "My laptop, which I bought last year, is already slow.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "My laptop which I bought last year, is already slow.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "My laptop, which I bought last year is already slow.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   },
   {
@@ -627,13 +1265,32 @@
     "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Umbrella' starts with a vowel sound.",
     "exampleSentence": "I need an umbrella because it's raining.",
     "choices": [
-      {"choiceId": "a", "text": "an", "isCorrect": true},
-      {"choiceId": "b", "text": "a", "isCorrect": false},
-      {"choiceId": "c", "text": "the", "isCorrect": false},
-      {"choiceId": "d", "text": "no article", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "an",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "the",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "no article",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      }
     ]
   },
   {
@@ -642,17 +1299,36 @@
     "difficulty": 3,
     "topicId": 6,
     "prompt": "Fill in the blank: '_____ Pacific Ocean is the largest ocean.'",
-    "answer": "the",
+    "answer": "c",
     "explanationTemplate": "Use 'the' with unique geographical features like oceans, seas, rivers, and mountain ranges.",
     "exampleSentence": "The Pacific Ocean is the largest ocean.",
     "choices": [
-      {"choiceId": "a", "text": "A", "isCorrect": false},
-      {"choiceId": "b", "text": "An", "isCorrect": false},
-      {"choiceId": "c", "text": "The", "isCorrect": true},
-      {"choiceId": "d", "text": "No article", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "An",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "No article",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      }
     ]
   },
   {
@@ -665,13 +1341,32 @@
     "explanationTemplate": "Use no article with uncountable nouns when speaking in general. 'Coffee' is uncountable and general here.",
     "exampleSentence": "I love coffee in the morning.",
     "choices": [
-      {"choiceId": "a", "text": "a", "isCorrect": false},
-      {"choiceId": "b", "text": "an", "isCorrect": false},
-      {"choiceId": "c", "text": "the", "isCorrect": false},
-      {"choiceId": "d", "text": "no article", "isCorrect": true}
+      {
+        "choiceId": "a",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "an",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "the",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "no article",
+        "isCorrect": true
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      }
     ]
   },
   {
@@ -684,13 +1379,32 @@
     "explanationTemplate": "With 'either...or', the verb agrees with the subject closest to it. 'Students' is plural, so use 'are'.",
     "exampleSentence": "Either the teacher or the students are wrong.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "was", "isCorrect": false},
-      {"choiceId": "c", "text": "are", "isCorrect": true},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "are",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -703,13 +1417,32 @@
     "explanationTemplate": "'Team' can be singular (as a group) or plural (as individuals). Here it's treated as singular, so use 'is'.",
     "exampleSentence": "The team is celebrating their victory.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": true},
-      {"choiceId": "b", "text": "are", "isCorrect": false},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -722,13 +1455,32 @@
     "explanationTemplate": "'Each of' is singular, so use 'has' (not 'have'). 'Each' always takes a singular verb.",
     "exampleSentence": "Each of the students has a different book.",
     "choices": [
-      {"choiceId": "a", "text": "has", "isCorrect": true},
-      {"choiceId": "b", "text": "have", "isCorrect": false},
-      {"choiceId": "c", "text": "is", "isCorrect": false},
-      {"choiceId": "d", "text": "are", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "has",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "have",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "are",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -741,13 +1493,32 @@
     "explanationTemplate": "Passive voice: be + past participle. The object becomes the subject, and the original subject becomes optional (with 'by').",
     "exampleSentence": "A delicious meal was cooked by the chef.",
     "choices": [
-      {"choiceId": "a", "text": "The chef was cooked a delicious meal.", "isCorrect": false},
-      {"choiceId": "b", "text": "A delicious meal was cooked by the chef.", "isCorrect": true},
-      {"choiceId": "c", "text": "A delicious meal cooked by the chef.", "isCorrect": false},
-      {"choiceId": "d", "text": "A delicious meal is cooking by the chef.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The chef was cooked a delicious meal.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "A delicious meal was cooked by the chef.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "A delicious meal cooked by the chef.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "A delicious meal is cooking by the chef.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -760,13 +1531,32 @@
     "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
     "exampleSentence": "The problem was solved by the team yesterday.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "was", "isCorrect": true},
-      {"choiceId": "c", "text": "has", "isCorrect": false},
-      {"choiceId": "d", "text": "had", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "was",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "has",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "had",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -779,13 +1569,32 @@
     "explanationTemplate": "Use present continuous passive: 'is/are being + past participle'. 'They are building' becomes 'A new school is being built'.",
     "exampleSentence": "A new school is being built.",
     "choices": [
-      {"choiceId": "a", "text": "A new school is building.", "isCorrect": false},
-      {"choiceId": "b", "text": "A new school is built.", "isCorrect": false},
-      {"choiceId": "c", "text": "A new school is being built.", "isCorrect": true},
-      {"choiceId": "d", "text": "A new school has built.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "A new school is building.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "A new school is built.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "A new school is being built.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "A new school has built.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -798,13 +1607,32 @@
     "explanationTemplate": "In reported speech, present perfect continuous becomes past perfect continuous. 'I have been waiting' becomes 'he had been waiting'.",
     "exampleSentence": "He said that he had been waiting for an hour.",
     "choices": [
-      {"choiceId": "a", "text": "He said that he has been waiting for an hour.", "isCorrect": false},
-      {"choiceId": "b", "text": "He said that he is waiting for an hour.", "isCorrect": false},
-      {"choiceId": "c", "text": "He said that he had been waiting for an hour.", "isCorrect": true},
-      {"choiceId": "d", "text": "He said he waits for an hour.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "He said that he has been waiting for an hour.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "He said that he is waiting for an hour.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "He said that he had been waiting for an hour.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "He said he waits for an hour.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -817,13 +1645,32 @@
     "explanationTemplate": "In reported speech, 'will' becomes 'would'. Future tense changes to conditional.",
     "exampleSentence": "She said that she would call me later.",
     "choices": [
-      {"choiceId": "a", "text": "will", "isCorrect": false},
-      {"choiceId": "b", "text": "would", "isCorrect": true},
-      {"choiceId": "c", "text": "can", "isCorrect": false},
-      {"choiceId": "d", "text": "could", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "will",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "would",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "can",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "could",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -836,13 +1683,32 @@
     "explanationTemplate": "Questions in reported speech use 'asked' and change word order. 'What time is it?' becomes 'he asked what time it was'.",
     "exampleSentence": "He asked what time it was.",
     "choices": [
-      {"choiceId": "a", "text": "He asked what time is it.", "isCorrect": false},
-      {"choiceId": "b", "text": "He asked what time it was.", "isCorrect": true},
-      {"choiceId": "c", "text": "He asked what time was it.", "isCorrect": false},
-      {"choiceId": "d", "text": "He asked what time it is.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "He asked what time is it.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "He asked what time it was.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "He asked what time was it.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "He asked what time it is.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -855,13 +1721,32 @@
     "explanationTemplate": "Use 'on' for specific days of the week. 'Monday' is a specific day, so use 'on'.",
     "exampleSentence": "I will see you on Monday.",
     "choices": [
-      {"choiceId": "a", "text": "in", "isCorrect": false},
-      {"choiceId": "b", "text": "at", "isCorrect": false},
-      {"choiceId": "c", "text": "on", "isCorrect": true},
-      {"choiceId": "d", "text": "by", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "in",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "at",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "on",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "by",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "prepositions_time"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "prepositions_time"
+      }
     ]
   },
   {
@@ -874,13 +1759,32 @@
     "explanationTemplate": "Use 'afraid of' (not 'afraid from' or 'afraid about'). 'Of' follows 'afraid'.",
     "exampleSentence": "She is afraid of spiders.",
     "choices": [
-      {"choiceId": "a", "text": "from", "isCorrect": false},
-      {"choiceId": "b", "text": "of", "isCorrect": true},
-      {"choiceId": "c", "text": "about", "isCorrect": false},
-      {"choiceId": "d", "text": "with", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "from",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "of",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "about",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "with",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "prepositions"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "prepositions"
+      }
     ]
   },
   {
@@ -893,13 +1797,32 @@
     "explanationTemplate": "Use 'look forward to + noun/gerund'. 'To' is a preposition here, so it's followed by a noun or gerund.",
     "exampleSentence": "I'm looking forward to meeting you.",
     "choices": [
-      {"choiceId": "a", "text": "for", "isCorrect": false},
-      {"choiceId": "b", "text": "to", "isCorrect": true},
-      {"choiceId": "c", "text": "at", "isCorrect": false},
-      {"choiceId": "d", "text": "on", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "for",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "to",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "at",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "on",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "prepositions"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "prepositions"
+      }
     ]
   },
   {
@@ -912,13 +1835,32 @@
     "explanationTemplate": "Use 'must not' to express prohibition. 'Must not' means something is not allowed.",
     "exampleSentence": "You must not enter without permission.",
     "choices": [
-      {"choiceId": "a", "text": "must", "isCorrect": true},
-      {"choiceId": "b", "text": "should", "isCorrect": false},
-      {"choiceId": "c", "text": "can", "isCorrect": false},
-      {"choiceId": "d", "text": "may", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "must",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "should",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "can",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "may",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "modals_prohibition"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "modals_prohibition"
+      }
     ]
   },
   {
@@ -931,13 +1873,32 @@
     "explanationTemplate": "Use 'must have + past participle' to express a logical conclusion about a past event. The evidence suggests she left.",
     "exampleSentence": "She must have left already. Her car is gone.",
     "choices": [
-      {"choiceId": "a", "text": "must", "isCorrect": true},
-      {"choiceId": "b", "text": "should", "isCorrect": false},
-      {"choiceId": "c", "text": "could", "isCorrect": false},
-      {"choiceId": "d", "text": "might", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "must",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "should",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "could",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "might",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "modals_deduction"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "modals_deduction"
+      }
     ]
   },
   {
@@ -950,13 +1911,32 @@
     "explanationTemplate": "This is a second conditional. Use simple past in the if-clause for hypothetical present situations.",
     "exampleSentence": "If I had enough money, I would buy a new car.",
     "choices": [
-      {"choiceId": "a", "text": "have", "isCorrect": false},
-      {"choiceId": "b", "text": "had", "isCorrect": true},
-      {"choiceId": "c", "text": "will have", "isCorrect": false},
-      {"choiceId": "d", "text": "would have", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "have",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "had",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "will have",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "would have",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "conditional_2"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "conditional_2"
+      }
     ]
   },
   {
@@ -969,13 +1949,32 @@
     "explanationTemplate": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations.",
     "exampleSentence": "If she had studied harder, she would have passed.",
     "choices": [
-      {"choiceId": "a", "text": "have", "isCorrect": false},
-      {"choiceId": "b", "text": "had", "isCorrect": true},
-      {"choiceId": "c", "text": "would", "isCorrect": false},
-      {"choiceId": "d", "text": "was", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "have",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "had",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "would",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "was",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "conditional_3"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "conditional_3"
+      }
     ]
   },
   {
@@ -988,14 +1987,36 @@
     "explanationTemplate": "Use present perfect continuous (have/has been + verb-ing) for actions that started in the past and continue to now.",
     "exampleSentence": "I have been working on this project for three hours.",
     "choices": [
-      {"choiceId": "a", "text": "work", "isCorrect": false},
-      {"choiceId": "b", "text": "worked", "isCorrect": false},
-      {"choiceId": "c", "text": "have been working", "isCorrect": true},
-      {"choiceId": "d", "text": "am working", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "work",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "worked",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "have been working",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "am working",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "tense", "tagValue": "present"},
-      {"tagType": "grammar_point", "tagValue": "present_perfect_continuous"}
+      {
+        "tagType": "tense",
+        "tagValue": "present"
+      },
+      {
+        "tagType": "grammar_point",
+        "tagValue": "present_perfect_continuous"
+      }
     ]
   },
   {
@@ -1008,14 +2029,36 @@
     "explanationTemplate": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time.",
     "exampleSentence": "By next year, I will have been living here for five years.",
     "choices": [
-      {"choiceId": "a", "text": "will be", "isCorrect": false},
-      {"choiceId": "b", "text": "will have been", "isCorrect": true},
-      {"choiceId": "c", "text": "have been", "isCorrect": false},
-      {"choiceId": "d", "text": "am", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "will be",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "will have been",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "have been",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "am",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "tense", "tagValue": "future"},
-      {"tagType": "grammar_point", "tagValue": "future_perfect_continuous"}
+      {
+        "tagType": "tense",
+        "tagValue": "future"
+      },
+      {
+        "tagType": "grammar_point",
+        "tagValue": "future_perfect_continuous"
+      }
     ]
   },
   {
@@ -1028,13 +2071,32 @@
     "explanationTemplate": "Use 'that' or 'which' for things in restrictive clauses. 'That' is preferred in restrictive clauses.",
     "exampleSentence": "The phone that I bought yesterday is already broken.",
     "choices": [
-      {"choiceId": "a", "text": "The phone that I bought yesterday is already broken.", "isCorrect": true},
-      {"choiceId": "b", "text": "The phone, that I bought yesterday, is already broken.", "isCorrect": false},
-      {"choiceId": "c", "text": "The phone which I bought yesterday, is already broken.", "isCorrect": false},
-      {"choiceId": "d", "text": "The phone, which I bought yesterday is already broken.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The phone that I bought yesterday is already broken.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The phone, that I bought yesterday, is already broken.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The phone which I bought yesterday, is already broken.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The phone, which I bought yesterday is already broken.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -1047,13 +2109,32 @@
     "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened.",
     "exampleSentence": "The reason why she left is still unknown.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "why", "isCorrect": true},
-      {"choiceId": "d", "text": "when", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "why",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "when",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -1066,14 +2147,36 @@
     "explanationTemplate": "Use 'whom' (or 'who' in informal English) for people as objects. 'The professor' is the object of 'respect'.",
     "exampleSentence": "The professor whom I respect most is retiring this year.",
     "choices": [
-      {"choiceId": "a", "text": "The professor which I respect most is retiring this year.", "isCorrect": false},
-      {"choiceId": "b", "text": "The professor whom I respect most is retiring this year.", "isCorrect": true},
-      {"choiceId": "c", "text": "The professor who I respect most, is retiring this year.", "isCorrect": false},
-      {"choiceId": "d", "text": "The professor that I respect most, is retiring this year.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The professor which I respect most is retiring this year.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "The professor whom I respect most is retiring this year.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "The professor who I respect most, is retiring this year.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The professor that I respect most, is retiring this year.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -1086,13 +2189,32 @@
     "explanationTemplate": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things.",
     "exampleSentence": "The company whose profits increased is expanding.",
     "choices": [
-      {"choiceId": "a", "text": "The company whose profits increased is expanding.", "isCorrect": true},
-      {"choiceId": "b", "text": "The company which profits increased is expanding.", "isCorrect": false},
-      {"choiceId": "c", "text": "The company that profits increased is expanding.", "isCorrect": false},
-      {"choiceId": "d", "text": "The company who profits increased is expanding.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The company whose profits increased is expanding.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The company which profits increased is expanding.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The company that profits increased is expanding.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The company who profits increased is expanding.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -1105,13 +2227,32 @@
     "explanationTemplate": "Use 'when' for time in adjective clauses. 'The moment' refers to a time, so use 'when'.",
     "exampleSentence": "The moment when I saw her, I knew she was special.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "when", "isCorrect": true},
-      {"choiceId": "d", "text": "where", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "when",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "where",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "adjective_clauses"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "adjective_clauses"
+      }
     ]
   },
   {
@@ -1124,13 +2265,32 @@
     "explanationTemplate": "Use possessive pronouns (mine, yours, his, hers, ours, theirs) to show ownership without a noun. 'Mine' means 'my book'.",
     "exampleSentence": "The book is mine, not yours.",
     "choices": [
-      {"choiceId": "a", "text": "my", "isCorrect": false},
-      {"choiceId": "b", "text": "mine", "isCorrect": true},
-      {"choiceId": "c", "text": "me", "isCorrect": false},
-      {"choiceId": "d", "text": "I", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "my",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "mine",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "me",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "I",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -1143,14 +2303,36 @@
     "explanationTemplate": "Use 'one's' (possessive form of 'one') when using 'one' as a pronoun. 'One' is formal and singular.",
     "exampleSentence": "One should always do one's best.",
     "choices": [
-      {"choiceId": "a", "text": "ones", "isCorrect": false},
-      {"choiceId": "b", "text": "one's", "isCorrect": true},
-      {"choiceId": "c", "text": "oneself", "isCorrect": false},
-      {"choiceId": "d", "text": "their", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "ones",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "one's",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "oneself",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "their",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -1163,13 +2345,32 @@
     "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'The children' enjoyed 'themselves'.",
     "exampleSentence": "The children enjoyed themselves at the park.",
     "choices": [
-      {"choiceId": "a", "text": "them", "isCorrect": false},
-      {"choiceId": "b", "text": "themselves", "isCorrect": true},
-      {"choiceId": "c", "text": "they", "isCorrect": false},
-      {"choiceId": "d", "text": "their", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "them",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "themselves",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "their",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -1182,13 +2383,32 @@
     "explanationTemplate": "In modern English, 'their' is commonly used with 'nobody', 'everyone', 'someone' etc., even though these are technically singular.",
     "exampleSentence": "Nobody brought their own lunch.",
     "choices": [
-      {"choiceId": "a", "text": "his or her", "isCorrect": false},
-      {"choiceId": "b", "text": "their", "isCorrect": true},
-      {"choiceId": "c", "text": "they", "isCorrect": false},
-      {"choiceId": "d", "text": "them", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "his or her",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "their",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "they",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "them",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -1201,13 +2421,32 @@
     "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'I' made it 'myself'.",
     "exampleSentence": "I made this cake myself.",
     "choices": [
-      {"choiceId": "a", "text": "me", "isCorrect": false},
-      {"choiceId": "b", "text": "myself", "isCorrect": true},
-      {"choiceId": "c", "text": "I", "isCorrect": false},
-      {"choiceId": "d", "text": "my", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "me",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "myself",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "I",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "my",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "pronouns"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "pronouns"
+      }
     ]
   },
   {
@@ -1220,13 +2459,32 @@
     "explanationTemplate": "Use 'so' to show cause and effect. 'So' connects the reason and the result.",
     "exampleSentence": "The weather was bad, so we decided to stay home.",
     "choices": [
-      {"choiceId": "a", "text": "The weather was bad, we decided to stay home.", "isCorrect": false},
-      {"choiceId": "b", "text": "The weather was bad, so we decided to stay home.", "isCorrect": true},
-      {"choiceId": "c", "text": "The weather was bad. So we decided to stay home.", "isCorrect": false},
-      {"choiceId": "d", "text": "The weather was bad so we decided to stay home.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The weather was bad, we decided to stay home.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "The weather was bad, so we decided to stay home.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "The weather was bad. So we decided to stay home.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The weather was bad so we decided to stay home.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      }
     ]
   },
   {
@@ -1239,14 +2497,36 @@
     "explanationTemplate": "Use 'because' to show cause and effect. 'Because' explains the reason.",
     "exampleSentence": "He failed the exam because he didn't study enough.",
     "choices": [
-      {"choiceId": "a", "text": "He failed the exam because he didn't study enough.", "isCorrect": true},
-      {"choiceId": "b", "text": "He failed the exam, he didn't study enough.", "isCorrect": false},
-      {"choiceId": "c", "text": "He failed the exam. Because he didn't study enough.", "isCorrect": false},
-      {"choiceId": "d", "text": "He failed the exam because, he didn't study enough.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "He failed the exam because he didn't study enough.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "He failed the exam, he didn't study enough.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "He failed the exam. Because he didn't study enough.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "He failed the exam because, he didn't study enough.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -1259,13 +2539,32 @@
     "explanationTemplate": "Use 'but' to show contrast between two different preferences or opinions.",
     "exampleSentence": "I like coffee, but my friend prefers tea.",
     "choices": [
-      {"choiceId": "a", "text": "and", "isCorrect": false},
-      {"choiceId": "b", "text": "but", "isCorrect": true},
-      {"choiceId": "c", "text": "so", "isCorrect": false},
-      {"choiceId": "d", "text": "or", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "and",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "but",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "so",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "or",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      }
     ]
   },
   {
@@ -1278,13 +2577,32 @@
     "explanationTemplate": "Use 'although' or 'even though' to show unexpected contrast. 'Although' introduces the contrasting idea.",
     "exampleSentence": "Although she was very tired, she continued working.",
     "choices": [
-      {"choiceId": "a", "text": "She was very tired, she continued working.", "isCorrect": false},
-      {"choiceId": "b", "text": "Although she was very tired, she continued working.", "isCorrect": true},
-      {"choiceId": "c", "text": "She was very tired. Although she continued working.", "isCorrect": false},
-      {"choiceId": "d", "text": "She was very tired although, she continued working.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "She was very tired, she continued working.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "Although she was very tired, she continued working.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "She was very tired. Although she continued working.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "She was very tired although, she continued working.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "sentence_combining"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "sentence_combining"
+      }
     ]
   },
   {
@@ -1297,13 +2615,32 @@
     "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Owl' starts with a vowel sound.",
     "exampleSentence": "I saw an owl in the tree.",
     "choices": [
-      {"choiceId": "a", "text": "an", "isCorrect": true},
-      {"choiceId": "b", "text": "a", "isCorrect": false},
-      {"choiceId": "c", "text": "the", "isCorrect": false},
-      {"choiceId": "d", "text": "no article", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "an",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "the",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "no article",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      }
     ]
   },
   {
@@ -1312,17 +2649,36 @@
     "difficulty": 3,
     "topicId": 6,
     "prompt": "Fill in the blank: '_____ United States is a large country.'",
-    "answer": "the",
+    "answer": "c",
     "explanationTemplate": "Use 'the' with country names that are plural or include words like 'United', 'Kingdom', 'Republic'.",
     "exampleSentence": "The United States is a large country.",
     "choices": [
-      {"choiceId": "a", "text": "A", "isCorrect": false},
-      {"choiceId": "b", "text": "An", "isCorrect": false},
-      {"choiceId": "c", "text": "The", "isCorrect": true},
-      {"choiceId": "d", "text": "No article", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "A",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "An",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "No article",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      }
     ]
   },
   {
@@ -1335,14 +2691,36 @@
     "explanationTemplate": "Use no article with uncountable nouns when speaking in general. 'Information' is uncountable and general here.",
     "exampleSentence": "I need information about this topic.",
     "choices": [
-      {"choiceId": "a", "text": "a", "isCorrect": false},
-      {"choiceId": "b", "text": "an", "isCorrect": false},
-      {"choiceId": "c", "text": "the", "isCorrect": false},
-      {"choiceId": "d", "text": "no article", "isCorrect": true}
+      {
+        "choiceId": "a",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "an",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "the",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "no article",
+        "isCorrect": true
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -1355,13 +2733,32 @@
     "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound (silent 'h').",
     "exampleSentence": "She is an honest person.",
     "choices": [
-      {"choiceId": "a", "text": "a", "isCorrect": false},
-      {"choiceId": "b", "text": "an", "isCorrect": true},
-      {"choiceId": "c", "text": "the", "isCorrect": false},
-      {"choiceId": "d", "text": "no article", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "a",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "an",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "the",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "no article",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "articles"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "articles"
+      }
     ]
   },
   {
@@ -1374,13 +2771,32 @@
     "explanationTemplate": "'News' is always singular, even though it ends with 's'. Use 'is' (not 'are').",
     "exampleSentence": "The news is very surprising.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": true},
-      {"choiceId": "b", "text": "are", "isCorrect": false},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -1393,13 +2809,32 @@
     "explanationTemplate": "With 'not only...but also', the verb agrees with the subject closest to it. 'Students' is plural, so use 'are'.",
     "exampleSentence": "Not only the teacher but also the students are excited.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "are", "isCorrect": true},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -1412,14 +2847,36 @@
     "explanationTemplate": "Subjects ending in '-ics' (mathematics, physics, economics) are usually singular. Use 'is'.",
     "exampleSentence": "Mathematics is my favorite subject.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": true},
-      {"choiceId": "b", "text": "are", "isCorrect": false},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"},
-      {"tagType": "interest", "tagValue": "academic_english"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "academic_english"
+      }
     ]
   },
   {
@@ -1432,13 +2889,32 @@
     "explanationTemplate": "'The group of' is singular, so use 'is'. The prepositional phrase 'of students' doesn't change the subject.",
     "exampleSentence": "The group of students is waiting outside.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": true},
-      {"choiceId": "b", "text": "are", "isCorrect": false},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "subject_verb_agreement"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "subject_verb_agreement"
+      }
     ]
   },
   {
@@ -1451,13 +2927,32 @@
     "explanationTemplate": "Passive voice: be + past participle. The object becomes the subject, and the original subject becomes optional (with 'by').",
     "exampleSentence": "The classroom was cleaned by the students.",
     "choices": [
-      {"choiceId": "a", "text": "The students were cleaned the classroom.", "isCorrect": false},
-      {"choiceId": "b", "text": "The classroom cleaned by the students.", "isCorrect": false},
-      {"choiceId": "c", "text": "The classroom was cleaned by the students.", "isCorrect": true},
-      {"choiceId": "d", "text": "The classroom is cleaning by the students.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The students were cleaned the classroom.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "The classroom cleaned by the students.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The classroom was cleaned by the students.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "The classroom is cleaning by the students.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -1470,13 +2965,32 @@
     "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
     "exampleSentence": "The report was written by the team last week.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "was", "isCorrect": true},
-      {"choiceId": "c", "text": "has", "isCorrect": false},
-      {"choiceId": "d", "text": "had", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "was",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "has",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "had",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -1489,13 +3003,32 @@
     "explanationTemplate": "Use present perfect passive: 'has/have been + past participle'. 'Has stolen' becomes 'has been stolen'.",
     "exampleSentence": "My wallet has been stolen.",
     "choices": [
-      {"choiceId": "a", "text": "My wallet has stolen.", "isCorrect": false},
-      {"choiceId": "b", "text": "My wallet has been stolen.", "isCorrect": true},
-      {"choiceId": "c", "text": "My wallet is stolen.", "isCorrect": false},
-      {"choiceId": "d", "text": "My wallet was stolen.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "My wallet has stolen.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "My wallet has been stolen.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "My wallet is stolen.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "My wallet was stolen.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -1508,13 +3041,32 @@
     "explanationTemplate": "Use simple present passive: 'is/are + past participle'. 'Windows' is plural, so use 'are'.",
     "exampleSentence": "The windows are cleaned every week.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "are", "isCorrect": true},
-      {"choiceId": "c", "text": "was", "isCorrect": false},
-      {"choiceId": "d", "text": "were", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "are",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "was",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "were",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "passive_voice"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "passive_voice"
+      }
     ]
   },
   {
@@ -1527,13 +3079,32 @@
     "explanationTemplate": "In reported speech, 'can' becomes 'could'. Present modals change to past modals.",
     "exampleSentence": "She said that she could speak three languages.",
     "choices": [
-      {"choiceId": "a", "text": "She said that she can speak three languages.", "isCorrect": false},
-      {"choiceId": "b", "text": "She said that she could speak three languages.", "isCorrect": true},
-      {"choiceId": "c", "text": "She said that she will speak three languages.", "isCorrect": false},
-      {"choiceId": "d", "text": "She said she speaks three languages.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "She said that she can speak three languages.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "She said that she could speak three languages.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "She said that she will speak three languages.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "She said she speaks three languages.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -1546,13 +3117,32 @@
     "explanationTemplate": "In reported speech, present continuous becomes past continuous. 'I'm leaving' becomes 'he was leaving'. Also, 'now' becomes 'then'.",
     "exampleSentence": "He said that he was leaving then.",
     "choices": [
-      {"choiceId": "a", "text": "is", "isCorrect": false},
-      {"choiceId": "b", "text": "was", "isCorrect": true},
-      {"choiceId": "c", "text": "will be", "isCorrect": false},
-      {"choiceId": "d", "text": "would be", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "is",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "was",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "will be",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "would be",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -1565,13 +3155,32 @@
     "explanationTemplate": "Questions in reported speech use 'asked' and change word order. 'Where do you live?' becomes 'she asked where I lived'.",
     "exampleSentence": "She asked where I lived.",
     "choices": [
-      {"choiceId": "a", "text": "She asked where do I live.", "isCorrect": false},
-      {"choiceId": "b", "text": "She asked where I live.", "isCorrect": false},
-      {"choiceId": "c", "text": "She asked where I lived.", "isCorrect": true},
-      {"choiceId": "d", "text": "She asked where did I live.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "She asked where do I live.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "She asked where I live.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "She asked where I lived.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "She asked where did I live.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -1584,13 +3193,32 @@
     "explanationTemplate": "In reported speech, simple past becomes past perfect. 'I saw' becomes 'she had seen'. Also, 'yesterday' becomes 'the day before'.",
     "exampleSentence": "She said that she had seen him the day before.",
     "choices": [
-      {"choiceId": "a", "text": "has", "isCorrect": false},
-      {"choiceId": "b", "text": "had", "isCorrect": true},
-      {"choiceId": "c", "text": "saw", "isCorrect": false},
-      {"choiceId": "d", "text": "sees", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "has",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "had",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "saw",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "sees",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "reported_speech"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "reported_speech"
+      }
     ]
   },
   {
@@ -1603,14 +3231,36 @@
     "explanationTemplate": "Use 'who' for people as subjects. 'The singer' is a person and the subject, so use 'who'.",
     "exampleSentence": "The singer who performed last night was amazing.",
     "choices": [
-      {"choiceId": "a", "text": "The singer who performed last night was amazing.", "isCorrect": true},
-      {"choiceId": "b", "text": "The singer which performed last night was amazing.", "isCorrect": false},
-      {"choiceId": "c", "text": "The singer that performed last night, was amazing.", "isCorrect": false},
-      {"choiceId": "d", "text": "The singer whom performed last night was amazing.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "The singer who performed last night was amazing.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "b",
+        "text": "The singer which performed last night was amazing.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "The singer that performed last night, was amazing.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "The singer whom performed last night was amazing.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"},
-      {"tagType": "interest", "tagValue": "k-pop"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      },
+      {
+        "tagType": "interest",
+        "tagValue": "k-pop"
+      }
     ]
   },
   {
@@ -1623,13 +3273,32 @@
     "explanationTemplate": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'.",
     "exampleSentence": "The house where I grew up is now demolished.",
     "choices": [
-      {"choiceId": "a", "text": "which", "isCorrect": false},
-      {"choiceId": "b", "text": "that", "isCorrect": false},
-      {"choiceId": "c", "text": "where", "isCorrect": true},
-      {"choiceId": "d", "text": "who", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "which",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "that",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "c",
+        "text": "where",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "d",
+        "text": "who",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   },
   {
@@ -1642,14 +3311,32 @@
     "explanationTemplate": "Use 'which' for non-restrictive clauses (with commas). 'That' cannot be used with commas.",
     "exampleSentence": "My phone, which I bought last month, is already broken.",
     "choices": [
-      {"choiceId": "a", "text": "My phone, that I bought last month, is already broken.", "isCorrect": false},
-      {"choiceId": "b", "text": "My phone, which I bought last month, is already broken.", "isCorrect": true},
-      {"choiceId": "c", "text": "My phone which I bought last month, is already broken.", "isCorrect": false},
-      {"choiceId": "d", "text": "My phone, which I bought last month is already broken.", "isCorrect": false}
+      {
+        "choiceId": "a",
+        "text": "My phone, that I bought last month, is already broken.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "b",
+        "text": "My phone, which I bought last month, is already broken.",
+        "isCorrect": true
+      },
+      {
+        "choiceId": "c",
+        "text": "My phone which I bought last month, is already broken.",
+        "isCorrect": false
+      },
+      {
+        "choiceId": "d",
+        "text": "My phone, which I bought last month is already broken.",
+        "isCorrect": false
+      }
     ],
     "tags": [
-      {"tagType": "grammar_point", "tagValue": "relative_clause"}
+      {
+        "tagType": "grammar_point",
+        "tagValue": "relative_clause"
+      }
     ]
   }
 ]
-
