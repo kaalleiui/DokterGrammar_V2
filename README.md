@@ -392,24 +392,12 @@ flutter build apk --release
 flutter build apk --split-per-abi --release
 ```
 
-### Code Structure
-- **Clean Architecture**: Mengikuti clean architecture pattern
-- **Separation of Concerns**: Pemisahan yang jelas antara layers
-- **Repository Pattern**: Pattern untuk data access
-- **Provider Pattern**: State management dengan Provider
-- **Best Practices**: Mengikuti Flutter best practices
 
-### Development Tools
-- **Linter**: Analysis options untuk code quality
-- **Formatting**: Dart formatter untuk konsistensi
-- **Testing**: Unit tests dan widget tests
-- **Debugging**: Debug tools dan logging
+Model AI DialogGPT untuk Penjelasan Grammar
 
-## 🤖 Model AI DialogGPT untuk Penjelasan Grammar
+Apa Model AI untuk aplikasi Ini?
 
-### Apa Itu Model AI Ini?
-
-Aplikasi Dokter Grammar menggunakan **Model AI DialogGPT** yang telah dilatih khusus untuk menghasilkan penjelasan grammar yang natural dan mudah dipahami. Model ini menggunakan teknologi **Deep Learning (Pembelajaran Mendalam)** berbasis **GPT-2** yang di-fine-tune dengan dataset grammar questions dari aplikasi ini.
+Aplikasi Dokter Grammar menggunakan **Model AI DialogGPT** yang telah dilatih khusus untuk menghasilkan penjelasan grammar yang natural dan mudah dipahami. Model ini menggunakan teknologi **Deep Learning (Pembelajaran Mendalam)** berbasis **GPT-2** yang di-fine-tune dengan dataset grammar questions dari aplikasi ini (datanya small tapi, dengan size sekitar cuman 5gb setelah training).
 
 ### Tujuan Model
 
