@@ -486,39 +486,8 @@ Aplikasi menggunakan model dalam dua cara:
 **File yang Digunakan:**
 - `assets/data/ai_explanations.json` - Berisi semua penjelasan yang sudah di-generate
 
-#### Opsi 2: Python Server (Untuk Development/Testing)
 
-**Cara Kerja:**
-- Jalankan server Python yang memuat model
-- Aplikasi memanggil server via HTTP
-- Server menghasilkan penjelasan menggunakan model langsung
-- Penjelasan dikembalikan ke aplikasi
-
-**Keuntungan:**
-- ✅ Menggunakan model langsung (dinamis)
-- ✅ Dapat menyesuaikan dengan konteks real-time
-- ✅ Penjelasan selalu fresh
-
-**Cara Menjalankan:**
-```bash
-python scripts/ai_explanation_server.py
-```
-
-### Perbedaan dengan Sistem Lama
-
-#### Sistem Lama (Template-Based)
-
-**Cara Kerja:**
-- Menggunakan template yang sudah ditentukan
-- Penjelasan statis dan kaku
-- Tidak bisa menyesuaikan dengan konteks
-
-**Keterbatasan:**
-- ❌ Penjelasan kurang natural
-- ❌ Tidak bisa menjelaskan kesalahan secara detail
-- ❌ Harus membuat template untuk setiap kasus
-
-#### Sistem Baru (AI Model)
+#Sistem Baru (AI Model yg baru nih)
 
 **Cara Kerja:**
 - Model memahami konteks pertanyaan
