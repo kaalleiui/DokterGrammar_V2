@@ -145,7 +145,7 @@ class LocalServer {
     final question = Question.fromJson(questionJson);
     final explanationService = ExplanationService();
     
-    final explanation = explanationService.generateExplanation(
+    final explanation = await explanationService.generateExplanation(
       question: question,
       userAnswer: userAnswer,
       isCorrect: isCorrect,
@@ -153,7 +153,7 @@ class LocalServer {
     
     return {
       'explanation': explanation,
-      'type': 'rule_based',
+      'type': 'rule_based', // Will be updated by AIService if AI-generated
     };
   }
 

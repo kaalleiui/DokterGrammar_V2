@@ -41,7 +41,7 @@ class _ExplanationScreenState extends State<ExplanationScreen> {
       final question = await questionRepo.getQuestionById(widget.questionId);
       
       if (question != null) {
-        final explanation = _explanationService.generateExplanation(
+        final explanation = await _explanationService.generateExplanation(
           question: question,
           userAnswer: widget.userAnswer,
           isCorrect: widget.isCorrect,

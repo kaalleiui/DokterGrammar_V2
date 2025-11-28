@@ -89,7 +89,7 @@
     "difficulty": 2,
     "topicId": 1,
     "prompt": "Fill in the blank: 'She _____ reading a book when I called.'",
-    "answer": "was",
+    "answer": "b",
     "explanationTemplate": "Use past continuous (was/were + verb-ing) for actions in progress at a specific time in the past.",
     "exampleSentence": "She was reading a book when I called.",
     "choices": [
@@ -257,7 +257,7 @@
     "difficulty": 4,
     "topicId": 1,
     "prompt": "Fill in the blank: 'By the time she arrived, I _____ already left.'",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "Use past perfect (had + past participle) for actions completed before another past action.",
     "exampleSentence": "By the time she arrived, I had already left.",
     "choices": [
@@ -341,7 +341,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'I _____ been waiting for an hour.'",
-    "answer": "have",
+    "answer": "a",
     "explanationTemplate": "Use present perfect continuous (have/has been + verb-ing) for actions that started in the past and continue to now.",
     "exampleSentence": "I have been waiting for an hour.",
     "choices": [
@@ -467,7 +467,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'When I arrived, they _____ already finished dinner.'",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "Use past perfect (had + past participle) to show an action completed before another past action.",
     "exampleSentence": "When I arrived, they had already finished dinner.",
     "choices": [
@@ -551,7 +551,7 @@
     "difficulty": 4,
     "topicId": 1,
     "prompt": "Fill in the blank: 'She _____ been living in London for three years before she moved.'",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "Use past perfect continuous (had been + verb-ing) for actions that continued up to a point in the past.",
     "exampleSentence": "She had been living in London for three years before she moved.",
     "choices": [
@@ -711,7 +711,7 @@
     "difficulty": 3,
     "topicId": 2,
     "prompt": "Fill in the blank: 'You _____ have told me earlier!'",
-    "answer": "should",
+    "answer": "b",
     "explanationTemplate": "Use 'should have + past participle' to express regret about past actions that didn't happen.",
     "exampleSentence": "You should have told me earlier!",
     "choices": [
@@ -825,7 +825,7 @@
     "difficulty": 2,
     "topicId": 2,
     "prompt": "Fill in the blank: 'You _____ borrow my book if you want.'",
-    "answer": "can",
+    "answer": "a",
     "explanationTemplate": "Use 'can' to express permission or ability.",
     "exampleSentence": "You can borrow my book if you want.",
     "choices": [
@@ -901,7 +901,7 @@
     "difficulty": 3,
     "topicId": 2,
     "prompt": "Fill in the blank: 'I _____ have done better if I had studied more.'",
-    "answer": "could",
+    "answer": "b",
     "explanationTemplate": "Use 'could have + past participle' to express past ability or possibility that didn't happen.",
     "exampleSentence": "I could have done better if I had studied more.",
     "choices": [
@@ -977,7 +977,7 @@
     "difficulty": 4,
     "topicId": 2,
     "prompt": "Fill in the blank: 'You _____ have been more careful!'",
-    "answer": "should",
+    "answer": "b",
     "explanationTemplate": "Use 'should have + past participle' to express criticism or regret about past actions.",
     "exampleSentence": "You should have been more careful!",
     "choices": [
@@ -1015,7 +1015,7 @@
     "difficulty": 3,
     "topicId": 3,
     "prompt": "Complete the sentence: 'If I _____ known, I would have gone.'",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations.",
     "exampleSentence": "If I had known, I would have gone.",
     "choices": [
@@ -1205,7 +1205,7 @@
     "difficulty": 3,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If she _____ call, tell her I'm busy.'",
-    "answer": "should",
+    "answer": "b",
     "explanationTemplate": "Use 'should' in first conditional to make it less likely or more formal. 'If she should call' means 'if by chance she calls'.",
     "exampleSentence": "If she should call, tell her I'm busy.",
     "choices": [
@@ -1281,7 +1281,7 @@
     "difficulty": 5,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If I _____ rich, I would travel the world.'",
-    "answer": "were",
+    "answer": "c",
     "explanationTemplate": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations.",
     "exampleSentence": "If I were rich, I would travel the world.",
     "choices": [
@@ -1357,7 +1357,7 @@
     "difficulty": 5,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If I _____ you, I would have accepted the offer.'",
-    "answer": "had been",
+    "answer": "c",
     "explanationTemplate": "This is a mixed conditional (past condition, present result). Use 'had been' in the if-clause.",
     "exampleSentence": "If I had been you, I would have accepted the offer.",
     "choices": [
@@ -1745,7 +1745,7 @@
     "difficulty": 3,
     "topicId": 6,
     "prompt": "Fill in the blank: 'I need _____ hour to finish this.'",
-    "answer": "an",
+    "answer": "b",
     "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound (silent 'h').",
     "exampleSentence": "I need an hour to finish this.",
     "choices": [
@@ -2015,7 +2015,7 @@
     "difficulty": 4,
     "topicId": 8,
     "prompt": "Fill in the blank: 'The building _____ built last year.'",
-    "answer": "was",
+    "answer": "b",
     "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
     "exampleSentence": "The building was built last year.",
     "choices": [
@@ -2319,7 +2319,7 @@
     "difficulty": 2,
     "topicId": 10,
     "prompt": "Fill in the blank: 'The book is _____ the table.'",
-    "answer": "on",
+    "answer": "b",
     "explanationTemplate": "Use 'on' for things that are in contact with a surface.",
     "exampleSentence": "The book is on the table.",
     "choices": [
@@ -2395,7 +2395,7 @@
     "difficulty": 2,
     "topicId": 10,
     "prompt": "Fill in the blank: 'I'm interested _____ learning English.'",
-    "answer": "in",
+    "answer": "b",
     "explanationTemplate": "Use 'interested in' (not 'interested for' or 'interested about').",
     "exampleSentence": "I'm interested in learning English.",
     "choices": [

@@ -1,61 +1,99 @@
 import 'package:sqflite/sqflite.dart';
 import '../../../core/database/database_helper.dart';
 import '../../../core/models/question.dart';
+import '../../../core/validators/question_validator.dart';
 
 class QuestionLocalDataSource {
   final DatabaseHelper _dbHelper = DatabaseHelper.instance;
 
   Future<void> insertQuestion(Question question) async {
+    // Validate and auto-fix before insert (Plan 1)
+    final validation = QuestionValidator.validate(question);
+    Question validatedQuestion = question;
+    
+    if (!validation.isValid && validation.issues.any((i) => i.canAutoFix)) {
+      validatedQuestion = QuestionValidator.autoFix(question, validation.issues);
+      // Log auto-fix for monitoring
+      if (validation.hasErrors) {
+        print('⚠️ Auto-fixed question ${question.id}: ${validation.issues.map((i) => i.message).join('; ')}');
+      }
+    } else if (validation.hasErrors) {
+      // Critical errors that cannot be auto-fixed
+      throw Exception('Cannot insert invalid question ${question.id}: ${validation.issues.map((i) => i.message).join('; ')}');
+    }
+    
     final db = await _dbHelper.database;
     
-    // Insert question
-    await db.insert(
-      'questions',
-      {
-        'id': question.id,
-        'type': question.type,
-        'difficulty': question.difficulty,
-        'topic_id': question.topicId,
-        'prompt': question.prompt,
-        'answer': question.answer,
-        'explanation_template': question.explanationTemplate,
-        'example_sentence': question.exampleSentence,
-      },
-      conflictAlgorithm: ConflictAlgorithm.replace,
-    );
-
-    // Insert choices
-    for (final choice in question.choices) {
-      await db.insert(
-        'question_choices',
+    // Use transaction for atomicity (Plan 1)
+    await db.transaction((txn) async {
+      // Insert question
+      await txn.insert(
+        'questions',
         {
-          'question_id': question.id,
-          'choice_id': choice.choiceId,
-          'text': choice.text,
-          'is_correct': choice.isCorrect ? 1 : 0,
+          'id': validatedQuestion.id,
+          'type': validatedQuestion.type,
+          'difficulty': validatedQuestion.difficulty,
+          'topic_id': validatedQuestion.topicId,
+          'prompt': validatedQuestion.prompt,
+          'answer': validatedQuestion.answer,
+          'explanation_template': validatedQuestion.explanationTemplate,
+          'example_sentence': validatedQuestion.exampleSentence,
         },
         conflictAlgorithm: ConflictAlgorithm.replace,
       );
-    }
 
-    // Insert tags
-    for (final tag in question.tags) {
-      await db.insert(
-        'question_tags',
-        {
-          'question_id': question.id,
-          'tag_type': tag.tagType,
-          'tag_value': tag.tagValue,
-        },
-        conflictAlgorithm: ConflictAlgorithm.ignore,
-      );
+      // Insert choices
+      for (final choice in validatedQuestion.choices) {
+        await txn.insert(
+          'question_choices',
+          {
+            'question_id': validatedQuestion.id,
+            'choice_id': choice.choiceId,
+            'text': choice.text,
+            'is_correct': choice.isCorrect ? 1 : 0,
+          },
+          conflictAlgorithm: ConflictAlgorithm.replace,
+        );
+      }
+
+      // Insert tags
+      for (final tag in validatedQuestion.tags) {
+        await txn.insert(
+          'question_tags',
+          {
+            'question_id': validatedQuestion.id,
+            'tag_type': tag.tagType,
+            'tag_value': tag.tagValue,
+          },
+          conflictAlgorithm: ConflictAlgorithm.ignore,
+        );
+      }
+    });
+    
+    // Verify integrity after insert (Plan 1)
+    final verify = await QuestionValidator.verifyIntegrity(validatedQuestion);
+    if (!verify) {
+      print('⚠️ Warning: Question ${validatedQuestion.id} integrity check failed after insert');
     }
   }
 
   Future<void> insertQuestions(List<Question> questions) async {
     final batch = (await _dbHelper.database).batch();
     
+    // Validate and auto-fix all questions before batch insert
+    final validatedQuestions = <Question>[];
     for (final question in questions) {
+      final validation = QuestionValidator.validate(question);
+      Question validatedQuestion = question;
+      
+      if (!validation.isValid && validation.issues.any((i) => i.canAutoFix)) {
+        validatedQuestion = QuestionValidator.autoFix(question, validation.issues);
+      }
+      
+      validatedQuestions.add(validatedQuestion);
+    }
+    
+    for (final question in validatedQuestions) {
       batch.insert(
         'questions',
         {
@@ -114,6 +152,8 @@ class QuestionLocalDataSource {
 
     final questionMap = questionMaps.first;
     
+    // Runtime validation on load (Plan 1)
+    
     // Get choices
     final choiceMaps = await db.query(
       'question_choices',
@@ -138,7 +178,7 @@ class QuestionLocalDataSource {
       tagValue: map['tag_value'] as String,
     )).toList();
 
-    return Question(
+    Question question = Question(
       id: questionMap['id'] as String,
       type: questionMap['type'] as String,
       difficulty: questionMap['difficulty'] as int,
@@ -150,6 +190,16 @@ class QuestionLocalDataSource {
       choices: choices,
       tags: tags,
     );
+    
+    // Validate and auto-fix on load
+    final validation = QuestionValidator.validate(question);
+    if (!validation.isValid && validation.issues.any((i) => i.canAutoFix)) {
+      question = QuestionValidator.autoFix(question, validation.issues);
+      // Update database with fixed version
+      await insertQuestion(question);
+    }
+    
+    return question;
   }
 
   Future<List<Question>> getQuestionsByTopic(int topicId, {int? limit}) async {
@@ -191,7 +241,7 @@ class QuestionLocalDataSource {
         tagValue: map['tag_value'] as String,
       )).toList();
 
-      questions.add(Question(
+      Question question = Question(
         id: questionId,
         type: questionMap['type'] as String,
         difficulty: questionMap['difficulty'] as int,
@@ -202,7 +252,15 @@ class QuestionLocalDataSource {
         exampleSentence: questionMap['example_sentence'] as String?,
         choices: choices,
         tags: tags,
-      ));
+      );
+      
+      // Validate and auto-fix on load
+      final validation = QuestionValidator.validate(question);
+      if (!validation.isValid && validation.issues.any((i) => i.canAutoFix)) {
+        question = QuestionValidator.autoFix(question, validation.issues);
+      }
+      
+      questions.add(question);
     }
 
     return questions;

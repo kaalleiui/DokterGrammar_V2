@@ -47,7 +47,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'I _____ never been to Paris before.'",
-    "answer": "have",
+    "answer": "a",
     "explanationTemplate": "Use present perfect (have/has + past participle) with 'never' or 'ever' to talk about life experiences.",
     "exampleSentence": "I have never been to Paris before.",
     "choices": [
@@ -131,7 +131,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'They _____ playing tennis when it started to rain.'",
-    "answer": "were",
+    "answer": "b",
     "explanationTemplate": "Use past continuous (was/were + verb-ing) for actions in progress when another action happened.",
     "exampleSentence": "They were playing tennis when it started to rain.",
     "choices": [
@@ -211,7 +211,7 @@
     "difficulty": 2,
     "topicId": 2,
     "prompt": "Fill in the blank: '_____ you help me with this, please?'",
-    "answer": "Could",
+    "answer": "b",
     "explanationTemplate": "Use 'Could' or 'Would' to make polite requests. 'Could' is common for asking favors.",
     "exampleSentence": "Could you help me with this, please?",
     "choices": [
@@ -363,7 +363,7 @@
     "difficulty": 3,
     "topicId": 10,
     "prompt": "Fill in the blank: 'The cat is hiding _____ the bed.'",
-    "answer": "under",
+    "answer": "c",
     "explanationTemplate": "Use 'under' for things that are below or beneath something else.",
     "exampleSentence": "The cat is hiding under the bed.",
     "choices": [
@@ -439,7 +439,7 @@
     "difficulty": 2,
     "topicId": 10,
     "prompt": "Fill in the blank: 'I will see you _____ Monday.'",
-    "answer": "on",
+    "answer": "c",
     "explanationTemplate": "Use 'on' for specific days of the week and dates.",
     "exampleSentence": "I will see you on Monday.",
     "choices": [
@@ -515,7 +515,7 @@
     "difficulty": 5,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The reason _____ she left is unknown.'",
-    "answer": "why",
+    "answer": "b",
     "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to a cause.",
     "exampleSentence": "The reason why she left is unknown.",
     "choices": [
@@ -591,7 +591,7 @@
     "difficulty": 3,
     "topicId": 12,
     "prompt": "Fill in the blank: 'The book is _____, not yours.'",
-    "answer": "mine",
+    "answer": "b",
     "explanationTemplate": "Use 'mine' (possessive pronoun) when there's no noun after it. 'My' is used before a noun.",
     "exampleSentence": "The book is mine, not yours.",
     "choices": [
@@ -629,7 +629,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'I _____ already seen that movie three times.'",
-    "answer": "have",
+    "answer": "a",
     "explanationTemplate": "Use present perfect (have/has + past participle) with 'already' to talk about completed actions.",
     "exampleSentence": "I have already seen that movie three times.",
     "choices": [
@@ -713,7 +713,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'While I _____ cooking, the phone rang.'",
-    "answer": "was",
+    "answer": "b",
     "explanationTemplate": "Use past continuous (was/were + verb-ing) for actions in progress when another action happened.",
     "exampleSentence": "While I was cooking, the phone rang.",
     "choices": [
@@ -835,7 +835,7 @@
     "difficulty": 3,
     "topicId": 2,
     "prompt": "Fill in the blank: 'I _____ have called you, but I forgot.'",
-    "answer": "should",
+    "answer": "b",
     "explanationTemplate": "Use 'should have + past participle' to express regret about past actions that didn't happen.",
     "exampleSentence": "I should have called you, but I forgot.",
     "choices": [
@@ -911,7 +911,7 @@
     "difficulty": 4,
     "topicId": 2,
     "prompt": "Fill in the blank: 'He _____ have arrived by now. The meeting started an hour ago.'",
-    "answer": "should",
+    "answer": "b",
     "explanationTemplate": "Use 'should have + past participle' to express expectation about past events that probably happened.",
     "exampleSentence": "He should have arrived by now. The meeting started an hour ago.",
     "choices": [
@@ -1025,7 +1025,7 @@
     "difficulty": 4,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If I _____ you, I would accept the offer.'",
-    "answer": "were",
+    "answer": "c",
     "explanationTemplate": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations.",
     "exampleSentence": "If I were you, I would accept the offer.",
     "choices": [
@@ -1139,7 +1139,7 @@
     "difficulty": 3,
     "topicId": 10,
     "prompt": "Fill in the blank: 'She is afraid _____ spiders.'",
-    "answer": "of",
+    "answer": "b",
     "explanationTemplate": "Use 'afraid of' (not 'afraid from' or 'afraid about').",
     "exampleSentence": "She is afraid of spiders.",
     "choices": [
@@ -1215,7 +1215,7 @@
     "difficulty": 2,
     "topicId": 10,
     "prompt": "Fill in the blank: 'I'm looking forward _____ seeing you.'",
-    "answer": "to",
+    "answer": "b",
     "explanationTemplate": "Use 'look forward to + -ing' (not 'look forward for').",
     "exampleSentence": "I'm looking forward to seeing you.",
     "choices": [
@@ -1291,7 +1291,7 @@
     "difficulty": 5,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The day _____ we met was sunny.'",
-    "answer": "when",
+    "answer": "b",
     "explanationTemplate": "Use 'when' for time in adjective clauses. 'The day' refers to when something happened.",
     "exampleSentence": "The day when we met was sunny.",
     "choices": [
@@ -1367,7 +1367,7 @@
     "difficulty": 3,
     "topicId": 12,
     "prompt": "Fill in the blank: 'She and _____ went to the store together.'",
-    "answer": "I",
+    "answer": "a",
     "explanationTemplate": "Use subject pronouns (I, you, he, she, we, they) when the pronoun is the subject of the sentence.",
     "exampleSentence": "She and I went to the store together.",
     "choices": [
@@ -1447,7 +1447,7 @@
     "difficulty": 4,
     "topicId": 1,
     "prompt": "Fill in the blank: 'By next year, I _____ living here for ten years.'",
-    "answer": "will have been",
+    "answer": "b",
     "explanationTemplate": "Use future perfect continuous (will have been + verb-ing) for actions that will have been ongoing up to a future time.",
     "exampleSentence": "By next year, I will have been living here for ten years.",
     "choices": [
@@ -1569,7 +1569,7 @@
     "difficulty": 4,
     "topicId": 2,
     "prompt": "Fill in the blank: 'You _____ have told me earlier. Now it's too late.'",
-    "answer": "should",
+    "answer": "b",
     "explanationTemplate": "Use 'should have + past participle' to express regret or criticism about past actions.",
     "exampleSentence": "You should have told me earlier. Now it's too late.",
     "choices": [
@@ -1645,7 +1645,7 @@
     "difficulty": 4,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If I _____ rich, I would buy a house.'",
-    "answer": "were",
+    "answer": "c",
     "explanationTemplate": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations.",
     "exampleSentence": "If I were rich, I would buy a house.",
     "choices": [
@@ -1683,7 +1683,7 @@
     "difficulty": 3,
     "topicId": 1,
     "prompt": "Fill in the blank: 'She _____ been waiting for an hour when I arrived.'",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "Use past perfect continuous (had been + verb-ing) for actions that were ongoing before another past action.",
     "exampleSentence": "She had been waiting for an hour when I arrived.",
     "choices": [
@@ -1805,7 +1805,7 @@
     "difficulty": 4,
     "topicId": 2,
     "prompt": "Fill in the blank: 'I _____ have forgotten to lock the door. Let me check.'",
-    "answer": "might",
+    "answer": "b",
     "explanationTemplate": "Use 'might have' or 'could have' to express possibility about past events. 'Might' suggests less certainty.",
     "exampleSentence": "I might have forgotten to lock the door. Let me check.",
     "choices": [
@@ -1881,7 +1881,7 @@
     "difficulty": 3,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If you _____ me, I will help you.'",
-    "answer": "ask",
+    "answer": "a",
     "explanationTemplate": "This is a first conditional. Use simple present in the if-clause.",
     "exampleSentence": "If you ask me, I will help you.",
     "choices": [
@@ -1957,7 +1957,7 @@
     "difficulty": 3,
     "topicId": 10,
     "prompt": "Fill in the blank: 'She is responsible _____ the project.'",
-    "answer": "for",
+    "answer": "b",
     "explanationTemplate": "Use 'responsible for' (not 'responsible of' or 'responsible about').",
     "exampleSentence": "She is responsible for the project.",
     "choices": [
@@ -2071,7 +2071,7 @@
     "difficulty": 3,
     "topicId": 12,
     "prompt": "Fill in the blank: 'They made the decision _____ themselves.'",
-    "answer": "by",
+    "answer": "b",
     "explanationTemplate": "Use 'by themselves' to mean 'alone' or 'without help'. 'Themselves' is a reflexive pronoun.",
     "exampleSentence": "They made the decision by themselves.",
     "choices": [

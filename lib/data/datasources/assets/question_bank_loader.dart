@@ -2,12 +2,15 @@ import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:flutter/foundation.dart';
 import '../../../core/models/question.dart';
+import '../../../core/builders/question_builder.dart';
+import '../../../core/validators/question_validator.dart';
 
 class QuestionBankLoader {
   static Future<List<Question>> loadQuestionsFromAssets() async {
     final List<Question> allQuestions = [];
     final List<String> validationErrors = [];
     final List<String> validationWarnings = [];
+    int autoFixedCount = 0;
     
     // Load from multiple question bank files
     final List<String> bankFiles = [
@@ -22,23 +25,37 @@ class QuestionBankLoader {
       try {
         final String jsonString = await rootBundle.loadString(filePath);
         final List<dynamic> jsonData = json.decode(jsonString);
-        final questions = jsonData.map((json) => Question.fromJson(json)).toList();
+        // Use builder pattern for validation and auto-fix (Plan 5)
+        final questions = <Question>[];
         
-        // Validate each question
-        for (final question in questions) {
-          final validation = _validateQuestion(question);
-          if (validation.isValid) {
-            allQuestions.add(question);
-          } else {
-            if (validation.isError) {
-              validationErrors.add('${question.id}: ${validation.message}');
-            } else {
-              validationWarnings.add('${question.id}: ${validation.message}');
-              // Add question even with warnings (non-critical)
-              allQuestions.add(question);
+        for (final json in jsonData) {
+          try {
+            // Use builder which validates and auto-fixes
+            final question = QuestionBuilder.fromJson(json);
+            questions.add(question);
+          } catch (e) {
+            // Builder failed, try fallback
+            try {
+              final question = Question.fromJson(json);
+              // Validate manually
+              final validation = QuestionValidator.validate(question);
+              if (validation.isValid) {
+                questions.add(question);
+              } else if (validation.issues.any((i) => i.canAutoFix)) {
+                final fixed = QuestionValidator.autoFix(question, validation.issues);
+                questions.add(fixed);
+                autoFixedCount++;
+                validationWarnings.add('${question.id}: Auto-fixed - ${validation.issues.map((i) => i.message).join('; ')}');
+              } else {
+                validationErrors.add('${question.id}: ${validation.issues.map((i) => i.message).join('; ')}');
+              }
+            } catch (e2) {
+              validationErrors.add('Failed to parse question: $e2');
             }
           }
         }
+        
+        allQuestions.addAll(questions);
       } catch (e) {
         // File doesn't exist or can't be loaded, skip it
         if (kDebugMode) {
@@ -50,19 +67,28 @@ class QuestionBankLoader {
     
     // Log validation results
     if (kDebugMode) {
+      if (autoFixedCount > 0) {
+        debugPrint('🔧 Auto-fixed $autoFixedCount questions during load');
+      }
       if (validationErrors.isNotEmpty) {
         debugPrint('❌ Question validation errors (${validationErrors.length}):');
-        for (final error in validationErrors) {
+        for (final error in validationErrors.take(10)) {
           debugPrint('  • $error');
+        }
+        if (validationErrors.length > 10) {
+          debugPrint('  ... and ${validationErrors.length - 10} more errors');
         }
       }
       if (validationWarnings.isNotEmpty) {
         debugPrint('⚠️  Question validation warnings (${validationWarnings.length}):');
-        for (final warning in validationWarnings) {
+        for (final warning in validationWarnings.take(10)) {
           debugPrint('  • $warning');
         }
+        if (validationWarnings.length > 10) {
+          debugPrint('  ... and ${validationWarnings.length - 10} more warnings');
+        }
       }
-      if (validationErrors.isEmpty && validationWarnings.isEmpty) {
+      if (validationErrors.isEmpty && validationWarnings.isEmpty && autoFixedCount == 0) {
         debugPrint('✅ All questions passed validation');
       }
     }
@@ -75,58 +101,7 @@ class QuestionBankLoader {
     return allQuestions;
   }
 
-  /// Validate a question and return validation result
-  static _ValidationResult _validateQuestion(Question question) {
-    // Check required fields
-    if (question.id.isEmpty) {
-      return _ValidationResult(false, true, 'Missing question ID');
-    }
-    if (question.answer.isEmpty) {
-      return _ValidationResult(false, true, 'Missing answer field');
-    }
-    if (question.type.isEmpty) {
-      return _ValidationResult(false, true, 'Missing question type');
-    }
-
-    // For questions with choices, validate answer matches isCorrect
-    if (question.choices.isNotEmpty) {
-      final correctChoices = question.choices.where((c) => c.isCorrect).toList();
-      
-      if (correctChoices.isEmpty) {
-        // Try to find by matching answer field
-        final matchingByAnswer = question.choices.firstWhere(
-          (c) => c.choiceId.toLowerCase() == question.answer.toLowerCase(),
-          orElse: () => QuestionChoice(choiceId: '', text: ''),
-        );
-        
-        if (matchingByAnswer.choiceId.isEmpty) {
-          return _ValidationResult(false, true, 'No correct choice found and answer field does not match any choiceId');
-        } else {
-          // Warning: answer matches but isCorrect not set
-          return _ValidationResult(true, false, 'Answer field matches choiceId but isCorrect flag not set');
-        }
-      } else if (correctChoices.length > 1) {
-        return _ValidationResult(false, true, 'Multiple choices have isCorrect: true (${correctChoices.length} found)');
-      } else {
-        // Check if answer field matches the correct choice
-        final correctChoice = correctChoices.first;
-        final answerIsChoiceId = question.choices.any(
-          (c) => c.choiceId.toLowerCase() == question.answer.toLowerCase(),
-        );
-        
-        if (answerIsChoiceId && question.answer.toLowerCase() != correctChoice.choiceId.toLowerCase()) {
-          return _ValidationResult(false, true, 'Answer field "$question.answer" does not match correct choiceId "${correctChoice.choiceId}"');
-        } else if (!answerIsChoiceId && question.type == 'gap_fill') {
-          // For gap_fill, answer might be text - this is acceptable
-          return _ValidationResult(true, false, 'Gap fill answer is text, not choiceId (acceptable)');
-        } else if (!answerIsChoiceId) {
-          return _ValidationResult(false, true, 'Answer field "$question.answer" does not match any choiceId');
-        }
-      }
-    }
-
-    return _ValidationResult(true, false, '');
-  }
+  // Old validation method removed - now using QuestionValidator
 
   static List<Question> _getSampleQuestions() {
     // Return sample questions for testing
@@ -172,13 +147,5 @@ class QuestionBankLoader {
       ),
     ];
   }
-}
-
-class _ValidationResult {
-  final bool isValid;
-  final bool isError; // true = error (skip question), false = warning (include question)
-  final String message;
-
-  _ValidationResult(this.isValid, this.isError, this.message);
 }
 

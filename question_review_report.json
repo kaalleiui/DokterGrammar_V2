@@ -1,0 +1,3537 @@
+{
+  "gap_fill_questions": [
+    {
+      "id": "q_tenses_003",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'She _____ reading a book when I called.'",
+      "answer": "b",
+      "explanationTemplate": "Use past continuous (was/were + verb-ing) for actions in progress at a specific time in the past.",
+      "exampleSentence": "She was reading a book when I called.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "had",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_continuous"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_tenses_007",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'By the time she arrived, I _____ already left.'",
+      "answer": "b",
+      "explanationTemplate": "Use past perfect (had + past participle) for actions completed before another past action.",
+      "exampleSentence": "By the time she arrived, I had already left.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_perfect"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_tenses_009",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'I _____ been waiting for an hour.'",
+      "answer": "a",
+      "explanationTemplate": "Use present perfect continuous (have/has been + verb-ing) for actions that started in the past and continue to now.",
+      "exampleSentence": "I have been waiting for an hour.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "present"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "present_perfect_continuous"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_tenses_012",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'When I arrived, they _____ already finished dinner.'",
+      "answer": "b",
+      "explanationTemplate": "Use past perfect (had + past participle) to show an action completed before another past action.",
+      "exampleSentence": "When I arrived, they had already finished dinner.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "were",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_perfect"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_tenses_014",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'She _____ been living in London for three years before she moved.'",
+      "answer": "b",
+      "explanationTemplate": "Use past perfect continuous (had been + verb-ing) for actions that continued up to a point in the past.",
+      "exampleSentence": "She had been living in London for three years before she moved.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_perfect_continuous"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_modals_003",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'You _____ have told me earlier!'",
+      "answer": "b",
+      "explanationTemplate": "Use 'should have + past participle' to express regret about past actions that didn't happen.",
+      "exampleSentence": "You should have told me earlier!",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_regret"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_modals_006",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'You _____ borrow my book if you want.'",
+      "answer": "a",
+      "explanationTemplate": "Use 'can' to express permission or ability.",
+      "exampleSentence": "You can borrow my book if you want.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "can",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "will",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_permission"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_modals_008",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'I _____ have done better if I had studied more.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'could have + past participle' to express past ability or possibility that didn't happen.",
+      "exampleSentence": "I could have done better if I had studied more.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "could",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_past_ability"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_modals_010",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'You _____ have been more careful!'",
+      "answer": "b",
+      "explanationTemplate": "Use 'should have + past participle' to express criticism or regret about past actions.",
+      "exampleSentence": "You should have been more careful!",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_criticism"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_conditionals_001",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 3,
+      "prompt": "Complete the sentence: 'If I _____ known, I would have gone.'",
+      "answer": "b",
+      "explanationTemplate": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations.",
+      "exampleSentence": "If I had known, I would have gone.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "would",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_3"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_conditionals_006",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If she _____ call, tell her I'm busy.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'should' in first conditional to make it less likely or more formal. 'If she should call' means 'if by chance she calls'.",
+      "exampleSentence": "If she should call, tell her I'm busy.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "will",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "would",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "could",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_1"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_conditionals_008",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If I _____ rich, I would travel the world.'",
+      "answer": "c",
+      "explanationTemplate": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations.",
+      "exampleSentence": "If I were rich, I would travel the world.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "were",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "had been",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_2"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_conditionals_010",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If I _____ you, I would have accepted the offer.'",
+      "answer": "c",
+      "explanationTemplate": "This is a mixed conditional (past condition, present result). Use 'had been' in the if-clause.",
+      "exampleSentence": "If I had been you, I would have accepted the offer.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "were",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "had been",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "am",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "mixed_conditional"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_articles_003",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 6,
+      "prompt": "Fill in the blank: 'I need _____ hour to finish this.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound (silent 'h').",
+      "exampleSentence": "I need an hour to finish this.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "an",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "no article",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "articles"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_passive_002",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Fill in the blank: 'The building _____ built last year.'",
+      "answer": "b",
+      "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
+      "exampleSentence": "The building was built last year.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "had",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_prepositions_002",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'The book is _____ the table.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'on' for things that are in contact with a surface.",
+      "exampleSentence": "The book is on the table.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "on",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "by",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions_place"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_prepositions_004",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'I'm interested _____ learning English.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'interested in' (not 'interested for' or 'interested about').",
+      "exampleSentence": "I'm interested in learning English.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "in",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "for",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_tenses_017",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'I _____ never been to Paris before.'",
+      "answer": "a",
+      "explanationTemplate": "Use present perfect (have/has + past participle) with 'never' or 'ever' to talk about life experiences.",
+      "exampleSentence": "I have never been to Paris before.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "present"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "present_perfect"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_tenses_019",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'They _____ playing tennis when it started to rain.'",
+      "answer": "b",
+      "explanationTemplate": "Use past continuous (was/were + verb-ing) for actions in progress when another action happened.",
+      "exampleSentence": "They were playing tennis when it started to rain.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "were",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "have been",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "had been",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_continuous"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_modals_014",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 2,
+      "prompt": "Fill in the blank: '_____ you help me with this, please?'",
+      "answer": "b",
+      "explanationTemplate": "Use 'Could' or 'Would' to make polite requests. 'Could' is common for asking favors.",
+      "exampleSentence": "Could you help me with this, please?",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "Can",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "Could",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "Must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "Should",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_requests"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_prepositions_006",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'The cat is hiding _____ the bed.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'under' for things that are below or beneath something else.",
+      "exampleSentence": "The cat is hiding under the bed.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "on",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "under",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "at",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions_place"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_prepositions_008",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'I will see you _____ Monday.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'on' for specific days of the week and dates.",
+      "exampleSentence": "I will see you on Monday.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "in",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "on",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "by",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions_time"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_adjective_clauses_005",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The reason _____ she left is unknown.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to a cause.",
+      "exampleSentence": "The reason why she left is unknown.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "why",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "where",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "when",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_pronouns_005",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'The book is _____, not yours.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'mine' (possessive pronoun) when there's no noun after it. 'My' is used before a noun.",
+      "exampleSentence": "The book is mine, not yours.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "my",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "mine",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "me",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "I",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_tenses_022",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'I _____ already seen that movie three times.'",
+      "answer": "a",
+      "explanationTemplate": "Use present perfect (have/has + past participle) with 'already' to talk about completed actions.",
+      "exampleSentence": "I have already seen that movie three times.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "present"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "present_perfect"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_tenses_024",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'While I _____ cooking, the phone rang.'",
+      "answer": "b",
+      "explanationTemplate": "Use past continuous (was/were + verb-ing) for actions in progress when another action happened.",
+      "exampleSentence": "While I was cooking, the phone rang.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "have been",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "had been",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_continuous"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_modals_017",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'I _____ have called you, but I forgot.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'should have + past participle' to express regret about past actions that didn't happen.",
+      "exampleSentence": "I should have called you, but I forgot.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_regret"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_modals_019",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'He _____ have arrived by now. The meeting started an hour ago.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'should have + past participle' to express expectation about past events that probably happened.",
+      "exampleSentence": "He should have arrived by now. The meeting started an hour ago.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_expectation"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_conditionals_015",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If I _____ you, I would accept the offer.'",
+      "answer": "c",
+      "explanationTemplate": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations.",
+      "exampleSentence": "If I were you, I would accept the offer.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "were",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "had been",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_2"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_prepositions_010",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'She is afraid _____ spiders.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'afraid of' (not 'afraid from' or 'afraid about').",
+      "exampleSentence": "She is afraid of spiders.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "of",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_prepositions_012",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'I'm looking forward _____ seeing you.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'look forward to + -ing' (not 'look forward for').",
+      "exampleSentence": "I'm looking forward to seeing you.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "to",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "at",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_adjective_clauses_007",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The day _____ we met was sunny.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'when' for time in adjective clauses. 'The day' refers to when something happened.",
+      "exampleSentence": "The day when we met was sunny.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "when",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "where",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "that",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_pronouns_007",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'She and _____ went to the store together.'",
+      "answer": "a",
+      "explanationTemplate": "Use subject pronouns (I, you, he, she, we, they) when the pronoun is the subject of the sentence.",
+      "exampleSentence": "She and I went to the store together.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "I",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "me",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "myself",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "my",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_tenses_027",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'By next year, I _____ living here for ten years.'",
+      "answer": "b",
+      "explanationTemplate": "Use future perfect continuous (will have been + verb-ing) for actions that will have been ongoing up to a future time.",
+      "exampleSentence": "By next year, I will have been living here for ten years.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "will be",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "will have been",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "have been",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "am",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "future"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "future_perfect_continuous"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_modals_022",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'You _____ have told me earlier. Now it's too late.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'should have + past participle' to express regret or criticism about past actions.",
+      "exampleSentence": "You should have told me earlier. Now it's too late.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_regret"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_conditionals_018",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If I _____ rich, I would buy a house.'",
+      "answer": "c",
+      "explanationTemplate": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations.",
+      "exampleSentence": "If I were rich, I would buy a house.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "am",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "were",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "had been",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_2"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_tenses_029",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'She _____ been waiting for an hour when I arrived.'",
+      "answer": "b",
+      "explanationTemplate": "Use past perfect continuous (had been + verb-ing) for actions that were ongoing before another past action.",
+      "exampleSentence": "She had been waiting for an hour when I arrived.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "is",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "past"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "past_perfect_continuous"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_modals_024",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'I _____ have forgotten to lock the door. Let me check.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'might have' or 'could have' to express possibility about past events. 'Might' suggests less certainty.",
+      "exampleSentence": "I might have forgotten to lock the door. Let me check.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "might",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_possibility"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_conditionals_020",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If you _____ me, I will help you.'",
+      "answer": "a",
+      "explanationTemplate": "This is a first conditional. Use simple present in the if-clause.",
+      "exampleSentence": "If you ask me, I will help you.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "ask",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "will ask",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "asked",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would ask",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_1"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_prepositions_014",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'She is responsible _____ the project.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'responsible for' (not 'responsible of' or 'responsible about').",
+      "exampleSentence": "She is responsible for the project.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "of",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "for",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_pronouns_009",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'They made the decision _____ themselves.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'by themselves' to mean 'alone' or 'without help'. 'Themselves' is a reflexive pronoun.",
+      "exampleSentence": "They made the decision by themselves.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "for",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "by",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "with",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "to",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        }
+      ],
+      "_source_file": "question_bank2.json"
+    },
+    {
+      "id": "q_adjective_clauses_010",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The book, _____ cover is torn, needs to be replaced.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things.",
+      "exampleSentence": "The book, whose cover is torn, needs to be replaced.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "whose",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "who",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        },
+        {
+          "tagType": "interest",
+          "tagValue": "literature"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_adjective_clauses_013",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The reason _____ I called you is important.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened.",
+      "exampleSentence": "The reason why I called you is important.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "why",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "when",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_sentence_combining_007",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 5,
+      "prompt": "Fill in the blank: 'I wanted to go to the party, _____ I had too much work.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'but' to show contrast between two ideas. 'But' connects contrasting clauses.",
+      "exampleSentence": "I wanted to go to the party, but I had too much work.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "but",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "or",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "sentence_combining"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_pronouns_011",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'The students should do the homework _____.'",
+      "answer": "b",
+      "explanationTemplate": "Use reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) when the subject and object are the same.",
+      "exampleSentence": "The students should do the homework themselves.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "them",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "themselves",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "they",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "their",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_complex_006",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 4,
+      "prompt": "Fill in the blank: 'The company _____ I work is very large.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'where' for places in relative clauses. 'The company' refers to a place (location), so use 'where'.",
+      "exampleSentence": "The company where I work is very large.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "where",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "who",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "relative_clause"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_005",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Fill in the blank: 'The new bridge _____ being built next year.'",
+      "answer": "b",
+      "explanationTemplate": "Use future passive: 'will be + past participle'. 'Will be being' is not used; use 'will be + past participle' instead.",
+      "exampleSentence": "The new bridge will be built next year.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "will be",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_adjective_clauses_015",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The day _____ I met you was the best day of my life.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'when' for time in adjective clauses. 'The day' refers to a time, so use 'when'.",
+      "exampleSentence": "The day when I met you was the best day of my life.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "when",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "where",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_sentence_combining_010",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 5,
+      "prompt": "Fill in the blank: 'I wanted to watch the movie, _____ I had to finish my homework first.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'but' to show contrast between what you want and what you must do.",
+      "exampleSentence": "I wanted to watch the movie, but I had to finish my homework first.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "but",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "or",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "sentence_combining"
+        },
+        {
+          "tagType": "interest",
+          "tagValue": "film"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_pronouns_015",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'She cut _____ while cooking.'",
+      "answer": "b",
+      "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'She' cut 'herself'.",
+      "exampleSentence": "She cut herself while cooking.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "her",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "herself",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "she",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "hers",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_complex_009",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 4,
+      "prompt": "Fill in the blank: 'The restaurant _____ we had dinner was expensive.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'.",
+      "exampleSentence": "The restaurant where we had dinner was expensive.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "where",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "who",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "relative_clause"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_articles_007",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 6,
+      "prompt": "Fill in the blank: '_____ Pacific Ocean is the largest ocean.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'the' with unique geographical features like oceans, seas, rivers, and mountain ranges.",
+      "exampleSentence": "The Pacific Ocean is the largest ocean.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "An",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "The",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "No article",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "articles"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_sva_007",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 7,
+      "prompt": "Fill in the blank: 'The team _____ celebrating their victory.'",
+      "answer": "a",
+      "explanationTemplate": "'Team' can be singular (as a group) or plural (as individuals). Here it's treated as singular, so use 'is'.",
+      "exampleSentence": "The team is celebrating their victory.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "were",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "subject_verb_agreement"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_007",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Fill in the blank: 'The problem _____ solved by the team yesterday.'",
+      "answer": "b",
+      "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
+      "exampleSentence": "The problem was solved by the team yesterday.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "had",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_007",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Fill in the blank: 'I will call you later,' she said. → She said that she _____ call me later.",
+      "answer": "b",
+      "explanationTemplate": "In reported speech, 'will' becomes 'would'. Future tense changes to conditional.",
+      "exampleSentence": "She said that she would call me later.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "will",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "would",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "can",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "could",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_prepositions_016",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 10,
+      "prompt": "Fill in the blank: 'She is afraid _____ spiders.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'afraid of' (not 'afraid from' or 'afraid about'). 'Of' follows 'afraid'.",
+      "exampleSentence": "She is afraid of spiders.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "from",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "of",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "about",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "with",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "prepositions"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_modals_012",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 2,
+      "prompt": "Fill in the blank: 'She _____ have left already. Her car is gone.'",
+      "answer": "a",
+      "explanationTemplate": "Use 'must have + past participle' to express a logical conclusion about a past event. The evidence suggests she left.",
+      "exampleSentence": "She must have left already. Her car is gone.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "must",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "should",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "could",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "might",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "modals_deduction"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_conditionals_012",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 3,
+      "prompt": "Fill in the blank: 'If she _____ studied harder, she would have passed.'",
+      "answer": "b",
+      "explanationTemplate": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations.",
+      "exampleSentence": "If she had studied harder, she would have passed.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "have",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "would",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "was",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "conditional_3"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_tenses_021",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 1,
+      "prompt": "Fill in the blank: 'By next year, I _____ living here for five years.'",
+      "answer": "b",
+      "explanationTemplate": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time.",
+      "exampleSentence": "By next year, I will have been living here for five years.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "will be",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "will have been",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "have been",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "am",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "tense",
+          "tagValue": "future"
+        },
+        {
+          "tagType": "grammar_point",
+          "tagValue": "future_perfect_continuous"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_adjective_clauses_018",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The reason _____ she left is still unknown.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened.",
+      "exampleSentence": "The reason why she left is still unknown.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "why",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "when",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_adjective_clauses_021",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 11,
+      "prompt": "Fill in the blank: 'The moment _____ I saw her, I knew she was special.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'when' for time in adjective clauses. 'The moment' refers to a time, so use 'when'.",
+      "exampleSentence": "The moment when I saw her, I knew she was special.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "when",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "where",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "adjective_clauses"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_pronouns_018",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'One should always do _____ best.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'one's' (possessive form of 'one') when using 'one' as a pronoun. 'One' is formal and singular.",
+      "exampleSentence": "One should always do one's best.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "ones",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "one's",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "oneself",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "their",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        },
+        {
+          "tagType": "interest",
+          "tagValue": "academic_english"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_pronouns_021",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 12,
+      "prompt": "Fill in the blank: 'I made this cake _____.'",
+      "answer": "b",
+      "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'I' made it 'myself'.",
+      "exampleSentence": "I made this cake myself.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "me",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "myself",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "I",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "my",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "pronouns"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_sentence_combining_013",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 5,
+      "prompt": "Fill in the blank: 'I like coffee, _____ my friend prefers tea.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'but' to show contrast between two different preferences or opinions.",
+      "exampleSentence": "I like coffee, but my friend prefers tea.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "and",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "but",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "so",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "or",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "sentence_combining"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_articles_010",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 6,
+      "prompt": "Fill in the blank: '_____ United States is a large country.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'the' with country names that are plural or include words like 'United', 'Kingdom', 'Republic'.",
+      "exampleSentence": "The United States is a large country.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "A",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "An",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "The",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "No article",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "articles"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_articles_012",
+      "type": "gap_fill",
+      "difficulty": 2,
+      "topicId": 6,
+      "prompt": "Fill in the blank: 'She is _____ honest person.'",
+      "answer": "b",
+      "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound (silent 'h').",
+      "exampleSentence": "She is an honest person.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "a",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "an",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "the",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "no article",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "articles"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_sva_010",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 7,
+      "prompt": "Fill in the blank: 'Not only the teacher but also the students _____ excited.'",
+      "answer": "b",
+      "explanationTemplate": "With 'not only...but also', the verb agrees with the subject closest to it. 'Students' is plural, so use 'are'.",
+      "exampleSentence": "Not only the teacher but also the students are excited.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "are",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "were",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "subject_verb_agreement"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_sva_012",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 7,
+      "prompt": "Fill in the blank: 'The group of students _____ waiting outside.'",
+      "answer": "a",
+      "explanationTemplate": "'The group of' is singular, so use 'is'. The prepositional phrase 'of students' doesn't change the subject.",
+      "exampleSentence": "The group of students is waiting outside.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "b",
+          "text": "are",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "were",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "subject_verb_agreement"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_010",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Fill in the blank: 'The report _____ written by the team last week.'",
+      "answer": "b",
+      "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
+      "exampleSentence": "The report was written by the team last week.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "had",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_012",
+      "type": "gap_fill",
+      "difficulty": 3,
+      "topicId": 8,
+      "prompt": "Fill in the blank: 'The windows _____ cleaned every week.'",
+      "answer": "b",
+      "explanationTemplate": "Use simple present passive: 'is/are + past participle'. 'Windows' is plural, so use 'are'.",
+      "exampleSentence": "The windows are cleaned every week.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "are",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "was",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "were",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_010",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Fill in the blank: 'I'm leaving now,' he said. → He said that he _____ leaving then.",
+      "answer": "b",
+      "explanationTemplate": "In reported speech, present continuous becomes past continuous. 'I'm leaving' becomes 'he was leaving'. Also, 'now' becomes 'then'.",
+      "exampleSentence": "He said that he was leaving then.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "is",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "was",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "will be",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "would be",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_012",
+      "type": "gap_fill",
+      "difficulty": 4,
+      "topicId": 9,
+      "prompt": "Fill in the blank: 'I saw him yesterday,' she said. → She said that she _____ seen him the day before.",
+      "answer": "b",
+      "explanationTemplate": "In reported speech, simple past becomes past perfect. 'I saw' becomes 'she had seen'. Also, 'yesterday' becomes 'the day before'.",
+      "exampleSentence": "She said that she had seen him the day before.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "has",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "had",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "saw",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "sees",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_complex_012",
+      "type": "gap_fill",
+      "difficulty": 5,
+      "topicId": 4,
+      "prompt": "Fill in the blank: 'The house _____ I grew up is now demolished.'",
+      "answer": "c",
+      "explanationTemplate": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'.",
+      "exampleSentence": "The house where I grew up is now demolished.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "which",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "that",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "where",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "who",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "relative_clause"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    }
+  ],
+  "transformation_questions": [
+    {
+      "id": "q_passive_001",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'The teacher explained the lesson.'",
+      "answer": "c",
+      "explanationTemplate": "Passive voice: be + past participle. The object becomes the subject, and the original subject becomes optional (with 'by').",
+      "exampleSentence": "The lesson was explained by the teacher.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "The teacher was explained the lesson.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "The lesson explained by the teacher.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "The lesson was explained by the teacher.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "The lesson is explaining by the teacher.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_passive_003",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'Someone has stolen my bike.'",
+      "answer": "b",
+      "explanationTemplate": "Use present perfect passive: 'has/have been + past participle'. 'Has stolen' becomes 'has been stolen'.",
+      "exampleSentence": "My bike has been stolen.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "My bike has stolen.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "My bike has been stolen.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "My bike is stolen.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "My bike was stolen.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_passive_004",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'People speak English all over the world.'",
+      "answer": "b",
+      "explanationTemplate": "Use simple present passive: 'is/are + past participle'. 'People speak' becomes 'English is spoken'.",
+      "exampleSentence": "English is spoken all over the world.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "English speaks all over the world.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "English is spoken all over the world.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "English was spoken all over the world.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "English has spoken all over the world.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_reported_001",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'I am tired,' she said.",
+      "answer": "b",
+      "explanationTemplate": "In reported speech, change present tense to past tense. 'I am' becomes 'she was'.",
+      "exampleSentence": "She said that she was tired.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "She said that I am tired.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "She said that she was tired.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "She said that she is tired.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "She said she tired.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_reported_002",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'I will come tomorrow,' he said.",
+      "answer": "c",
+      "explanationTemplate": "In reported speech, 'will' becomes 'would' and 'tomorrow' becomes 'the next day' or 'the following day'.",
+      "exampleSentence": "He said that he would come the next day.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "He said that he will come tomorrow.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "He said that he would come tomorrow.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "He said that he would come the next day.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "He said he comes tomorrow.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_reported_003",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'I have finished my homework,' he said.",
+      "answer": "c",
+      "explanationTemplate": "In reported speech, present perfect becomes past perfect. 'I have finished' becomes 'he had finished'.",
+      "exampleSentence": "He said that he had finished his homework.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "He said that he has finished his homework.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "He said that he finished his homework.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "He said that he had finished his homework.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "He said he finishes his homework.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_reported_004",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'Don't touch that!' she said.",
+      "answer": "c",
+      "explanationTemplate": "Imperatives in reported speech use 'told/asked + object + (not) to + verb'. 'Don't touch' becomes 'not to touch'.",
+      "exampleSentence": "She told me not to touch that.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "She said don't touch that.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "She said that I don't touch that.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "She told me not to touch that.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "She said I not touch that.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank1.json"
+    },
+    {
+      "id": "q_reported_005",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'I can help you,' she said.",
+      "answer": "b",
+      "explanationTemplate": "In reported speech, 'can' becomes 'could'. Present modals change to past modals.",
+      "exampleSentence": "She said that she could help me.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "She said that she can help me.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "She said that she could help me.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "She said that she will help me.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "She said she helps me.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_006",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'The chef cooked a delicious meal.'",
+      "answer": "b",
+      "explanationTemplate": "Passive voice: be + past participle. The object becomes the subject, and the original subject becomes optional (with 'by').",
+      "exampleSentence": "A delicious meal was cooked by the chef.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "The chef was cooked a delicious meal.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "A delicious meal was cooked by the chef.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "A delicious meal cooked by the chef.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "A delicious meal is cooking by the chef.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_008",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'They are building a new school.'",
+      "answer": "c",
+      "explanationTemplate": "Use present continuous passive: 'is/are being + past participle'. 'They are building' becomes 'A new school is being built'.",
+      "exampleSentence": "A new school is being built.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "A new school is building.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "A new school is built.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "A new school is being built.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "A new school has built.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_006",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'I have been waiting for an hour,' he said.",
+      "answer": "c",
+      "explanationTemplate": "In reported speech, present perfect continuous becomes past perfect continuous. 'I have been waiting' becomes 'he had been waiting'.",
+      "exampleSentence": "He said that he had been waiting for an hour.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "He said that he has been waiting for an hour.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "He said that he is waiting for an hour.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "He said that he had been waiting for an hour.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "He said he waits for an hour.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_008",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'What time is it?' he asked.",
+      "answer": "b",
+      "explanationTemplate": "Questions in reported speech use 'asked' and change word order. 'What time is it?' becomes 'he asked what time it was'.",
+      "exampleSentence": "He asked what time it was.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "He asked what time is it.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "He asked what time it was.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "He asked what time was it.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "He asked what time it is.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_009",
+      "type": "multiple_choice",
+      "difficulty": 3,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'The students cleaned the classroom.'",
+      "answer": "c",
+      "explanationTemplate": "Passive voice: be + past participle. The object becomes the subject, and the original subject becomes optional (with 'by').",
+      "exampleSentence": "The classroom was cleaned by the students.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "The students were cleaned the classroom.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "The classroom cleaned by the students.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "The classroom was cleaned by the students.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "The classroom is cleaning by the students.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_passive_011",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 8,
+      "prompt": "Convert to passive voice: 'Someone has stolen my wallet.'",
+      "answer": "b",
+      "explanationTemplate": "Use present perfect passive: 'has/have been + past participle'. 'Has stolen' becomes 'has been stolen'.",
+      "exampleSentence": "My wallet has been stolen.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "My wallet has stolen.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "My wallet has been stolen.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "My wallet is stolen.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "My wallet was stolen.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "passive_voice"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_009",
+      "type": "multiple_choice",
+      "difficulty": 4,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'I can speak three languages,' she said.",
+      "answer": "b",
+      "explanationTemplate": "In reported speech, 'can' becomes 'could'. Present modals change to past modals.",
+      "exampleSentence": "She said that she could speak three languages.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "She said that she can speak three languages.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "She said that she could speak three languages.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "c",
+          "text": "She said that she will speak three languages.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "d",
+          "text": "She said she speaks three languages.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    },
+    {
+      "id": "q_reported_011",
+      "type": "multiple_choice",
+      "difficulty": 5,
+      "topicId": 9,
+      "prompt": "Convert to reported speech: 'Where do you live?' she asked.",
+      "answer": "c",
+      "explanationTemplate": "Questions in reported speech use 'asked' and change word order. 'Where do you live?' becomes 'she asked where I lived'.",
+      "exampleSentence": "She asked where I lived.",
+      "choices": [
+        {
+          "choiceId": "a",
+          "text": "She asked where do I live.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "b",
+          "text": "She asked where I live.",
+          "isCorrect": false
+        },
+        {
+          "choiceId": "c",
+          "text": "She asked where I lived.",
+          "isCorrect": true
+        },
+        {
+          "choiceId": "d",
+          "text": "She asked where did I live.",
+          "isCorrect": false
+        }
+      ],
+      "tags": [
+        {
+          "tagType": "grammar_point",
+          "tagValue": "reported_speech"
+        }
+      ],
+      "_source_file": "question_bank3.json"
+    }
+  ]
+}

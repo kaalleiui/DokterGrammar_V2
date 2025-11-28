@@ -47,7 +47,7 @@
     "difficulty": 4,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The book, _____ cover is torn, needs to be replaced.'",
-    "answer": "whose",
+    "answer": "c",
     "explanationTemplate": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things.",
     "exampleSentence": "The book, whose cover is torn, needs to be replaced.",
     "choices": [
@@ -165,7 +165,7 @@
     "difficulty": 3,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The reason _____ I called you is important.'",
-    "answer": "why",
+    "answer": "c",
     "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened.",
     "exampleSentence": "The reason why I called you is important.",
     "choices": [
@@ -325,7 +325,7 @@
     "difficulty": 3,
     "topicId": 5,
     "prompt": "Fill in the blank: 'I wanted to go to the party, _____ I had too much work.'",
-    "answer": "but",
+    "answer": "b",
     "explanationTemplate": "Use 'but' to show contrast between two ideas. 'But' connects contrasting clauses.",
     "exampleSentence": "I wanted to go to the party, but I had too much work.",
     "choices": [
@@ -401,7 +401,7 @@
     "difficulty": 4,
     "topicId": 12,
     "prompt": "Fill in the blank: 'The students should do the homework _____.'",
-    "answer": "themselves",
+    "answer": "b",
     "explanationTemplate": "Use reflexive pronouns (myself, yourself, himself, herself, itself, ourselves, yourselves, themselves) when the subject and object are the same.",
     "exampleSentence": "The students should do the homework themselves.",
     "choices": [
@@ -553,7 +553,7 @@
     "difficulty": 5,
     "topicId": 4,
     "prompt": "Fill in the blank: 'The company _____ I work is very large.'",
-    "answer": "where",
+    "answer": "c",
     "explanationTemplate": "Use 'where' for places in relative clauses. 'The company' refers to a place (location), so use 'where'.",
     "exampleSentence": "The company where I work is very large.",
     "choices": [
@@ -709,7 +709,7 @@
     "difficulty": 4,
     "topicId": 8,
     "prompt": "Fill in the blank: 'The new bridge _____ being built next year.'",
-    "answer": "will be",
+    "answer": "b",
     "explanationTemplate": "Use future passive: 'will be + past participle'. 'Will be being' is not used; use 'will be + past participle' instead.",
     "exampleSentence": "The new bridge will be built next year.",
     "choices": [
@@ -827,7 +827,7 @@
     "difficulty": 4,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The day _____ I met you was the best day of my life.'",
-    "answer": "when",
+    "answer": "c",
     "explanationTemplate": "Use 'when' for time in adjective clauses. 'The day' refers to a time, so use 'when'.",
     "exampleSentence": "The day when I met you was the best day of my life.",
     "choices": [
@@ -987,7 +987,7 @@
     "difficulty": 3,
     "topicId": 5,
     "prompt": "Fill in the blank: 'I wanted to watch the movie, _____ I had to finish my homework first.'",
-    "answer": "but",
+    "answer": "b",
     "explanationTemplate": "Use 'but' to show contrast between what you want and what you must do.",
     "exampleSentence": "I wanted to watch the movie, but I had to finish my homework first.",
     "choices": [
@@ -1067,7 +1067,7 @@
     "difficulty": 4,
     "topicId": 12,
     "prompt": "Fill in the blank: 'She cut _____ while cooking.'",
-    "answer": "herself",
+    "answer": "b",
     "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'She' cut 'herself'.",
     "exampleSentence": "She cut herself while cooking.",
     "choices": [
@@ -1185,7 +1185,7 @@
     "difficulty": 5,
     "topicId": 4,
     "prompt": "Fill in the blank: 'The restaurant _____ we had dinner was expensive.'",
-    "answer": "where",
+    "answer": "c",
     "explanationTemplate": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'.",
     "exampleSentence": "The restaurant where we had dinner was expensive.",
     "choices": [
@@ -1413,7 +1413,7 @@
     "difficulty": 4,
     "topicId": 7,
     "prompt": "Fill in the blank: 'The team _____ celebrating their victory.'",
-    "answer": "is",
+    "answer": "a",
     "explanationTemplate": "'Team' can be singular (as a group) or plural (as individuals). Here it's treated as singular, so use 'is'.",
     "exampleSentence": "The team is celebrating their victory.",
     "choices": [
@@ -1527,7 +1527,7 @@
     "difficulty": 4,
     "topicId": 8,
     "prompt": "Fill in the blank: 'The problem _____ solved by the team yesterday.'",
-    "answer": "was",
+    "answer": "b",
     "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
     "exampleSentence": "The problem was solved by the team yesterday.",
     "choices": [
@@ -1641,7 +1641,7 @@
     "difficulty": 5,
     "topicId": 9,
     "prompt": "Fill in the blank: 'I will call you later,' she said. → She said that she _____ call me later.",
-    "answer": "would",
+    "answer": "b",
     "explanationTemplate": "In reported speech, 'will' becomes 'would'. Future tense changes to conditional.",
     "exampleSentence": "She said that she would call me later.",
     "choices": [
@@ -1755,7 +1755,7 @@
     "difficulty": 3,
     "topicId": 10,
     "prompt": "Fill in the blank: 'She is afraid _____ spiders.'",
-    "answer": "of",
+    "answer": "b",
     "explanationTemplate": "Use 'afraid of' (not 'afraid from' or 'afraid about'). 'Of' follows 'afraid'.",
     "exampleSentence": "She is afraid of spiders.",
     "choices": [
@@ -1869,7 +1869,7 @@
     "difficulty": 4,
     "topicId": 2,
     "prompt": "Fill in the blank: 'She _____ have left already. Her car is gone.'",
-    "answer": "must",
+    "answer": "a",
     "explanationTemplate": "Use 'must have + past participle' to express a logical conclusion about a past event. The evidence suggests she left.",
     "exampleSentence": "She must have left already. Her car is gone.",
     "choices": [
@@ -1945,7 +1945,7 @@
     "difficulty": 4,
     "topicId": 3,
     "prompt": "Fill in the blank: 'If she _____ studied harder, she would have passed.'",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations.",
     "exampleSentence": "If she had studied harder, she would have passed.",
     "choices": [
@@ -2025,7 +2025,7 @@
     "difficulty": 4,
     "topicId": 1,
     "prompt": "Fill in the blank: 'By next year, I _____ living here for five years.'",
-    "answer": "will have been",
+    "answer": "b",
     "explanationTemplate": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time.",
     "exampleSentence": "By next year, I will have been living here for five years.",
     "choices": [
@@ -2105,7 +2105,7 @@
     "difficulty": 4,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The reason _____ she left is still unknown.'",
-    "answer": "why",
+    "answer": "c",
     "explanationTemplate": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened.",
     "exampleSentence": "The reason why she left is still unknown.",
     "choices": [
@@ -2223,7 +2223,7 @@
     "difficulty": 3,
     "topicId": 11,
     "prompt": "Fill in the blank: 'The moment _____ I saw her, I knew she was special.'",
-    "answer": "when",
+    "answer": "c",
     "explanationTemplate": "Use 'when' for time in adjective clauses. 'The moment' refers to a time, so use 'when'.",
     "exampleSentence": "The moment when I saw her, I knew she was special.",
     "choices": [
@@ -2299,7 +2299,7 @@
     "difficulty": 4,
     "topicId": 12,
     "prompt": "Fill in the blank: 'One should always do _____ best.'",
-    "answer": "one's",
+    "answer": "b",
     "explanationTemplate": "Use 'one's' (possessive form of 'one') when using 'one' as a pronoun. 'One' is formal and singular.",
     "exampleSentence": "One should always do one's best.",
     "choices": [
@@ -2417,7 +2417,7 @@
     "difficulty": 3,
     "topicId": 12,
     "prompt": "Fill in the blank: 'I made this cake _____.'",
-    "answer": "myself",
+    "answer": "b",
     "explanationTemplate": "Use reflexive pronouns when the subject and object are the same. 'I' made it 'myself'.",
     "exampleSentence": "I made this cake myself.",
     "choices": [
@@ -2535,7 +2535,7 @@
     "difficulty": 3,
     "topicId": 5,
     "prompt": "Fill in the blank: 'I like coffee, _____ my friend prefers tea.'",
-    "answer": "but",
+    "answer": "b",
     "explanationTemplate": "Use 'but' to show contrast between two different preferences or opinions.",
     "exampleSentence": "I like coffee, but my friend prefers tea.",
     "choices": [
@@ -2729,7 +2729,7 @@
     "difficulty": 2,
     "topicId": 6,
     "prompt": "Fill in the blank: 'She is _____ honest person.'",
-    "answer": "an",
+    "answer": "b",
     "explanationTemplate": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound (silent 'h').",
     "exampleSentence": "She is an honest person.",
     "choices": [
@@ -2805,7 +2805,7 @@
     "difficulty": 4,
     "topicId": 7,
     "prompt": "Fill in the blank: 'Not only the teacher but also the students _____ excited.'",
-    "answer": "are",
+    "answer": "b",
     "explanationTemplate": "With 'not only...but also', the verb agrees with the subject closest to it. 'Students' is plural, so use 'are'.",
     "exampleSentence": "Not only the teacher but also the students are excited.",
     "choices": [
@@ -2885,7 +2885,7 @@
     "difficulty": 3,
     "topicId": 7,
     "prompt": "Fill in the blank: 'The group of students _____ waiting outside.'",
-    "answer": "is",
+    "answer": "a",
     "explanationTemplate": "'The group of' is singular, so use 'is'. The prepositional phrase 'of students' doesn't change the subject.",
     "exampleSentence": "The group of students is waiting outside.",
     "choices": [
@@ -2961,7 +2961,7 @@
     "difficulty": 4,
     "topicId": 8,
     "prompt": "Fill in the blank: 'The report _____ written by the team last week.'",
-    "answer": "was",
+    "answer": "b",
     "explanationTemplate": "Use past tense 'was' (singular) or 'were' (plural) + past participle for passive voice in the past.",
     "exampleSentence": "The report was written by the team last week.",
     "choices": [
@@ -3037,7 +3037,7 @@
     "difficulty": 3,
     "topicId": 8,
     "prompt": "Fill in the blank: 'The windows _____ cleaned every week.'",
-    "answer": "are",
+    "answer": "b",
     "explanationTemplate": "Use simple present passive: 'is/are + past participle'. 'Windows' is plural, so use 'are'.",
     "exampleSentence": "The windows are cleaned every week.",
     "choices": [
@@ -3113,7 +3113,7 @@
     "difficulty": 5,
     "topicId": 9,
     "prompt": "Fill in the blank: 'I'm leaving now,' he said. → He said that he _____ leaving then.",
-    "answer": "was",
+    "answer": "b",
     "explanationTemplate": "In reported speech, present continuous becomes past continuous. 'I'm leaving' becomes 'he was leaving'. Also, 'now' becomes 'then'.",
     "exampleSentence": "He said that he was leaving then.",
     "choices": [
@@ -3189,7 +3189,7 @@
     "difficulty": 4,
     "topicId": 9,
     "prompt": "Fill in the blank: 'I saw him yesterday,' she said. → She said that she _____ seen him the day before.",
-    "answer": "had",
+    "answer": "b",
     "explanationTemplate": "In reported speech, simple past becomes past perfect. 'I saw' becomes 'she had seen'. Also, 'yesterday' becomes 'the day before'.",
     "exampleSentence": "She said that she had seen him the day before.",
     "choices": [
@@ -3269,7 +3269,7 @@
     "difficulty": 5,
     "topicId": 4,
     "prompt": "Fill in the blank: 'The house _____ I grew up is now demolished.'",
-    "answer": "where",
+    "answer": "c",
     "explanationTemplate": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'.",
     "exampleSentence": "The house where I grew up is now demolished.",
     "choices": [

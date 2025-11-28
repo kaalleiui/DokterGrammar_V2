@@ -1,0 +1,25 @@
+# Requirements for DialogGPT training pipeline
+# Install with: pip install -r requirements_training.txt
+
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+numpy>=1.24.0
+accelerate>=0.26.0
+
+# ONNX export and inference
+onnx>=1.14.0
+onnxruntime>=1.15.0
+
+# Flask for HTTP server
+flask>=2.3.0
+flask-cors>=4.0.0
+
+# Optional: for better performance
+# accelerate>=0.20.0  # For distributed training
+# tensorboard>=2.13.0  # For training visualization
+
+# Note: For GPU support, install PyTorch with CUDA:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+

@@ -43,3 +43,14 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# AI Model files (too large for Git)
+models/
+training_data/
+*.safetensors
+*.pt
+optimizer.pt
+scheduler.pt
+rng_state.pth
+trainer_state.json
+training_args.bin

@@ -3,6 +3,7 @@ import '../../../core/constants/app_constants.dart';
 import '../../../core/constants/color_scheme.dart';
 import '../../../core/database/database_helper.dart';
 import '../../../core/services/local_server.dart';
+import '../../../core/services/ai_service.dart';
 import '../../../data/repositories/user_repository.dart';
 import '../../../data/repositories/question_repository.dart';
 import '../../../data/repositories/test_repository.dart';
@@ -30,6 +31,9 @@ class _SplashScreenState extends State<SplashScreen> {
     try {
       // Initialize database
       await DatabaseHelper.instance.database;
+      
+      // Initialize AI service (load pre-generated explanations)
+      await AIService.initialize();
       
       // Initialize local server and rule engine
       await LocalServer.instance.initialize();

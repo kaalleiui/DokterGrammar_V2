@@ -1,13 +1,32 @@
 import '../models/question.dart';
 import 'rule_engine.dart';
+import 'ai_service.dart';
 
 class ExplanationService {
   /// Generate explanation for a question attempt
-  String generateExplanation({
+  /// Uses AI explanations if available, falls back to rule-based
+  Future<String> generateExplanation({
     required Question question,
     required String? userAnswer,
     required bool? isCorrect,
-  }) {
+  }) async {
+    // Try AI service first
+    try {
+      final aiResult = await AIService.generateExplanation(
+        question: question,
+        userAnswer: userAnswer,
+        isCorrect: isCorrect,
+        userInterests: [], // Can be enhanced later
+      );
+      
+      // Return AI explanation if available
+      if (aiResult['type'] == 'ai_generated') {
+        return aiResult['text'] as String;
+      }
+    } catch (e) {
+      // Fall through to rule-based if AI fails
+    }
+    // Fallback to rule-based explanation
     // Try to use template from rule engine first
     final template = RuleEngine.getTemplateForQuestionType(
       question.type,

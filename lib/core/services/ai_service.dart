@@ -1,26 +1,34 @@
+import 'dart:convert';
+import 'package:flutter/services.dart';
 import '../models/question.dart';
 import 'explanation_service.dart';
 
 /// AI Service for on-device model inference
-/// Currently uses rule-based fallback (as per spec: "If on-device heavy model not feasible, fallback to templated explanations")
+/// Uses pre-generated AI explanations from JSON file
+/// Falls back to rule-based explanations if AI explanations not available
 class AIService {
   static bool _modelAvailable = false;
   static Map<String, dynamic>? _modelConfig;
+  static Map<String, dynamic>? _aiExplanations;
 
-  /// Initialize AI service (load model config)
+  /// Initialize AI service (load pre-generated explanations from JSON)
   static Future<void> initialize() async {
     try {
-      // Try to load model config
-      // In a real implementation, this would load the ONNX model
-      // For now, we use rule-based fallback as specified
-      _modelAvailable = false; // Model not available, use fallback
+      // Try to load pre-generated AI explanations
+      final jsonString = await rootBundle.loadString('assets/data/ai_explanations.json');
+      _aiExplanations = json.decode(jsonString) as Map<String, dynamic>;
+      _modelAvailable = true;
       _modelConfig = {
         'model_name': 'grammar_explainer_v1',
-        'model_type': 'lightweight_generative',
+        'model_type': 'pre_generated_json',
         'fallback_to_template': true,
+        'explanations_count': _aiExplanations?.length ?? 0,
       };
+      print('[AIService] Loaded ${_aiExplanations?.length ?? 0} AI explanations');
     } catch (e) {
+      print('[AIService] Failed to load AI explanations: $e');
       _modelAvailable = false;
+      _aiExplanations = null;
       _modelConfig = {'fallback_to_template': true};
     }
   }
@@ -33,22 +41,76 @@ class AIService {
     required List<String> userInterests,
     Map<String, dynamic>? context,
   }) async {
-    // If model not available, use rule-based fallback
-    if (!_modelAvailable || _modelConfig?['fallback_to_template'] == true) {
-      return _generateRuleBasedExplanation(
+    // Try to get AI-generated explanation first
+    if (_modelAvailable && _aiExplanations != null) {
+      final aiExplanation = _getAIExplanation(
         question: question,
         userAnswer: userAnswer,
         isCorrect: isCorrect,
       );
+      
+      if (aiExplanation != null) {
+        return {
+          'text': aiExplanation,
+          'type': 'ai_generated',
+          'confidence': 0.9,
+          'rule_applied': _getRuleIdFromQuestion(question),
+          'example': question.exampleSentence,
+          'follow_up_available': false,
+          'related_topics': _getRelatedTopics(question),
+          'generation_time_ms': 0, // Instant lookup
+        };
+      }
     }
 
-    // TODO: In future, implement actual ONNX model inference here
-    // For now, always use rule-based
+    // Fallback to rule-based explanation
     return _generateRuleBasedExplanation(
       question: question,
       userAnswer: userAnswer,
       isCorrect: isCorrect,
     );
+  }
+
+  /// Get AI-generated explanation from pre-generated JSON
+  static String? _getAIExplanation({
+    required Question question,
+    required String? userAnswer,
+    required bool? isCorrect,
+  }) {
+    if (_aiExplanations == null) {
+      return null;
+    }
+
+    final questionId = question.id;
+    final questionData = _aiExplanations![questionId];
+
+    if (questionData == null || questionData is! Map<String, dynamic>) {
+      return null;
+    }
+
+    try {
+      if (isCorrect == true) {
+        // Return explanation for correct answer
+        return questionData['correct'] as String?;
+      } else {
+        // Return explanation for incorrect answer
+        final incorrect = questionData['incorrect'];
+        if (incorrect != null && incorrect is Map<String, dynamic>) {
+          // Try to get explanation for specific wrong answer
+          if (userAnswer != null && incorrect.containsKey(userAnswer)) {
+            return incorrect[userAnswer] as String?;
+          }
+          // Fallback to first incorrect explanation if available
+          if (incorrect.isNotEmpty) {
+            return incorrect.values.first as String?;
+          }
+        }
+      }
+    } catch (e) {
+      print('[AIService] Error getting AI explanation: $e');
+    }
+
+    return null;
   }
 
   /// Generate rule-based explanation (fallback)

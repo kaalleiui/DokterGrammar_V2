@@ -1,0 +1,1666 @@
+{
+  "q_tenses_001": {
+    "correct": "Jawaban Anda benar! 'go' adalah pilihan yang tepat. Use simple present for actions that started in the past and continue to the present. Contoh: I go to school every day.",
+    "incorrect": {
+      "b": "Use simple present for actions that started in the past and continue to the present. Contoh yang benar: I go to school every day.",
+      "c": "Use simple present for work, study, and play. Contoh yang benar: I go to school every day.",
+      "d": "Use simple present for assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments, assignments"
+    }
+  },
+  "q_tenses_002": {
+    "correct": "Jawaban Anda benar! 'went' adalah pilihan yang tepat. Use simple past tense (go to store, go to school, go to bed) for actions that started in the past and continue to the present. Contoh: I went to the store yesterday.",
+    "incorrect": {
+      "a": "Use simple past tense for habitual habits. 'Going' means 'went'. Contoh yang benar: I went to the store yesterday.",
+      "c": "Use simple past tense for actions that started in the past and continue to the present. Contoh yang benar: I went to the store yesterday.",
+      "d": "Use simple past tense for actions that started in the past and continue to the present. Contoh yang benar: I went to the store yesterday."
+    }
+  },
+  "q_tenses_003": {
+    "correct": "Jawaban Anda benar! 'was' adalah pilihan yang tepat. Use past continuous (was/were + verb-ing) for actions in progress when another action happened. Contoh: She was reading a book when I called.",
+    "incorrect": {
+      "a": "Use past continuous (was/were + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: She was reading a book when I called.",
+      "c": "Use past continuous (was/were + verb-ing) for actions that started in the past and continued to the present. Contoh yang benar: She was reading a book when I called.",
+      "d": "Use past continuous (was/were + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: She was reading a book when I called."
+    }
+  },
+  "q_tenses_004": {
+    "correct": "Jawaban Anda benar! 'have lived' adalah pilihan yang tepat. Use present perfect (have/has + past participle) for actions that started in the past and continue to the present. Contoh: I have lived here for five years.",
+    "incorrect": {
+      "a": "Use present perfect (have/has been + verb-ing) for actions completed before a past action. Contoh yang benar: I have lived here for five years.",
+      "b": "Use present perfect (have/has + past participle) with 'for' or 'since' to show duration or duration change. Contoh yang benar: I have lived here for five years.",
+      "d": "Use present perfect (have/has + past participle) with 'for' to express habitual habits or habits that have been ongoing for a long time. Contoh yang benar: I have lived here for five years."
+    }
+  },
+  "q_tenses_005": {
+    "correct": "Jawaban Anda benar! 'will have finished' adalah pilihan yang tepat. Use future perfect (will have + past participle) for actions that will be completed before another planned action. Contoh: By the time you arrive, I will have finished dinner.",
+    "incorrect": {
+      "a": "Use future perfect (will have finished + verb-ing) for actions that will be completed before a future time point. Contoh yang benar: By the time you arrive, I will have finished dinner.",
+      "b": "Use future perfect (will have finished + verb-ing) for actions that will have finished before a future time point. Contoh yang benar: By the time you arrive, I will have finished dinner.",
+      "c": "Use future perfect (will have finished + verb-ing) when the subject becomes the subject of the present action. Contoh yang benar: By the time you arrive, I will have finished dinner."
+    }
+  },
+  "q_tenses_006": {
+    "correct": "Jawaban Anda benar! 'will have worked' adalah pilihan yang tepat. Use future perfect (will have + past participle) for actions that will continue up to a future time. Contoh: By next month, I will have worked here for a year.",
+    "incorrect": {
+      "a": "Use future perfect (will have + past participle) for actions that will be completed before a future time point. Contoh yang benar: By next month, I will have worked here for a year.",
+      "b": "Use future perfect (will have + past participle) for actions that will be completed before another future time point. Contoh yang benar: By next month, I will have worked here for a year.",
+      "d": "Use future perfect (will have + past participle) for actions that will have been completed before a future time point. Contoh yang benar: By next month, I will have worked here for a year."
+    }
+  },
+  "q_tenses_007": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use past perfect (had + past participle) for actions completed before a future time point. Contoh: By the time she arrived, I had already left.",
+    "incorrect": {
+      "a": "Use past perfect (had + past participle) for actions that started in the past and continue to the present. Contoh yang benar: By the time she arrived, I had already left.",
+      "c": "Use past perfect (had + past participle) for actions that started in the past and continue to the present day. Contoh yang benar: By the time she arrived, I had already left.",
+      "d": "Use past perfect (had + past participle) for actions completed before another past action. Contoh yang benar: By the time she arrived, I had already left."
+    }
+  },
+  "q_tenses_008": {
+    "correct": "Jawaban Anda benar! 'are playing' adalah pilihan yang tepat. Use present continuous (are playing) for actions that started in the past and continue to the present. Contoh: They are playing soccer right now.",
+    "incorrect": {
+      "a": "Use present continuous (am/is/are + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: They are playing soccer right now.",
+      "c": "Use present continuous (are playing, not now or later) for actions that started in the past and continue to now. Contoh yang benar: They are playing soccer right now.",
+      "d": "Use present continuous (are playing, not watching) for actions that started in the past and continue to now. Contoh yang benar: They are playing soccer right now."
+    }
+  },
+  "q_tenses_009": {
+    "correct": "Jawaban Anda benar! 'have' adalah pilihan yang tepat. Use present perfect continuous (have/has been + verb-ing) for actions completed before a future time point. Contoh: I have been waiting for an hour.",
+    "incorrect": {
+      "b": "Use present perfect continuous (have/has been + verb-ing) for actions completed before another past action. Contoh yang benar: I have been waiting for an hour.",
+      "c": "Use present perfect continuous (have/has been + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: I have been waiting for an hour.",
+      "d": "Use present perfect continuous (have/has been + verb-ing) for actions completed before another past action. Contoh yang benar: I have been waiting for an hour."
+    }
+  },
+  "q_tenses_010": {
+    "correct": "Jawaban Anda benar! 'has been working' adalah pilihan yang tepat. Use present perfect continuous (have/has been + verb-ing) for actions completed in the past. Contoh: She has been working here since 2020.",
+    "incorrect": {
+      "a": "Use present perfect continuous (have/has been + verb-ing) for actions that started in the past and continue to the present. Contoh yang benar: She has been working here since 2020.",
+      "b": "Use present perfect continuous (have/has been + verb-ing) for actions completed before another past action. Contoh yang benar: She has been working here since 2020.",
+      "d": "Use present perfect continuous (have/has been + verb-ing) with 'since' to show duration. Contoh yang benar: She has been working here since 2020."
+    }
+  },
+  "q_tenses_011": {
+    "correct": "Jawaban Anda benar! 'will have been studying' adalah pilihan yang tepat. Use future perfect continuous (will have been studying + verb-ing) for actions that will continue up to a future time. Contoh: By next year, I will have been studying English for ten years.",
+    "incorrect": {
+      "a": "Use future perfect continuous (will have been studying) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been studying English for ten years.",
+      "b": "Use future perfect continuous (will have been studying) for actions that will continue up to a future time point. Contoh yang benar: By next year, I will have been studying English for ten years.",
+      "c": "Use future perfect continuous (will have been studying) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been studying English for ten years."
+    }
+  },
+  "q_tenses_012": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use past perfect (had + past participle) for actions completed before another past action. Contoh: When I arrived, they had already finished dinner.",
+    "incorrect": {
+      "a": "Use past perfect (had + past participle) for actions that had been completed before another past action. Contoh yang benar: When I arrived, they had already finished dinner.",
+      "c": "Use past perfect (had + past participle) for actions that had been completed before a previous action. Contoh yang benar: When I arrived, they had already finished dinner.",
+      "d": "Use past perfect (had + past participle) for actions that had been ongoing before a change. Contoh yang benar: When I arrived, they had already finished dinner."
+    }
+  },
+  "q_tenses_013": {
+    "correct": "Jawaban Anda benar! 'drink' adalah pilihan yang tepat. Use simple present for habitual habits. 'Usually' means something is happening. Contoh: I usually drink coffee in the morning.",
+    "incorrect": {
+      "b": "Use simple present for habits, routines, and routines that usually happen in the morning. Contoh yang benar: I usually drink coffee in the morning.",
+      "c": "Use simple present for habits and routines. Contoh yang benar: I usually drink coffee in the morning.",
+      "d": "Use simple present for habits and routines. Contoh yang benar: I usually drink coffee in the morning."
+    }
+  },
+  "q_tenses_014": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use past perfect continuous (had been + verb-ing) for actions that started in the past and continue to now. Contoh: She had been living in London for three years before she moved.",
+    "incorrect": {
+      "a": "Use past perfect continuous (had/were + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: She had been living in London for three years before she moved.",
+      "c": "Use past perfect continuous (had been + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: She had been living in London for three years before she moved.",
+      "d": "Use past perfect continuous (had been + verb-ing) for actions that continued up to a point in the past. Contoh yang benar: She had been living in London for three years before she moved."
+    }
+  },
+  "q_tenses_015": {
+    "correct": "Jawaban Anda benar! 'am going' adalah pilihan yang tepat. Use present continuous (am/is/are + verb-ing) for planned or hypothetical future events. Contoh: Next week, I am going to Japan.",
+    "incorrect": {
+      "a": "Use present continuous (am/is/are + verb-ing) for actions happening now or around now. Contoh yang benar: Next week, I am going to Japan.",
+      "c": "Use present continuous (am/is/are + verb-ing) for planned future events. Contoh yang benar: Next week, I am going to Japan.",
+      "d": "Use present continuous (am/is/are + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: Next week, I am going to Japan."
+    }
+  },
+  "q_modals_001": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must' (or 'are') to express obligation or necessity. 'Students' must study harder. Contoh: You must study harder to pass the exam.",
+    "incorrect": {
+      "a": "Use 'must' to express obligation or obligation. 'Must' means something is wrong. Contoh yang benar: You must study harder to pass the exam.",
+      "c": "Use 'must' for actions that must be completed before another action. Contoh yang benar: You must study harder to pass the exam.",
+      "d": "Use 'must' to express a logical conclusion based on evidence. 'Must' is more common in informal situations. Contoh yang benar: You must study harder to pass the exam."
+    }
+  },
+  "q_modals_002": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must have + past participle' in the modals clause. Contoh: I must have left my keys at home.",
+    "incorrect": {
+      "a": "Use 'must have + past participle' to express a logical conclusion about a past event. Contoh yang benar: I must have left my keys at home.",
+      "b": "Use 'must have + past participle' to express a logical conclusion about a past event. Contoh yang benar: I must have left my keys at home.",
+      "d": "Use 'must have + past participle' to express a logical conclusion about a past event. Contoh yang benar: I must have left my keys at home."
+    }
+  },
+  "q_modals_003": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' in the main clause. Contoh: You should have told me earlier!",
+    "incorrect": {
+      "a": "Use 'should have + past participle' to express regret about past actions that didn't happen. Contoh yang benar: You should have told me earlier!",
+      "c": "Use 'should have + past participle' to express regret about past actions that didn't happen. Contoh yang benar: You should have told me earlier!",
+      "d": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: You should have told me earlier!"
+    }
+  },
+  "q_modals_004": {
+    "correct": "Jawaban Anda benar! 'Can' adalah pilihan yang tepat. Use 'Can' to offer help when speaking in general. Contoh: Can I help you with that?",
+    "incorrect": {
+      "b": "Use 'Can' to offer help or help yourself with a problem. 'Can' is more common in informal situations. Contoh yang benar: Can I help you with that?",
+      "c": "Use 'Can' to offer help politely. 'Can' can refer to a specific offer. Contoh yang benar: Can I help you with that?",
+      "d": "Use 'Can' to offer help when asking for help. 'Can' can also refer to asking a simple question. Contoh yang benar: Can I help you with that?"
+    }
+  },
+  "q_modals_005": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh: You must not smoke here. It's prohibited.",
+    "incorrect": {
+      "b": "Use 'must not' or 'but' to express prohibition. 'But' is more restrictive. Contoh yang benar: You must not smoke here. It's prohibited.",
+      "c": "Use 'must not' to express prohibition. 'Must not' means something is prohibited. Contoh yang benar: You must not smoke here. It's prohibited.",
+      "d": "Use 'must not' to express prohibition. 'Must not' means something doesn't happen. Contoh yang benar: You must not smoke here. It's prohibited."
+    }
+  },
+  "q_modals_006": {
+    "correct": "Jawaban Anda benar! 'Can' adalah pilihan yang tepat. Use 'can' (not 'could') for permission in formal clauses. Contoh: You can borrow my book if you want.",
+    "incorrect": {
+      "b": "Use 'can' (or 'must' in informal English) for actions that are technically prohibited. Contoh yang benar: You can borrow my book if you want.",
+      "c": "Use 'can' to express permission or help in polite company situations. Contoh yang benar: You can borrow my book if you want.",
+      "d": "Use 'can' to express permission or prohibition. Contoh yang benar: You can borrow my book if you want."
+    }
+  },
+  "q_modals_007": {
+    "correct": "Jawaban Anda benar! 'might' adalah pilihan yang tepat. Use 'might have + past participle' to show possibility about past events. Contoh: She might have forgotten about the meeting.",
+    "incorrect": {
+      "a": "Use 'might have' to express possibility about past events. Contoh yang benar: She might have forgotten about the meeting.",
+      "c": "Use 'might have' or 'could have' to express possibility about past events. 'Could' can refer to possibility, so use 'might have'. Contoh yang benar: She might have forgotten about the meeting.",
+      "d": "Use 'might have' or 'could have' to talk about past events. Contoh yang benar: She might have forgotten about the meeting."
+    }
+  },
+  "q_modals_008": {
+    "correct": "Jawaban Anda benar! 'could' adalah pilihan yang tepat. Use 'could have + past participle' to express past ability or ability in hypothetical situations. Contoh: I could have done better if I had studied more.",
+    "incorrect": {
+      "a": "Use past ability (past ability + past participle) when speaking in general. Contoh yang benar: I could have done better if I had studied more.",
+      "c": "Use past ability (could/were + verb-ing) for actions that were past before a change. Contoh yang benar: I could have done better if I had studied more.",
+      "d": "Use 'could have + past participle' to express past ability or ability gap. Contoh yang benar: I could have done better if I had studied more."
+    }
+  },
+  "q_modals_009": {
+    "correct": "Jawaban Anda benar! 'Could' adalah pilihan yang tepat. Use 'Could' (or 'Must' in modern English) for requests made by people as opposed to asking for favors. Contoh: Could you please pass me the salt?",
+    "incorrect": {
+      "a": "Use 'Could' to ask for help or help politely. 'Could' is a modal, so use 'Could'. Contoh yang benar: Could you please pass me the salt?",
+      "b": "Use 'Could' to ask for help or help politely. 'Could' can be used with 'yesterday'. Contoh yang benar: Could you please pass me the salt?",
+      "d": "Use 'Could' to ask for favors or favors directly from a person. Contoh yang benar: Could you please pass me the salt?"
+    }
+  },
+  "q_modals_010": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' in the if-clause for actions that should have been completed before another action. Contoh: You should have been more careful!",
+    "incorrect": {
+      "a": "Use 'should have + past participle' to express criticism about past actions. Contoh yang benar: You should have been more careful!",
+      "c": "Use 'should have + past participle' to express criticism or criticism based on evidence. Contoh yang benar: You should have been more careful!",
+      "d": "Use 'should have + past participle' to express criticism or criticism about past actions. Contoh yang benar: You should have been more careful!"
+    }
+  },
+  "q_conditionals_001": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use 'had + past participle' in the if-clause for hypothetical situations. Contoh: If I had known, I would have gone.",
+    "incorrect": {
+      "a": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If I had known, I would have gone.",
+      "c": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If I had known, I would have gone.",
+      "d": "Use 'had + past participle' to express unexpected change in an unexpected way. Contoh yang benar: If I had known, I would have gone."
+    }
+  },
+  "q_conditionals_002": {
+    "correct": "Jawaban Anda benar! 'will' adalah pilihan yang tepat. Use 'will' with 'will' to express possibility about future events. Contoh: If it rains tomorrow, I will stay home.",
+    "incorrect": {
+      "a": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If it rains tomorrow, I will stay home.",
+      "c": "Use 'will' or 'will' to express conditional decision based on evidence. 'If it rains tomorrow, I will stay home.' is correct. Contoh yang benar: If it rains tomorrow, I will stay home.",
+      "d": "This is a first conditional. Use simple past in the if-clause for future possibilities. Contoh yang benar: If it rains tomorrow, I will stay home."
+    }
+  },
+  "q_conditionals_003": {
+    "correct": "Jawaban Anda benar! 'were' adalah pilihan yang tepat. Use 'were' (not 'was') for actions that were ongoing before an action. Contoh: If I were you, I would study harder.",
+    "incorrect": {
+      "b": "This is a second conditional. Use 'were' (not 'were') for all subjects in hypothetical situations. Contoh yang benar: If I were you, I would study harder.",
+      "c": "This is a second conditional. Use 'were' in the if-clause for hypothetical situations in which the offer was made. Contoh yang benar: If I were you, I would study harder.",
+      "d": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were you, I would study harder."
+    }
+  },
+  "q_conditionals_004": {
+    "correct": "Jawaban Anda benar! 'If you heat water to 100°C, it boils.' adalah pilihan yang tepat. Use simple present tense (not present tense in passive voice) for heat in negative clauses. 'If you heat water to 100°C, it boils.' becomes 'If you heat water to 100°C, it boils.' Contoh: If you heat water to 100°C, it boils.",
+    "incorrect": {
+      "a": "This is a first conditional. Use simple present in the if-clause for past hypothetical situations. Contoh yang benar: If you heat water to 100°C, it boils.",
+      "c": "This is a zero conditional. Use simple present in the if-clause for past hypothetical situations. Contoh yang benar: If you heat water to 100°C, it boils.",
+      "d": "Use 'if' for actions that are likely to happen before a certain point in the future. Contoh yang benar: If you heat water to 100°C, it boils."
+    }
+  },
+  "q_conditionals_005": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh: If I had studied harder, I would have passed the exam.",
+    "incorrect": {
+      "a": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If I had studied harder, I would have passed the exam.",
+      "c": "This is a third conditional. Use simple present in the if-clause. Contoh yang benar: If I had studied harder, I would have passed the exam.",
+      "d": "Use 'had + past participle' to show cause and effect. Contoh yang benar: If I had studied harder, I would have passed the exam."
+    }
+  },
+  "q_conditionals_006": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' in the if-clause for hypothetical situations. Contoh: If she should call, tell her I'm busy.",
+    "incorrect": {
+      "a": "This is a first conditional. Use simple present in the if-clause for hypothetical situations. Contoh yang benar: If she should call, tell her I'm busy.",
+      "c": "This is a first conditional. Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she should call, tell her I'm busy.",
+      "d": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If she should call, tell her I'm busy."
+    }
+  },
+  "q_conditionals_007": {
+    "correct": "Jawaban Anda benar! 'would have prepared' adalah pilihan yang tepat. Use 'would have prepared' (not 'would have prepared') for actions that would have been ongoing before an action took place. Contoh: If I had known you were coming, I would have prepared dinner.",
+    "incorrect": {
+      "a": "This is a third conditional. Use simple present in the if-clause for future possibilities. Contoh yang benar: If I had known you were coming, I would have prepared dinner.",
+      "b": "This is a third conditional. Use simple present in the if-clause for past hypothetical situations. Contoh yang benar: If I had known you were coming, I would have prepared dinner.",
+      "d": "Use 'would have prepared' to express conditional certainty about past events. Contoh yang benar: If I had known you were coming, I would have prepared dinner."
+    }
+  },
+  "q_conditionals_008": {
+    "correct": "Jawaban Anda benar! 'were' adalah pilihan yang tepat. Use 'were' (not 'was') for actions that were likely to be completed before another action. Contoh: If I were rich, I would travel the world.",
+    "incorrect": {
+      "a": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were rich, I would travel the world.",
+      "b": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were rich, I would travel the world.",
+      "d": "This is a second conditional. Use 'were' in the if-clause for hypothetical situations in which the possibility of future success is a possibility. Contoh yang benar: If I were rich, I would travel the world."
+    }
+  },
+  "q_conditionals_009": {
+    "correct": "Jawaban Anda benar! 'won't' adalah pilihan yang tepat. Use simple present in the if-clause. Contoh: Unless you study, you won't pass the exam.",
+    "incorrect": {
+      "a": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: Unless you study, you won't pass the exam.",
+      "c": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: Unless you study, you won't pass the exam.",
+      "d": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: Unless you study, you won't pass the exam."
+    }
+  },
+  "q_conditionals_010": {
+    "correct": "Jawaban Anda benar! 'had been' adalah pilihan yang tepat. Use 'had been' (or 'would have been') with 'had accepted' to show possession or ability. Contoh: If I had been you, I would have accepted the offer.",
+    "incorrect": {
+      "a": "Use 'had been' for actions in mixed conditionals. 'If' means 'if'. Contoh yang benar: If I had been you, I would have accepted the offer.",
+      "b": "Use 'had been' for actions in mixed conditionals. 'If' connects the action to a past condition. Contoh yang benar: If I had been you, I would have accepted the offer.",
+      "d": "This is a mixed conditional (past condition, present result). Use 'had been' in the if-clause. Contoh yang benar: If I had been you, I would have accepted the offer."
+    }
+  },
+  "q_complex_001": {
+    "correct": "Jawaban Anda benar! 'The book that I read last week was interesting.' adalah pilihan yang tepat. Use 'that' for things that happened in the past. Contoh: The book that I read last week was interesting.",
+    "incorrect": {
+      "a": "Use 'that' for non-restrictive clauses (with commas). 'That' is more restrictive. Contoh yang benar: The book that I read last week was interesting.",
+      "c": "Use 'that' to show contrast between two ideas. 'That' is more common in relative clauses. Contoh yang benar: The book that I read last week was interesting.",
+      "d": "Use 'that' to show contrast between two different experiences. Contoh yang benar: The book that I read last week was interesting."
+    }
+  },
+  "q_complex_002": {
+    "correct": "Jawaban Anda benar! 'The movie, which was released last year, won many awards.' adalah pilihan yang tepat. Use 'which' for non-restrictive clauses (with commas). 'That' is more restrictive. Contoh: The movie, which was released last year, won many awards.",
+    "incorrect": {
+      "a": "Use 'which' for non-restrictive clauses (with commas). 'That' is restrictive. Contoh yang benar: The movie, which was released last year, won many awards.",
+      "b": "Use 'which' for non-restrictive clauses (with commas). 'That' is a restrictive clause (not a restrictive comma). Contoh yang benar: The movie, which was released last year, won many awards.",
+      "d": "Use 'which' for non-restrictive clauses (with commas). 'The movie' is a nonrestrictive clause. Contoh yang benar: The movie, which was released last year, won many awards."
+    }
+  },
+  "q_complex_003": {
+    "correct": "Jawaban Anda benar! 'The students who study hard usually get good grades.' adalah pilihan yang tepat. Use 'who' for people as subjects in relative clauses. 'The students' is the subject, so use 'who'. Contoh: The students who study hard usually get good grades.",
+    "incorrect": {
+      "b": "Use 'who' for people as subjects in relative clauses. 'The students' is the subject, so use 'who'. Contoh yang benar: The students who study hard usually get good grades.",
+      "c": "Use 'who' for people as subjects in relative clauses. 'Students' is the subject, so use 'who'. Contoh yang benar: The students who study hard usually get good grades.",
+      "d": "Use 'who' for people as subjects in relative clauses. 'The students' is the subject, so use 'who'. Contoh yang benar: The students who study hard usually get good grades."
+    }
+  },
+  "q_complex_004": {
+    "correct": "Jawaban Anda benar! 'This is the place where I first met her.' adalah pilihan yang tepat. Use 'where' to show geographical location in relative clauses. 'The place' refers to a location, so use 'where'. Contoh: This is the place where I first met her.",
+    "incorrect": {
+      "b": "Use 'where' for places in relative clauses. 'The place' refers to a location, so use 'where'. Contoh yang benar: This is the place where I first met her.",
+      "c": "Use 'where' for places in relative clauses. 'The place' refers to a location, so use 'where'. Contoh yang benar: This is the place where I first met her.",
+      "d": "Use 'where' for places in relative clauses. 'The place' refers to a location, so use 'where'. Contoh yang benar: This is the place where I first met her."
+    }
+  },
+  "q_sentence_combining_001": {
+    "correct": "Jawaban Anda benar! 'After finishing my homework, I went to bed.' adalah pilihan yang tepat. Use 'after' for prepositions like 'went to bed'. 'After finishing' means 'after finishing'. Contoh: After finishing my homework, I went to bed.",
+    "incorrect": {
+      "b": "Use 'after' or 'for' to show unexpected contrast. 'After finishing' connects contrasting clauses. Contoh yang benar: After finishing my homework, I went to bed.",
+      "c": "Use 'after' to show cause and effect. 'After finishing' is more common. Contoh yang benar: After finishing my homework, I went to bed.",
+      "d": "Use 'after' or 'even though' to show contrast. 'After finishing' is more common. Contoh yang benar: After finishing my homework, I went to bed."
+    }
+  },
+  "q_sentence_combining_002": {
+    "correct": "Jawaban Anda benar! 'Although she was tired, she continued working.' adalah pilihan yang tepat. Use 'although' to show contrast between two ideas. 'Although' is more common in informal situations. Contoh: Although she was tired, she continued working.",
+    "incorrect": {
+      "a": "Use 'although' or 'even though' to show contrast. 'Although' connects contrasting clauses. Contoh yang benar: Although she was tired, she continued working.",
+      "c": "Use 'although' to show contrast between two ideas. Contoh yang benar: Although she was tired, she continued working.",
+      "d": "Use 'although' to show contrast between two ideas. 'Although' connects the idea and the result. Contoh yang benar: Although she was tired, she continued working."
+    }
+  },
+  "q_sentence_combining_003": {
+    "correct": "Jawaban Anda benar! 'Even though it was raining, we went outside anyway.' adalah pilihan yang tepat. Use 'even though' or 'even though' to show contrast. 'Even though' is more common in informal English. Contoh: It was raining, we went outside anyway.",
+    "incorrect": {
+      "a": "Use 'even though' to show contrast between unexpected and correct information. Contoh yang benar: Even though it was raining, we went outside anyway.",
+      "c": "Use 'even though' to show contrast. 'Even though' is more common in informal situations. Contoh yang benar: It was raining, we went outside anyway.",
+      "d": "Use 'even though' to show contrast. 'Even though' connects contrasting clauses. Contoh yang benar: It was raining, we went outside anyway."
+    }
+  },
+  "q_articles_001": {
+    "correct": "Jawaban Anda benar! 'an' adalah pilihan yang tepat. Use 'an' before words starting with a vowel sound. 'Elephant' starts with a vowel sound. Contoh: I saw an elephant at the zoo.",
+    "incorrect": {
+      "b": "Use 'an' before words starting with a vowel sound. 'Elephant' starts with a vowel sound. Contoh yang benar: I saw an elephant at the zoo.",
+      "c": "Use 'an' before words starting with a vowel sound. 'Elephant' starts with a vowel sound. Contoh yang benar: I saw an elephant at the zoo.",
+      "d": "Use 'an' before words starting with a vowel sound. 'Elephant' starts with a vowel sound. Contoh yang benar: I saw an elephant at the zoo."
+    }
+  },
+  "q_articles_002": {
+    "correct": "Jawaban Anda benar! 'The' adalah pilihan yang tepat. Use 'the' to show geographical location. Contoh: The sun rises in the east.",
+    "incorrect": {
+      "a": "Use 'the' for things in general and specific seasons. Contoh yang benar: The sun rises in the east.",
+      "b": "Use 'the' before words starting with a vowel sound. 'The' starts with a vowel sound. Contoh yang benar: The sun rises in the east.",
+      "d": "Use 'the' with unique geographical features. 'The' is a geographical location. Contoh yang benar: The sun rises in the east."
+    }
+  },
+  "q_articles_003": {
+    "correct": "Jawaban Anda benar! 'an' adalah pilihan yang tepat. Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound. Contoh: I need an hour to finish this.",
+    "incorrect": {
+      "a": "Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound. Contoh yang benar: I need an hour to finish this.",
+      "c": "Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound. Contoh yang benar: I need an hour to finish this.",
+      "d": "Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound. Contoh yang benar: I need an hour to finish this."
+    }
+  },
+  "q_articles_004": {
+    "correct": "Jawaban Anda benar! 'no article' adalah pilihan yang tepat. Use no article for actions that are ongoing or ongoing before another article. Contoh: I love music.",
+    "incorrect": {
+      "a": "Use no article with uncountable nouns when speaking in general. 'Music' refers to a sound, so use 'no article'. Contoh yang benar: I love music.",
+      "b": "Use no article with uncountable nouns when speaking in general. 'Music' is uncountable and general. Contoh yang benar: I love music.",
+      "c": "Use 'no article' to express unexpected or unexpected preferences. Contoh yang benar: I love music."
+    }
+  },
+  "q_sva_001": {
+    "correct": "Jawaban Anda benar! 'are' adalah pilihan yang tepat. Use 'are' (or 'however' in informal English) with 'students'. 'Students' is singular, so use 'are'. Contoh: The students are studying hard.",
+    "incorrect": {
+      "a": "Use 'are' to express agreement or disagreement. 'Students' is singular and must be singular. Contoh yang benar: The students are studying hard.",
+      "c": "Use 'are' to express agreement or disagreement based on evidence. 'Students' is singular, so use 'are'. Contoh yang benar: The students are studying hard.",
+      "d": "'Students' agrees with subject when it's appropriate.' is plural. Contoh yang benar: The students are studying hard."
+    }
+  },
+  "q_sva_002": {
+    "correct": "Jawaban Anda benar! 'Neither the teacher nor the students are happy.' adalah pilihan yang tepat. Use 'are' (or 'have' in informal English) with 'both'. Contoh: Neither the teacher nor the students are happy.",
+    "incorrect": {
+      "a": "Use 'are' (not 'are') for actions that are ongoing or ongoing. Contoh yang benar: Neither the teacher nor the students are happy.",
+      "b": "Use 'are' to express agreement or criticism. 'Neither the teacher nor the students are happy' is common in informal English. Contoh yang benar: Neither the teacher nor the students are happy.",
+      "d": "Use 'are' (not 'are') for actions that are not in progress. Contoh yang benar: Neither the teacher nor the students are happy."
+    }
+  },
+  "q_sva_003": {
+    "correct": "Jawaban Anda benar! 'is' adalah pilihan yang tepat. Use 'is' (not 'are'). Contoh: The number of students is increasing.",
+    "incorrect": {
+      "b": "This is a first conditional. Use 'is' (not 'are'). Contoh yang benar: The number of students is increasing.",
+      "c": "Use 'is' or 'will' to express agreement or disagreement. Contoh yang benar: The number of students is increasing.",
+      "d": "Use 'is' (not 'was') for actions that started in the past and continue to the present. Contoh yang benar: The number of students is increasing."
+    }
+  },
+  "q_sva_004": {
+    "correct": "Jawaban Anda benar! 'has' adalah pilihan yang tepat. Use 'has' for actions that have been completed before an action has been completed. Contoh: The committee has decided to postpone the meeting.",
+    "incorrect": {
+      "b": "Use 'has + past participle' to express agreement or disagreement. Contoh yang benar: The committee has decided to postpone the meeting.",
+      "c": "Use 'has + past participle' to express agreement or disagreement with a decision. Contoh yang benar: The committee has decided to postpone the meeting.",
+      "d": "Use 'has' to express agreement about a project. 'Committee' refers to a group of people. Contoh yang benar: The committee has decided to postpone the meeting."
+    }
+  },
+  "q_passive_001": {
+    "correct": "Jawaban Anda benar! 'The lesson was explained by the teacher.' adalah pilihan yang tepat. Use present perfect passive: 'by the teacher explained the lesson'. 'By the teacher explained the lesson' becomes 'by the students explained the lesson'. Contoh: The lesson was explained by the teacher.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'told' or 'were told' for present situations. Contoh yang benar: The lesson was explained by the teacher.",
+      "b": "Use present perfect passive: 'by the teacher explained the lesson.' 'By the teacher explained the lesson' becomes 'by the teacher explained the lesson.' Contoh yang benar: The lesson was explained by the teacher.",
+      "d": "Passive voice: be + past participle. 'The lesson' becomes 'the lesson was explained by the teacher'. Contoh yang benar: The lesson was explained by the teacher."
+    }
+  },
+  "q_passive_002": {
+    "correct": "Jawaban Anda benar! 'was' adalah pilihan yang tepat. Use present tense 'was' or 'were' to show cause and effect. Contoh: The building was built last year.",
+    "incorrect": {
+      "a": "Use past tense 'was' (not 'was') for actions that started in the past and continue to now. Contoh yang benar: The building was built last year.",
+      "c": "Use past tense 'was' (not 'was'). Contoh yang benar: The building was built last year.",
+      "d": "Use 'was' (or 'were') for actions that started in the past and continue to the present. Contoh yang benar: The building was built last year."
+    }
+  },
+  "q_passive_003": {
+    "correct": "Jawaban Anda benar! 'My bike has been stolen.' adalah pilihan yang tepat. Use present perfect passive: 'has been stolen', 'has been stolen from' or 'was stolen in the past'. Contoh: My bike has been stolen.",
+    "incorrect": {
+      "a": "Passive voice: 'has stolen' becomes 'has been stolen'. Contoh yang benar: My bike has been stolen.",
+      "c": "Passive voice: be + past participle. 'Someone has stolen' becomes 'someone has stolen'. Contoh yang benar: My bike has been stolen.",
+      "d": "Passive voice: be + past participle. 'Someone' becomes 'someone'. Contoh yang benar: My bike has been stolen."
+    }
+  },
+  "q_passive_004": {
+    "correct": "Jawaban Anda benar! 'English is spoken all over the world.' adalah pilihan yang tepat. Use present perfect passive: 'is/are + past participle'. 'People speak English all over the world.' becomes 'English is spoken all over the world'. Contoh: English is spoken all over the world.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'is/are + past participle'. 'People speak English all over the world'. Contoh yang benar: English is spoken all over the world.",
+      "c": "Use present perfect passive: 'is/are + past participle'. 'People speak' becomes 'English is spoken'. Contoh yang benar: English is spoken all over the world.",
+      "d": "Use present perfect passive: 'is/are + past participle'. 'People speak' becomes 'English is spoken'. Contoh yang benar: English is spoken all over the world."
+    }
+  },
+  "q_reported_001": {
+    "correct": "Jawaban Anda benar! 'She said that she was tired.' adalah pilihan yang tepat. Use reported speech as a modal. 'I am tired' becomes 'she was tired'. Contoh: She said that she was tired.",
+    "incorrect": {
+      "a": "In reported speech, present perfect continuous becomes past perfect continuous. 'I am' becomes 'she was'. Contoh yang benar: She said that she was tired.",
+      "c": "In reported speech, present perfect becomes past perfect. 'I am' becomes 'she was'. Contoh yang benar: She said that she was tired.",
+      "d": "In reported speech, present perfect becomes past perfect. 'I am' becomes 'she was'. Contoh yang benar: She said that she was tired."
+    }
+  },
+  "q_reported_002": {
+    "correct": "Jawaban Anda benar! 'He said that he would come the next day.' adalah pilihan yang tepat. Use reported speech with 'will' or 'are about to'. 'Will' becomes 'will come'. Contoh: He said that he would come the next day.",
+    "incorrect": {
+      "a": "In reported speech, 'will' becomes 'he said'. 'If' becomes 'he said'. Contoh yang benar: He said that he would come the next day.",
+      "b": "In reported speech, present perfect becomes past perfect. 'Will come' becomes 'will come'. Contoh yang benar: He said that he would come the next day.",
+      "d": "Use reported speech for actions that will be reported in future. 'Will' will be reported first. Contoh yang benar: He said that he would come the next day."
+    }
+  },
+  "q_reported_003": {
+    "correct": "Jawaban Anda benar! 'He said that he had finished his homework.' adalah pilihan yang tepat. Use reported speech to talk about completed tasks. 'I have finished' becomes 'he had finished'. Contoh: He said that he had finished his homework.",
+    "incorrect": {
+      "a": "In reported speech, present perfect becomes past perfect. 'I have finished' becomes 'he had finished'. Contoh yang benar: He said that he had finished his homework.",
+      "b": "In reported speech, present perfect becomes past perfect. 'I have finished' becomes 'he had finished'. Contoh yang benar: He said that he had finished his homework.",
+      "d": "In reported speech, present perfect becomes past perfect. 'I have finished' becomes 'he had finished'. Contoh yang benar: He said that he had finished his homework."
+    }
+  },
+  "q_reported_004": {
+    "correct": "Jawaban Anda benar! 'She told me not to touch that.' adalah pilihan yang tepat. Use reported speech in reported situations when a person said something unexpected or unexpected. Contoh: She told me not to touch that.",
+    "incorrect": {
+      "a": "Use reported speech with 'not' or 'understandable' to express unexpected things. Contoh yang benar: She told me not to touch that.",
+      "b": "Jawaban Anda benar! 'She told me not to touch that.' adalah pilihan yang tepat. Use reported speech for actions that didn't happen before. Contoh: She told me not to touch that.",
+      "d": "In reported speech, present perfect becomes past perfect. 'Don't touch' becomes 'not touch'. Contoh yang benar: She told me not to touch that."
+    }
+  },
+  "q_prepositions_001": {
+    "correct": "Jawaban Anda benar! 'at' adalah pilihan yang tepat. Use 'at' to show a deadline or deadline point. Contoh: I will meet you at 3 PM.",
+    "incorrect": {
+      "a": "Use 'at' for specific times of day. Contoh yang benar: I will meet you at 3 PM.",
+      "c": "Use 'at' for specific times of day. Contoh yang benar: I will meet you at 3 PM.",
+      "d": "Use 'at' for specific times of day. Contoh yang benar: I will meet you at 3 PM."
+    }
+  },
+  "q_prepositions_002": {
+    "correct": "Jawaban Anda benar! 'on' adalah pilihan yang tepat. Use 'on' for things that are on or are connected to another surface. Contoh: The book is on the table.",
+    "incorrect": {
+      "a": "Use 'on' to show possession in prepositions. 'The' is used for things in prepositions. Contoh yang benar: The book is on the table.",
+      "c": "Use 'on' for things that are on the table. Contoh yang benar: The book is on the table.",
+      "d": "Use 'on' to show possession in relative clauses. 'The' is more common in relative clauses. Contoh yang benar: The book is on the table."
+    }
+  },
+  "q_prepositions_003": {
+    "correct": "Jawaban Anda benar! 'by' adalah pilihan yang tepat. Use 'by' for specific days of the week. Contoh: I will finish this by Friday.",
+    "incorrect": {
+      "a": "Use 'by' for specific days of the week. Contoh yang benar: I will finish this by Friday.",
+      "b": "Use 'by' for specific times of day. Contoh yang benar: I will finish this by Friday.",
+      "d": "Use 'by' to show possession in progress. 'By' indicates a deadline. Contoh yang benar: I will finish this by Friday."
+    }
+  },
+  "q_prepositions_004": {
+    "correct": "Jawaban Anda benar! 'interested in' adalah pilihan yang tepat. Use 'interested in' to express a desire or expectation about something. Contoh: I'm interested in learning English.",
+    "incorrect": {
+      "a": "Use 'interested in' for skills or abilities that are already present in the past. Contoh yang benar: I'm interested in learning English.",
+      "c": "Use 'interested in' (not 'interested about'). Contoh yang benar: I'm interested in learning English.",
+      "d": "Use 'interested in' (not 'interested about'). Contoh yang benar: I'm interested in learning English."
+    }
+  },
+  "q_adjective_clauses_001": {
+    "correct": "Jawaban Anda benar! 'whom' adalah pilihan yang tepat. Use 'who' for people as objects in adjective clauses. 'The person' refers to a person, so use 'whom'. Contoh: The person whom I met yesterday was very kind.",
+    "incorrect": {
+      "a": "Use 'whom' for people as objects in adjective clauses. 'The person' refers to a person, so use 'whom'. Contoh yang benar: The person whom I met yesterday was very kind.",
+      "c": "Use 'whom' (or 'who' in modern English) with 'who'. 'The person' refers to a person, so use 'whom'. Contoh yang benar: The person whom I met yesterday was very kind.",
+      "d": "Use 'whom' (or 'who' in modern English) for people as objects. 'The person' refers to a person, so use 'whom'. Contoh yang benar: The person whom I met yesterday was very kind."
+    }
+  },
+  "q_adjective_clauses_002": {
+    "correct": "Jawaban Anda benar! 'The student whose book was lost asked for help.' adalah pilihan yang tepat. Use 'whose' for people as objects in adjective clauses. 'Whose' refers to both people and things. Contoh: The student whose book was lost asked for help.",
+    "incorrect": {
+      "a": "Use 'whose' for people as objects in adjective clauses. 'Whose' can refer to both people and things. Contoh yang benar: The student whose book was lost asked for help.",
+      "b": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to people or things. Contoh yang benar: The student whose book was lost asked for help.",
+      "c": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things. Contoh yang benar: The student whose book was lost asked for help."
+    }
+  },
+  "q_adjective_clauses_003": {
+    "correct": "Jawaban Anda benar! 'I remember the time when we first met.' adalah pilihan yang tepat. Use 'when' for time in adjective clauses. 'The time' refers to when something happened. Contoh: I remember the time when we first met.",
+    "incorrect": {
+      "a": "Use 'when' for time as a noun. 'I' is the object, so use 'when'. Contoh yang benar: I remember the time when we first met.",
+      "c": "Use 'when' for time in adjective clauses. 'That time' refers to a time. Contoh yang benar: I remember the time when we first met.",
+      "d": "Use 'when' to talk about past events. 'The time' refers to when something happened. Contoh yang benar: I remember the time when we first met."
+    }
+  },
+  "q_pronouns_001": {
+    "correct": "Jawaban Anda benar! 'each' adalah pilihan yang tepat. Use 'his or her' (not 'their' or 'their' in modern English) with 'each'. Contoh: Each student must bring his or her own book.",
+    "incorrect": {
+      "a": "Use 'his or her' (or 'their' in modern English) with 'each'. 'Each' is singular and must be singular. Contoh yang benar: Each student must bring his or her own book.",
+      "b": "Use 'his or her' (or 'their' in modern English) with 'each'. 'Each' can refer to multiple people. Contoh yang benar: Each student must bring his or her own book.",
+      "d": "Use 'his or her' (or 'their' in modern English) with 'each'. 'Each' refers to a group of people. Contoh yang benar: Each student must bring his or her own book."
+    }
+  },
+  "q_pronouns_002": {
+    "correct": "Jawaban Anda benar! 'its' adalah pilihan yang tepat. Use 'its' with 'good or bad'. Contoh: The team won its first match.",
+    "incorrect": {
+      "a": "Use reflexive pronouns (my, his, her, us, them) after prepositions like 'for'. Contoh yang benar: The team won its first match.",
+      "c": "Use 'its' (not 'it's' or 'it's') for actions that are ongoing or ongoing. Contoh yang benar: The team won its first match.",
+      "d": "Use 'its' for things in general and singular pronouns in particular. 'The team' refers to a team, so use 'its'. Contoh yang benar: The team won its first match."
+    }
+  },
+  "q_pronouns_003": {
+    "correct": "Jawaban Anda benar! 'themselves' adalah pilihan yang tepat. Use reflexive pronouns when the subject and object are the same. 'The students' helped themselves prepare for the exam. Contoh: The students helped themselves prepare for the exam.",
+    "incorrect": {
+      "b": "Use reflexive pronouns (myself, yourself, himself, herself, himself, itself, itself) when the subject and object are the same. Contoh yang benar: The students helped themselves prepare for the exam.",
+      "c": "Use reflexive pronouns when the subject and object are the same. 'The' refers to itself and the object is the subject. Contoh yang benar: The students helped themselves prepare for the exam.",
+      "d": "Use reflexive pronouns when the subject and object are the same. 'The' means something. Contoh yang benar: The students helped themselves prepare for the exam."
+    }
+  },
+  "q_tenses_016": {
+    "correct": "Jawaban Anda benar! 'go to the library every weekend' adalah pilihan yang tepat. Use simple present for planned or unexpected actions. Contoh: She goes to the library every weekend.",
+    "incorrect": {
+      "b": "Use simple present for all routines. 'Every weekend' is simple enough. Contoh yang benar: She goes to the library every weekend.",
+      "c": "Use simple present for formal events. 'Every weekend' is a formal past event. Contoh yang benar: She goes to the library every weekend.",
+      "d": "Use simple present for actions that started in the past and continue to the present. Contoh yang benar: She goes to the library every weekend."
+    }
+  },
+  "q_tenses_017": {
+    "correct": "Jawaban Anda benar! 'have' adalah pilihan yang tepat. Use present perfect (have/has + past participle) with 'never' or 'ever' to show possession. Contoh: I have never been to Paris before.",
+    "incorrect": {
+      "b": "Use present perfect (have/has been + past participle) for actions that started in the past and continue to the present. Contoh yang benar: I have never been to Paris before.",
+      "c": "Use present perfect (have/has + past participle) with 'never' or 'ever' to show duration and location. Contoh yang benar: I have never been to Paris before.",
+      "d": "Use present perfect (have/has + past participle) with 'never' or 'ever' to express a reason or possibility. Contoh yang benar: I have never been to Paris before."
+    }
+  },
+  "q_tenses_018": {
+    "correct": "Jawaban Anda benar! 'will have worked' adalah pilihan yang tepat. Use future perfect (will have + past participle) for actions that will be completed before a future time point. Contoh: By the end of this month, I will have worked here for six months.",
+    "incorrect": {
+      "a": "Use future perfect (will have + past participle) for actions that will be completed before a future time point. Contoh yang benar: By the end of this month, I will have worked here for six months.",
+      "b": "Use future perfect (will have + past participle) for actions that will be completed before a future time point. Contoh yang benar: By the end of this month, I will have worked here for six months.",
+      "d": "Use future perfect (will have + past participle) for actions completed before a future time point. Contoh yang benar: By the end of this month, I will have worked here for six months."
+    }
+  },
+  "q_tenses_019": {
+    "correct": "Jawaban Anda benar! 'were' adalah pilihan yang tepat. Use past continuous (was/were + verb-ing) for actions that started in the past and continue to the present. Contoh: They were playing tennis when it started to rain.",
+    "incorrect": {
+      "a": "Use past continuous (were/were + verb-ing) for actions in progress after a specific time point. Contoh yang benar: They were playing tennis when it started to rain.",
+      "c": "Use past continuous (were/were + verb-ing) for actions in progress before another ongoing event. Contoh yang benar: They were playing tennis when it started to rain.",
+      "d": "Use past continuous (were/were + verb-ing) for actions in progress before another past action happened. Contoh yang benar: They were playing tennis when it started to rain."
+    }
+  },
+  "q_modals_013": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' in the if-clause for past actions that didn't happen. Contoh: You should have been more careful with that glass.",
+    "incorrect": {
+      "b": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: You should have been more careful with that glass.",
+      "c": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: You should have been more careful with that glass.",
+      "d": "Use 'should have + past participle' to express regret about past actions that didn't happen. Contoh yang benar: You should have been more careful with that glass."
+    }
+  },
+  "q_modals_014": {
+    "correct": "Jawaban Anda benar! 'Could' adalah pilihan yang tepat. Use 'Could' (or 'Could' in informal English) to express a formal request. Contoh: Could you help me with this, please?",
+    "incorrect": {
+      "a": "Use 'Could' to ask for help or help politely. Contoh yang benar: Could you help me with this, please?",
+      "c": "Use 'Could' to express a strong need or need. Contoh yang benar: Could you help me with this, please?",
+      "d": "Use 'Could' (or 'Couldn't') to ask for help. 'Could' is more common in informal situations. Contoh yang benar: Could you help me with this, please?"
+    }
+  },
+  "q_modals_015": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must' to express a logical conclusion based on evidence. 'The lights are on' connects the logical conclusion and the deduction. Contoh: She must be at home. The lights are on.",
+    "incorrect": {
+      "a": "Use 'must' to express conditional obligation or possibility. 'The lights are on' can refer to a location, so use 'must'. Contoh yang benar: She must be at home. The lights are on.",
+      "c": "Use 'must' to express conditional ability. 'The lights are on' means 'the lights are on'. Contoh yang benar: She must be at home. The lights are on.",
+      "d": "Use 'must' to express a logical conclusion based on evidence. 'The lights are on' indicates a logical conclusion based on evidence. Contoh yang benar: She must be at home. The lights are on."
+    }
+  },
+  "q_conditionals_013": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use 'had + past participle' to express conditional certainty about past events. Contoh: If she had studied medicine, she would be a doctor now.",
+    "incorrect": {
+      "a": "This is a mixed conditional (past condition, present result). Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she had studied medicine, she would be a doctor now.",
+      "c": "This is a mixed conditional (past condition, present result). Use 'had + past participle' in the if-clause for past mixed conditionals. Contoh yang benar: If she had studied medicine, she would be a doctor now.",
+      "d": "This is a mixed conditional (past condition, present result). Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she had studied medicine, she would be a doctor now."
+    }
+  },
+  "q_prepositions_005": {
+    "correct": "Jawaban Anda benar! 'I was born in 1990.' adalah pilihan yang tepat. Use 'in' before words starting with a vowel sound. Contoh: I was born in 1990.",
+    "incorrect": {
+      "a": "Use 'in' for years in prepositions. Contoh yang benar: I was born in 1990.",
+      "b": "Use 'in' before words starting with a vowel sound. '1990' starts with a vowel sound, so use 'in'. Contoh yang benar: I was born in 1990.",
+      "d": "Use 'in' before words starting with a vowel sound. 'In' starts with a vowel sound. Contoh yang benar: I was born in 1990."
+    }
+  },
+  "q_prepositions_006": {
+    "correct": "Jawaban Anda benar! 'under' adalah pilihan yang tepat. Use 'under' for things that are beneath something else. Contoh: The cat is hiding under the bed.",
+    "incorrect": {
+      "a": "Use 'under' for things that are connected. 'The cat' is connected to a bed, so use 'under'. Contoh yang benar: The cat is hiding under the bed.",
+      "b": "Use 'under' for things in general. Contoh yang benar: The cat is hiding under the bed.",
+      "d": "Use 'under' for things in general. 'The cat' is under a bed, so use 'under'. Contoh yang benar: The cat is hiding under the bed."
+    }
+  },
+  "q_prepositions_007": {
+    "correct": "Jawaban Anda benar! 'good' adalah pilihan yang tepat. Use 'good at' to show possession in prepositions. Contoh: She is good at playing piano.",
+    "incorrect": {
+      "a": "Use 'good at' to show cause and effect. 'She is good at' connects the reason and the result. Contoh yang benar: She is good at playing piano.",
+      "c": "Use 'good at' to show possession in negative clauses. 'Good at' means something is happening. Contoh yang benar: She is good at playing piano.",
+      "d": "Use 'good at' to express a common good. 'Good' refers to skills or abilities that are good enough. Contoh yang benar: She is good at playing piano."
+    }
+  },
+  "q_prepositions_008": {
+    "correct": "Jawaban Anda benar! 'on' adalah pilihan yang tepat. Use 'on' before words starting with a vowel sound. Contoh: I will see you on Monday.",
+    "incorrect": {
+      "a": "Use 'on' for specific days of the week. Contoh yang benar: I will see you on Monday.",
+      "b": "Use 'on' for specific days of the week. Contoh yang benar: I will see you on Monday.",
+      "d": "Use 'on' to express an expectation about a future time. Contoh yang benar: I will see you on Monday."
+    }
+  },
+  "q_adjective_clauses_004": {
+    "correct": "Jawaban Anda benar! 'I visited the city where my grandparents lived.' adalah pilihan yang tepat. Use 'where' to show location in adjective clauses. 'The city' refers to a location, so use 'where'. Contoh: I visited the city where my grandparents lived.",
+    "incorrect": {
+      "b": "Use 'where' for places in adjective clauses. 'The city' refers to a location. Contoh yang benar: I visited the city where my grandparents lived.",
+      "c": "Use 'where' for places in adjective clauses. 'The city' refers to a location, so use 'where'. Contoh yang benar: I visited the city where my grandparents lived.",
+      "d": "Use 'where' to show location in adjective clauses. 'The city' refers to a location, so use 'where'. Contoh yang benar: I visited the city where my grandparents lived."
+    }
+  },
+  "q_adjective_clauses_005": {
+    "correct": "Jawaban Anda benar! 'why' adalah pilihan yang tepat. Use 'why' to show cause and effect. 'The reason' explains why something happened. Contoh: The reason why she left is unknown.",
+    "incorrect": {
+      "a": "Use 'why' to show reason or evidence. 'The reason' is a noun. Contoh yang benar: The reason why she left is unknown.",
+      "c": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is unknown.",
+      "d": "Use 'why' to talk about why something happened. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is unknown."
+    }
+  },
+  "q_pronouns_004": {
+    "correct": "Jawaban Anda benar! 'my' adalah pilihan yang tepat. Use 'my' for things in general and singular. 'My' refers to a book, so use 'my'. Contoh: This is my book, not yours.",
+    "incorrect": {
+      "a": "Use 'my' or 'myself' to talk about things. 'Myself' refers to all things, so use 'my'. Contoh yang benar: This is my book, not yours.",
+      "c": "Use object pronouns (my, yours, his, her, us, them) to show ownership and ownership based on past actions. Contoh yang benar: This is my book, not yours.",
+      "d": "Use 'my' before words starting with a vowel sound. 'Mine' starts with a vowel sound. Contoh yang benar: This is my book, not yours."
+    }
+  },
+  "q_pronouns_005": {
+    "correct": "Jawaban Anda benar! 'my' adalah pilihan yang tepat. Use reflexive pronouns (mine, yours, his, her, our, their) when the pronoun is the subject of the sentence. 'Mine' can refer to a book, so use 'mine'. Contoh: The book is mine, not yours.",
+    "incorrect": {
+      "a": "Use reflexive pronouns (mine, yours, hers, theirs, theirs) when the subject and object are the same. Contoh yang benar: The book is mine, not yours.",
+      "c": "Use 'mine' (not 'mine' in the pronoun) for non-restrictive pronouns. 'Mine' can refer to another object or to a location. Contoh yang benar: The book is mine, not yours.",
+      "d": "Use possessive pronouns (mine, yours, theirs, ours) when the pronoun is the subject of the pronoun. 'Mine' is used with 'mine'. Contoh yang benar: The book is mine, not yours."
+    }
+  },
+  "q_tenses_022": {
+    "correct": "Jawaban Anda benar! 'have' adalah pilihan yang tepat. Use present perfect (have/has + past participle) for actions completed before a past action. Contoh: I have already seen that movie three times.",
+    "incorrect": {
+      "b": "Use present perfect (have/has + past participle) for actions completed before another past action. Contoh yang benar: I have already seen that movie three times.",
+      "c": "Use present perfect (have/has + past participle) with 'seen' or 'ever' to talk about past experiences. Contoh yang benar: I have already seen that movie three times.",
+      "d": "Use present perfect (have/has + past participle) for actions completed before another past action. Contoh yang benar: I have already seen that movie three times."
+    }
+  },
+  "q_tenses_023": {
+    "correct": "Jawaban Anda benar! 'will have finished' adalah pilihan yang tepat. Use future perfect (will have + past participle) for actions that will be completed before a future time point. Contoh: By tomorrow morning, I will have finished all my assignments.",
+    "incorrect": {
+      "a": "Use future perfect (will have + past participle) for actions that will be completed before a future time point. Contoh yang benar: By tomorrow morning, I will have finished all my assignments.",
+      "b": "Use future perfect (will have/has + past participle) for actions that will be completed before a future time point. Contoh yang benar: By tomorrow morning, I will have finished all my assignments.",
+      "d": "Use future perfect (will have finished + verb-ing) for actions that will be completed before a future time point. Contoh yang benar: By tomorrow morning, I will have finished all my assignments."
+    }
+  },
+  "q_tenses_024": {
+    "correct": "Jawaban Anda benar! 'was' adalah pilihan yang tepat. Use past continuous (was/were + verb-ing) for actions that continued up to a point in the past. Contoh: While I was cooking, the phone rang.",
+    "incorrect": {
+      "a": "Use past continuous (was/were + verb-ing) for actions that started in the past and continued to now. Contoh yang benar: While I was cooking, the phone rang.",
+      "c": "Use past continuous (was/were + verb-ing) for actions that started in the past and continue to the present. Contoh yang benar: While I was cooking, the phone rang.",
+      "d": "Use past continuous (was/were + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: While I was cooking, the phone rang."
+    }
+  },
+  "q_tenses_025": {
+    "correct": "Jawaban Anda benar! 'has studied' adalah pilihan yang tepat. Use present perfect (have/has + past participle) for continuous and specific skills. Contoh: She has studied English for two years.",
+    "incorrect": {
+      "a": "Use present perfect (has/has + past participle) with 'for' or 'ever since' to show duration and duration changes. Contoh yang benar: She has studied English for two years.",
+      "b": "Use present perfect (has/has + past participle) with 'for' or 'since' to express past ability. Contoh yang benar: She has studied English for two years.",
+      "d": "Use present perfect (have/has + past participle) with 'for' or 'since' to talk about past experiences. Contoh yang benar: She has studied English for two years."
+    }
+  },
+  "q_modals_016": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should' to advise you to finish your homework before watching TV. Contoh: You should finish your homework before watching TV.",
+    "incorrect": {
+      "a": "Use 'should' to express advice or help. 'Don't' is more common. Contoh yang benar: You should finish your homework before watching TV.",
+      "c": "Use 'should have + past participle' to express advice or criticism. Contoh yang benar: You should finish your homework before watching TV.",
+      "d": "Use 'should have + past participle' to express advice or criticism about habits or habits that didn't happen. Contoh yang benar: You should finish your homework before watching TV."
+    }
+  },
+  "q_modals_017": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' to express regret or criticism about past actions. Contoh: I should have called you, but I forgot.",
+    "incorrect": {
+      "a": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: I should have called you, but I forgot.",
+      "c": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: I should have called you, but I forgot.",
+      "d": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: I should have called you, but I forgot."
+    }
+  },
+  "q_modals_018": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh: You must not park here. It's a no-parking zone.",
+    "incorrect": {
+      "b": "Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh yang benar: You must not park here. It's a no-parking zone.",
+      "c": "Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh yang benar: You must not park here. It's a no-parking zone.",
+      "d": "Use 'must not' (not 'must not' or 'must not' or 'must not be') when asking permission. Contoh yang benar: You must not park here. It's a no-parking zone."
+    }
+  },
+  "q_modals_019": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' to express expectation about past events. Contoh: He should have arrived by now. The meeting started an hour ago.",
+    "incorrect": {
+      "a": "Use 'should have + past participle' to express expectation about past events. Contoh yang benar: He should have arrived by now. The meeting started an hour ago.",
+      "c": "Use 'should have + past participle' to express expectation or expectation about past events. Contoh yang benar: He should have arrived by now. The meeting started an hour ago.",
+      "d": "Use 'should have + past participle' to express expectation about past events. Contoh yang benar: He should have arrived by now. The meeting started an hour ago."
+    }
+  },
+  "q_modals_020": {
+    "correct": "Jawaban Anda benar! 'May' adalah pilihan yang tepat. Use 'May' to ask for permission before asking for something. Contoh: May I use your phone?",
+    "incorrect": {
+      "a": "Use 'May' to express permission or criticism. 'May' refers to permission and can be used with 'yes'. Contoh yang benar: May I use your phone?",
+      "b": "Use 'May' to express permission or help a person. 'May' is restrictive. Contoh yang benar: May I use your phone?",
+      "d": "Use 'May' for actions that are allowed by a third party. Contoh yang benar: May I use your phone?"
+    }
+  },
+  "q_conditionals_014": {
+    "correct": "Jawaban Anda benar! 'are' adalah pilihan yang tepat. Use simple present tense for actions that started in the past and continue to the present. Contoh: If you are late, call me.",
+    "incorrect": {
+      "b": "This is a first conditional. Use 'are' in the if-clause for past hypothetical situations. Contoh yang benar: If you are late, call me.",
+      "c": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If you are late, call me.",
+      "d": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If you are late, call me."
+    }
+  },
+  "q_conditionals_015": {
+    "correct": "Jawaban Anda benar! 'were' adalah pilihan yang tepat. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh: If I were you, I would accept the offer.",
+    "incorrect": {
+      "a": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were you, I would accept the offer.",
+      "b": "This is a second conditional. Use 'were' in the if-clause for hypothetical pasts. Contoh yang benar: If I were you, I would accept the offer.",
+      "d": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were you, I would accept the offer."
+    }
+  },
+  "q_conditionals_016": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use 'had' to show cause and effect. Contoh: If I had known about the party, I would have come.",
+    "incorrect": {
+      "a": "This is a third conditional. Use 'had + past participle' in the if-clause. Contoh yang benar: If I had known about the party, I would have come.",
+      "c": "This is a third conditional. Use 'had + past participle' in the main clause. Contoh yang benar: If I had known about the party, I would have come.",
+      "d": "Use 'had' (not 'was') for actions that had been completed before another action. Contoh yang benar: If I had known about the party, I would have come."
+    }
+  },
+  "q_prepositions_009": {
+    "correct": "Jawaban Anda benar! 'at' adalah pilihan yang tepat. Use 'at' for specific times of day. Contoh: I'll meet you at 3 o'clock.",
+    "incorrect": {
+      "a": "Use 'at' for specific times of day. Contoh yang benar: I'll meet you at 3 o'clock.",
+      "c": "Use 'at' for specific times of day. Contoh yang benar: I'll meet you at 3 o'clock.",
+      "d": "Use 'at' to show time in relative clauses. Contoh yang benar: I'll meet you at 3 o'clock."
+    }
+  },
+  "q_prepositions_010": {
+    "correct": "Jawaban Anda benar! 'Of' adalah pilihan yang tepat. Use 'afraid of' (not 'afraid from' or 'afraid about'). Contoh: She is afraid of spiders.",
+    "incorrect": {
+      "a": "Use 'afraid of' or 'afraid about' to show cause and effect. Contoh yang benar: She is afraid of spiders.",
+      "c": "Use 'of' for things that are connected. 'Owl' is a common form of 'of'. Contoh yang benar: She is afraid of spiders.",
+      "d": "Use 'of' or 'where' to show cause and effect. Contoh yang benar: She is afraid of spiders."
+    }
+  },
+  "q_prepositions_011": {
+    "correct": "Jawaban Anda benar! 'on' adalah pilihan yang tepat. Use 'on' before a noun or pronoun. 'The book' refers to a place, so use 'on'. Contoh: The book is on the table.",
+    "incorrect": {
+      "a": "Use 'on' for things that are on top of a surface. Contoh yang benar: The book is on the table.",
+      "c": "Use 'on' for places in prepositions. 'The book' refers to a surface, so use 'on'. Contoh yang benar: The book is on the table.",
+      "d": "Use 'on' for things that are on the table. Contoh yang benar: The book is on the table."
+    }
+  },
+  "q_prepositions_012": {
+    "correct": "Jawaban Anda benar! 'look forward to seeing you' adalah pilihan yang tepat. Use 'look forward to + past participle' to talk about past actions that happened before you arrived. Contoh: I'm looking forward to seeing you.",
+    "incorrect": {
+      "a": "Use 'look forward to + past participle' to express expectation about past events. Contoh yang benar: I'm looking forward to seeing you.",
+      "c": "Use 'look forward to + past participle' to show possession in hypothetical situations. Contoh yang benar: I'm looking forward to seeing you.",
+      "d": "Use 'look forward to + verb-ing' to express a logical conclusion about something. Contoh yang benar: I'm looking forward to seeing you."
+    }
+  },
+  "q_adjective_clauses_006": {
+    "correct": "Jawaban Anda benar! 'The person whom I met yesterday was very friendly.' adalah pilihan yang tepat. Use 'whom' for people as objects in adjective clauses. 'The person' refers to a person, so use 'whom'. Contoh: The person whom I met yesterday was very friendly.",
+    "incorrect": {
+      "a": "Use 'whom' for people as objects in adjective clauses. 'The person' refers to a person and the verb. Contoh yang benar: The person whom I met yesterday was very friendly.",
+      "b": "Use 'whom' for people as objects in adjective clauses. 'The person' is the object, so use 'whom'. Contoh yang benar: The person whom I met yesterday was very friendly.",
+      "d": "Use 'whom' for people as objects in adjective clauses. 'The person' refers to a person, so use 'whom'. Contoh yang benar: The person whom I met yesterday was very friendly."
+    }
+  },
+  "q_adjective_clauses_007": {
+    "correct": "Jawaban Anda benar! 'when' adalah pilihan yang tepat. Use 'when' to talk about a time when something happened. Contoh: The day when we met was sunny.",
+    "incorrect": {
+      "a": "Use 'when' for time in adjective clauses. 'The day' refers to a time, so use 'when'. Contoh yang benar: The day when we met was sunny.",
+      "c": "Use 'when' for time in adjective clauses. 'The day' refers to a time, so use 'when'. Contoh yang benar: The day when we met was sunny.",
+      "d": "Use 'when' to show duration in adjective clauses. 'The day' refers to a time in the past, so use 'when'. Contoh yang benar: The day when we met was sunny."
+    }
+  },
+  "q_pronouns_006": {
+    "correct": "Jawaban Anda benar! 'me' adalah pilihan yang tepat. Use 'me' before words starting with a vowel sound. 'Between you and me' starts with a vowel sound. Contoh: Between you and me, I think he's wrong.",
+    "incorrect": {
+      "a": "Use 'me' for people as objects. 'Between you and me' is plural. Contoh yang benar: Between you and me, I think he's wrong.",
+      "c": "Use object pronouns (me, you, him, her, us, them) after prepositions like 'between'. Contoh yang benar: Between you and me, I think he's wrong.",
+      "d": "Use object pronouns (me, you, him, her, us, them) when the pronoun is the subject of the sentence. Contoh yang benar: Between you and me, I think he's wrong."
+    }
+  },
+  "q_pronouns_007": {
+    "correct": "Jawaban Anda benar! 'I' adalah pilihan yang tepat. Use 'I' for people as objects in pronouns. 'She and _____ went to the store together.' is common for pronouns in pronouns. Contoh: She and I went to the store together.",
+    "incorrect": {
+      "b": "Use 'I' or 'the' to show possession in pronouns. 'The' can refer to something, so use 'she'. Contoh yang benar: She and I went to the store together.",
+      "c": "Use 'I' (not 'you') for things in pronouns. 'I' is common for things like money, places, and things. Contoh yang benar: She and I went to the store together.",
+      "d": "Use 'I' (possessive pronoun) with 'me' (plural) and 'their' (plural subject). Contoh yang benar: She and I went to the store together."
+    }
+  },
+  "q_tenses_026": {
+    "correct": "Jawaban Anda benar! 'have been working' adalah pilihan yang tepat. Use present perfect continuous (have/has + verb-ing) for actions that started in the past and continue to now. Contoh: I have been working here since 2020.",
+    "incorrect": {
+      "a": "Use present perfect continuous (have/has been + verb-ing) for actions completed before a future time point. Contoh yang benar: I have been working here since 2020.",
+      "b": "Use present perfect continuous (have/has been + verb-ing) for actions completed before a future time point. Contoh yang benar: I have been working here since 2020.",
+      "d": "Use present perfect continuous (have/has been + verb-ing) for actions that started in the future and continue to now. Contoh yang benar: I have been working here since 2020."
+    }
+  },
+  "q_tenses_027": {
+    "correct": "Jawaban Anda benar! 'will have been' adalah pilihan yang tepat. Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh: By next year, I will have been living here for ten years.",
+    "incorrect": {
+      "a": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been living here for ten years.",
+      "c": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been living here for ten years.",
+      "d": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been living here for ten years."
+    }
+  },
+  "q_tenses_028": {
+    "correct": "Jawaban Anda benar! 'will' adalah pilihan yang tepat. Use future going to refer to a future event. Contoh: They are going to the beach tomorrow.",
+    "incorrect": {
+      "a": "Use future going to refer to a future event. Contoh yang benar: They are going to the beach tomorrow.",
+      "c": "Use future going to refer to future actions that will happen in the future. Contoh yang benar: They are going to the beach tomorrow.",
+      "d": "Use future going to refer to future plans or actions. Contoh yang benar: They are going to the beach tomorrow."
+    }
+  },
+  "q_modals_021": {
+    "correct": "Jawaban Anda benar! 'could' adalah pilihan yang tepat. Use 'could' for skills that could be used up to now. Contoh: I could swim when I was younger, but I can't now.",
+    "incorrect": {
+      "a": "Use 'could' to express ability or possibility. 'If' is more common. Contoh yang benar: I could swim when I was younger, but I can't now.",
+      "c": "Use 'could' to show cause and effect. 'Could' is a common form of 'could have been'. Contoh yang benar: I could swim when I was younger, but I can't now.",
+      "d": "Use 'could' to express ability or ability change. 'Can' can't change ability. Contoh yang benar: I could swim when I was younger, but I can't now."
+    }
+  },
+  "q_modals_022": {
+    "correct": "Jawaban Anda benar! 'should' adalah pilihan yang tepat. Use 'should have + past participle' in the if-clause for past actions that didn't result in a result. Contoh: You should have told me earlier. Now it's too late.",
+    "incorrect": {
+      "a": "Use 'should have + past participle' to express regret about past actions. Contoh yang benar: You should have told me earlier. Now it's too late.",
+      "c": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: You should have told me earlier. Now it's too late.",
+      "d": "Use 'should have + past participle' to express regret or criticism about past actions. Contoh yang benar: You should have told me earlier. Now it's too late."
+    }
+  },
+  "q_conditionals_017": {
+    "correct": "Jawaban Anda benar! 'will' adalah pilihan yang tepat. Use 'will + past participle' to express conditional decision. Contoh: If it rains, we will stay home.",
+    "incorrect": {
+      "a": "This is a first conditional. Use simple present in the if-clause for future possibilities. Contoh yang benar: If it rains, we will stay home.",
+      "c": "This is a first conditional. Use 'will + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If it rains, we will stay home.",
+      "d": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If it rains, we will stay home."
+    }
+  },
+  "q_conditionals_018": {
+    "correct": "Jawaban Anda benar! 'were' adalah pilihan yang tepat. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh: If I were rich, I would buy a house.",
+    "incorrect": {
+      "a": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were rich, I would buy a house.",
+      "b": "This is a second conditional. Use 'were' in the if-clause for hypothetical situations. Contoh yang benar: If I were rich, I would buy a house.",
+      "d": "This is a second conditional. Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: If I were rich, I would buy a house."
+    }
+  },
+  "q_tenses_029": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use past perfect continuous (had been + verb-ing) for actions that started in the past and continue to the present. Contoh: She had been waiting for an hour when I arrived.",
+    "incorrect": {
+      "a": "Use past perfect continuous (had/were + verb-ing) for actions completed before another past action. Contoh yang benar: She had been waiting for an hour when I arrived.",
+      "c": "Use past perfect continuous (had been + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: She had been waiting for an hour when I arrived.",
+      "d": "Use past perfect continuous (had + verb-ing) for actions that started in the past and continue to now. Contoh yang benar: She had been waiting for an hour when I arrived."
+    }
+  },
+  "q_tenses_030": {
+    "correct": "Jawaban Anda benar! 'not yet' adalah pilihan yang tepat. Use present perfect (not yet completed) for actions completed before another past action. Contoh: I haven't finished my homework yet.",
+    "incorrect": {
+      "a": "Use present perfect (have/has + past participle) for actions that haven't finished yet. Contoh yang benar: I haven't finished my homework yet.",
+      "b": "Use present perfect (have/has + past participle) with 'yet to finish' or 'my homework yet to finish'. Contoh yang benar: I haven't finished my homework yet.",
+      "d": "Use present perfect (have/has + past participle) with 'yet to' or 'for a year yet to come'. Contoh yang benar: I haven't finished my homework yet."
+    }
+  },
+  "q_modals_023": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must' to express a logical conclusion based on evidence. Contoh: You must be tired after such a long journey.",
+    "incorrect": {
+      "a": "Use 'must have + past participle' to express regret or criticism about past actions. Contoh yang benar: You must have been tired after such a long journey.",
+      "c": "Use 'must have + past participle' to express a logical conclusion based on evidence. Contoh yang benar: You must have been tired after such a long journey.",
+      "d": "Use 'must' to express logical conclusion based on evidence. 'The' is more formal, so use 'must'. Contoh yang benar: You must be tired after such a long journey."
+    }
+  },
+  "q_modals_024": {
+    "correct": "Jawaban Anda benar! 'might' adalah pilihan yang tepat. Use 'might have + past participle' to express possibility about past events. Contoh: I might have forgotten to lock the door. Let me check.",
+    "incorrect": {
+      "a": "Use 'might have + past participle' to express possibility about past events or ideas. Contoh yang benar: I might have forgotten to lock the door. Let me check.",
+      "c": "Use 'might have' or 'could have' to express possibility about past events. Contoh yang benar: I might have forgotten to lock the door. Let me check.",
+      "d": "Use 'might have' or 'if' to express possibility about past events. Contoh yang benar: I might have forgotten to lock the door. Let me check."
+    }
+  },
+  "q_conditionals_019": {
+    "correct": "Jawaban Anda benar! 'had been' adalah pilihan yang tepat. Use 'had been' (not 'had been') for actions that had been completed before an action happened. Contoh: If I had been you, I would have accepted the job.",
+    "incorrect": {
+      "a": "This is a third conditional. Use 'had been' in the main clause. Contoh yang benar: If I had been you, I would have accepted the job.",
+      "c": "This is a third conditional. Use 'had been' in the if-clause for past hypothetical situations. Contoh yang benar: If I had been you, I would have accepted the job.",
+      "d": "This is a third conditional. Use simple present in the if-clause. Contoh yang benar: If I had been you, I would have accepted the job."
+    }
+  },
+  "q_conditionals_020": {
+    "correct": "Jawaban Anda benar! 'ask' adalah pilihan yang tepat. Use simple present modals like 'asked' and 'will'. Contoh: If you ask me, I will help you.",
+    "incorrect": {
+      "b": "Use 'asked' for hypothetical situations in which you might be interested. Contoh yang benar: If you ask me, I will help you.",
+      "c": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If you ask me, I will help you.",
+      "d": "This is a first conditional. Use simple present in the if-clause. Contoh yang benar: If you ask me, I will help you."
+    }
+  },
+  "q_prepositions_013": {
+    "correct": "Jawaban Anda benar! 'good at' adalah pilihan yang tepat. Use 'good at' (not 'good in' or 'good for') for skills that are good for a specific reason. Contoh: I'm good at math.",
+    "incorrect": {
+      "a": "Use 'good at' or 'good in' to show possession skills. Contoh yang benar: I'm good at math.",
+      "c": "Use 'good at' to show skills that are important or important enough. Contoh yang benar: I'm good at math.",
+      "d": "Use 'good at' to express a strong reason for being good at something. Contoh yang benar: I'm good at math."
+    }
+  },
+  "q_prepositions_014": {
+    "correct": "Jawaban Anda benar! 'for' adalah pilihan yang tepat. Use 'responsible for' (not 'responsible for'). Contoh: She is responsible for the project.",
+    "incorrect": {
+      "a": "Use 'responsible for' to express a strong idea or a logical conclusion. Contoh yang benar: She is responsible for the project.",
+      "c": "Use 'responsible for' to express a specific reason for a project. 'The project' refers to a specific location. Contoh yang benar: She is responsible for the project.",
+      "d": "Use 'responsible' for actions that are responsible. 'The project' refers to a project, so use 'responsible'. Contoh yang benar: She is responsible for the project."
+    }
+  },
+  "q_adjective_clauses_008": {
+    "correct": "Jawaban Anda benar! 'The author whose book I read is very famous.' adalah pilihan yang tepat. Use 'whose' (or 'whose' in informal English) for people as objects in adjective clauses. 'Whose' refers to a person or something. Contoh: The author whose book I read is very famous.",
+    "incorrect": {
+      "b": "Use 'whose' for people as adjectives. 'The author' refers to a person, so use 'whose'. Contoh yang benar: The author whose book I read is very famous.",
+      "c": "Use 'whose' to show possession in adjective clauses. 'Whose' is plural and can refer to people or things. Contoh yang benar: The author whose book I read is very famous.",
+      "d": "Use 'whose' to show possession in adjective clauses. 'Whose' is more common in restrictive clauses. Contoh yang benar: The author whose book I read is very famous."
+    }
+  },
+  "q_pronouns_008": {
+    "correct": "Jawaban Anda benar! 'me' adalah pilihan yang tepat. Use object pronouns (my, yours, his, her, our, their) when the pronoun is the subject of the sentence. Contoh: The gift is for me.",
+    "incorrect": {
+      "a": "Use object pronouns (me, you, him, her, us, them) when the pronoun is the subject of the pronoun. Contoh yang benar: The gift is for me.",
+      "c": "Use reflexive pronouns when the pronoun is the subject of the pronoun. 'Mine' is singular, so use 'mine'. Contoh yang benar: The gift is for me.",
+      "d": "Use object pronouns (me, you, him, her, us, them) after prepositions like 'for'. Contoh yang benar: The gift is for me."
+    }
+  },
+  "q_pronouns_009": {
+    "correct": "Jawaban Anda benar! 'by' adalah pilihan yang tepat. Use 'by themselves' (not 'by themselves'). Contoh: They made the decision by themselves.",
+    "incorrect": {
+      "a": "Use 'by themselves' (possessive pronoun) when the subject and object are the same. Contoh yang benar: They made the decision by themselves.",
+      "c": "Use 'by themselves' to show possession in pronouns. 'By themselves' refers to a person or thing. Contoh yang benar: They made the decision by themselves.",
+      "d": "Use 'by themselves' to mean 'alone'. 'By themselves' is plural, so use 'by themselves'. Contoh yang benar: They made the decision by themselves."
+    }
+  },
+  "q_adjective_clauses_009": {
+    "correct": "Jawaban Anda benar! 'The movie that we watched last night was excellent.' adalah pilihan yang tepat. Use 'that' to show possession in adjective clauses. 'That' can refer to something else. Contoh: The movie that we watched last night was excellent.",
+    "incorrect": {
+      "b": "Use 'that' or 'which' to show cause and effect. 'That' explains the reason. Contoh yang benar: The movie that we watched last night was excellent.",
+      "c": "Use 'that' to show cause and effect. 'That' is the main reason why we watched the movie. Contoh yang benar: The movie that we watched last night was excellent.",
+      "d": "Use 'that' to show possession in adjective clauses. 'That' refers to both the object and the event. Contoh yang benar: The movie that we watched last night was excellent."
+    }
+  },
+  "q_adjective_clauses_010": {
+    "correct": "Jawaban Anda benar! 'whose' adalah pilihan yang tepat. Use 'whose' for subjects in adjective clauses. 'Book' is the subject and the cover. Contoh: The book, whose cover is torn, needs to be replaced.",
+    "incorrect": {
+      "a": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things. Contoh yang benar: The book, whose cover is torn, needs to be replaced.",
+      "b": "Use 'whose' to show possession in adjective clauses. 'Whose' is used for people as objects. Contoh yang benar: The book, whose cover is torn, needs to be replaced.",
+      "d": "Use 'whose' to show possession in adjective clauses. 'Whose' connects possession to object. Contoh yang benar: The book, whose cover is torn, needs to be replaced."
+    }
+  },
+  "q_adjective_clauses_011": {
+    "correct": "Jawaban Anda benar! 'Tokyo is the city where I was born.' adalah pilihan yang tepat. Use 'where' for places in adjective clauses. 'The city' refers to a location, so use 'where'. Contoh: Tokyo is the city where I was born.",
+    "incorrect": {
+      "a": "Use 'where' to show geographical location in adjective clauses. 'The city' refers to a location, so use 'where'. Contoh yang benar: Tokyo is the city where I was born.",
+      "c": "Use 'where' for places in adjective clauses. 'The city' refers to a location, so use 'where'. Contoh yang benar: Tokyo is the city where I was born.",
+      "d": "Use 'where' to show geographical location. 'The city' refers to a location, so use 'where'. Contoh yang benar: Tokyo is the city where I was born."
+    }
+  },
+  "q_adjective_clauses_012": {
+    "correct": "Jawaban Anda benar! 'The teacher whom I met yesterday is very experienced.' adalah pilihan yang tepat. Use 'whom' (not 'who' or 'who' in informal English) for people as objects in adjective clauses. 'The teacher' is the object, so use 'whom'. Contoh: The teacher whom I met yesterday is very experienced.",
+    "incorrect": {
+      "a": "Use 'whom' (or 'who' in informal English) for people as objects in adjective clauses. 'The teacher' is the object of 'met'. Contoh yang benar: The teacher whom I met yesterday is very experienced.",
+      "b": "Use 'whom' for people as objects in adjective clauses. 'The teacher' is the object of 'met'. Contoh yang benar: The teacher whom I met yesterday is very experienced.",
+      "d": "Use 'whom' for people as objects in adjective clauses. 'The teacher' is the object of 'met'. Contoh yang benar: The teacher whom I met yesterday is very experienced."
+    }
+  },
+  "q_adjective_clauses_013": {
+    "correct": "Jawaban Anda benar! 'why' adalah pilihan yang tepat. Use 'why' to talk about why something happened. Contoh: The reason why I called you is important.",
+    "incorrect": {
+      "a": "Use 'why' to express reason or reason with certainty. 'The reason' refers to why something happened. Contoh yang benar: The reason why I called you is important.",
+      "b": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened. Contoh yang benar: The reason why I called you is important.",
+      "d": "Use 'why' to show cause and effect. 'The reason' is more common in adjective clauses. Contoh yang benar: The reason why I called you is important."
+    }
+  },
+  "q_sentence_combining_004": {
+    "correct": "Jawaban Anda benar! 'He studied hard, so he passed the exam.' adalah pilihan yang tepat. Use 'so' or 'even' to show cause and effect. 'So' connects the reason and the result. Contoh: He studied hard, so he passed the exam.",
+    "incorrect": {
+      "a": "Use 'so' or 'who' to show cause and effect. 'So' is more common in informal English. Contoh yang benar: He studied hard, so he passed the exam.",
+      "c": "Use 'so' or 'however' to show cause and effect. 'So' connects the reason and the result. Contoh yang benar: He studied hard, so he passed the exam.",
+      "d": "Use 'so' or 'which' to show cause and effect. 'So' explains the reason. Contoh yang benar: He studied hard, so he passed the exam."
+    }
+  },
+  "q_sentence_combining_005": {
+    "correct": "Jawaban Anda benar! 'She loves music, but she can't play any instrument.' adalah pilihan yang tepat. Use 'but' or 'however' to show contrast. 'But' is more common in informal situations. Contoh: She loves music, but she can't play any instrument.",
+    "incorrect": {
+      "b": "Use 'but' or 'however' to show contrast. 'But' is more common. Contoh yang benar: She loves music, but she can't play any instrument.",
+      "c": "Use 'but' or 'however' to show contrast. 'But' connects the reason and the result. Contoh yang benar: She loves music, but she can't play any instrument.",
+      "d": "Use 'but' or 'however' to show contrast. 'But' is more common in informal English. Contoh yang benar: She loves music, but she can't play any instrument."
+    }
+  },
+  "q_sentence_combining_006": {
+    "correct": "Jawaban Anda benar! 'I was late, but I still caught the train.' adalah pilihan yang tepat. Use 'but' or 'however' to show contrast. 'But' connects the sentence to the original event. Contoh: I was late, but I still caught the train.",
+    "incorrect": {
+      "a": "Use 'but' to show cause and effect. 'But' connects the cause and effect. Contoh yang benar: I was late, but I still caught the train.",
+      "b": "Use 'but' or 'however' to show contrast between what happened and what was expected. Contoh yang benar: I was late, but I still caught the train.",
+      "d": "Use 'but' or 'however' to show contrast. 'But' connects the verb and the reason. Contoh yang benar: I was late, but I still caught the train."
+    }
+  },
+  "q_sentence_combining_007": {
+    "correct": "Jawaban Anda benar! 'but' adalah pilihan yang tepat. Use 'but' for things that could be done but didn't happen. Contoh: I wanted to go to the party, but I had too much work.",
+    "incorrect": {
+      "a": "Use 'but' to show contrast between two ideas. 'But' connects contrasting clauses. Contoh yang benar: I wanted to go to the party, but I had too much work.",
+      "c": "Use 'but' to show contrast between two ideas. 'But' connects contrasting ideas. Contoh yang benar: I wanted to go to the party, but I had too much work.",
+      "d": "Use 'but' or 'however' to show contrast. 'But' is more common in informal situations. Contoh yang benar: I wanted to go to the party, but I had too much work."
+    }
+  },
+  "q_pronouns_010": {
+    "correct": "Jawaban Anda benar! 'me' adalah pilihan yang tepat. Use 'between you and me' (not 'between you and me'). Contoh: Between you and me, I think this is a bad idea.",
+    "incorrect": {
+      "a": "Use object pronouns (me, you, him, her, us, them) when the pronoun is the subject of the sentence. Contoh yang benar: Between you and me, I think this is a bad idea.",
+      "c": "Use 'me' or 'who' to show possession in hypothetical situations. 'Between you and me' means 'between you and me'. Contoh yang benar: Between you and me, I think this is a bad idea.",
+      "d": "Use object pronouns (me, you, him, her, us, them) after prepositions like 'between'. Contoh yang benar: Between you and me, I think this is a bad idea."
+    }
+  },
+  "q_pronouns_011": {
+    "correct": "Jawaban Anda benar! 'themselves' adalah pilihan yang tepat. Use reflexive pronouns (myself, yourself, himself, herself) when the subject and object are the same. Contoh: The students should do the homework themselves.",
+    "incorrect": {
+      "a": "Use reflexive pronouns (his/her, her, us, them) after actions that are themselves completed. Contoh yang benar: The students should do the homework themselves.",
+      "c": "Use reflexive pronouns (myself, yourself, himself, herself, herself) when the subject and object are the same. Contoh yang benar: The students should do the homework themselves.",
+      "d": "Use reflexive pronouns when the subject and object are the same. 'The students' is the subject and object of 'their' pronouns. Contoh yang benar: The students should do the homework themselves."
+    }
+  },
+  "q_pronouns_012": {
+    "correct": "Jawaban Anda benar! 'his or her' adalah pilihan yang tepat. Use 'his or her' with 'everyone'. 'Everyone' refers to all people. Contoh: Everyone should bring his or her own lunch.",
+    "incorrect": {
+      "a": "Use 'his or her' to express common sense about a person or thing. Contoh yang benar: Everyone should bring his or her own lunch.",
+      "b": "Use 'his or her' to express a logical conclusion based on evidence. 'Everyone' is singular and must be followed by a number. Contoh yang benar: Everyone should bring his or her own lunch.",
+      "d": "Use reflexive pronouns when the subject and object are the same. 'Everyone' is the object of 'everyone'. Contoh yang benar: Everyone should bring his or her own lunch."
+    }
+  },
+  "q_pronouns_013": {
+    "correct": "Jawaban Anda benar! 'Neither of' adalah pilihan yang tepat. Use 'his or her' (not 'their' in modern English) with 'students'. Contoh: Neither of the students brought his or her book.",
+    "incorrect": {
+      "a": "Use 'his or her' (or 'their' in modern English) with 'neither of'. Contoh yang benar: Neither of the students brought his or her book.",
+      "c": "Use 'his or her' (or 'their' in modern English) with 'both of' or 'the' to express unexpected or unexpected abilities. Contoh yang benar: Neither of the students brought his or her book.",
+      "d": "Use 'his or her' (or 'their' in modern English) with 'neither of' to show possession. Contoh yang benar: Neither of the students brought his or her book."
+    }
+  },
+  "q_complex_005": {
+    "correct": "Jawaban Anda benar! 'The doctor who treated me was very kind.' adalah pilihan yang tepat. Use 'who treated' for people as subjects in relative clauses. 'The doctor' is the subject and the subject pronoun. Contoh: The doctor who treated me was very kind.",
+    "incorrect": {
+      "b": "Use 'who treated' for people as subjects in relative clauses. 'The doctor' is the subject, so use 'who'. Contoh yang benar: The doctor who treated me was very kind.",
+      "c": "Use 'who treated' for people as subjects. 'The doctor' is the subject, so use 'who'. Contoh yang benar: The doctor who treated me was very kind.",
+      "d": "Use 'who treated me' for people as subjects. 'The doctor' is a person, so use 'who'. Contoh yang benar: The doctor who treated me was very kind."
+    }
+  },
+  "q_complex_006": {
+    "correct": "Jawaban Anda benar! 'where' adalah pilihan yang tepat. Use 'where' to show location in relative clauses. Contoh: The company where I work is very large.",
+    "incorrect": {
+      "a": "Use 'where' for places in relative clauses. 'The company' refers to a location. Contoh yang benar: The company where I work is very large.",
+      "b": "Use 'where' for places in relative clauses. 'The company' refers to a location. Contoh yang benar: The company where I work is very large.",
+      "d": "Use 'where' for places in relative clauses. 'The company' refers to a location, so use 'where'. Contoh yang benar: The company where I work is very large."
+    }
+  },
+  "q_complex_007": {
+    "correct": "Jawaban Anda benar! 'My car, which is red, needs to be washed.' adalah pilihan yang tepat. Use 'which' for non-restrictive clauses (with commas). 'That' cannot be used with commas. Contoh: My car, which is red, needs to be washed.",
+    "incorrect": {
+      "a": "Use 'which' for non-restrictive clauses (with commas). 'That' cannot be used with commas. Contoh yang benar: My car, which is red, needs to be washed.",
+      "c": "Use 'which' to show ownership in relative clauses. 'That' is more common in relative clauses. Contoh yang benar: My car, which is red, needs to be washed.",
+      "d": "Use 'which' for nonrestrictive clauses (with commas). 'That' cannot be used with commas. Contoh yang benar: My car, which is red, needs to be washed."
+    }
+  },
+  "q_articles_005": {
+    "correct": "Jawaban Anda benar! 'an' adalah pilihan yang tepat. Use 'an' before words starting with a vowel sound. 'Interesting' starts with a vowel sound. Contoh: I saw an interesting movie yesterday.",
+    "incorrect": {
+      "b": "Use 'an' before words starting with a vowel sound. 'Interesting' starts with a vowel sound. Contoh yang benar: I saw an interesting movie yesterday.",
+      "c": "Use 'an' before words starting with a vowel sound. 'Interesting' starts with a vowel sound. Contoh yang benar: I saw an interesting movie yesterday.",
+      "d": "Use 'an' before words starting with a vowel sound. 'Interesting' starts with a vowel sound. Contoh yang benar: I saw an interesting movie yesterday."
+    }
+  },
+  "q_sva_005": {
+    "correct": "Jawaban Anda benar! 'are' adalah pilihan yang tepat. Use 'are' (or 'have been') with 'students' or 'offers' to express agreement or disagreement. Contoh: A number of students are absent today.",
+    "incorrect": {
+      "a": "Use 'are' to express agreement or disagreement. 'Students' is singular, so use 'are'. Contoh yang benar: A number of students are absent today.",
+      "c": "Use 'are' (not 'are'). 'Students' is singular. Contoh yang benar: A number of students are absent today.",
+      "d": "Use 'are' (not 'are') for actions that are ongoing or ongoing. Contoh yang benar: A number of students are absent today."
+    }
+  },
+  "q_passive_005": {
+    "correct": "Jawaban Anda benar! 'will be' adalah pilihan yang tepat. Use past tense 'will be + past participle'. 'Will be' means 'will be completed'. Contoh: The new bridge will be built next year.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'will be + past participle'. 'Will be' becomes 'will be + past participle'. Contoh yang benar: The new bridge will be built next year.",
+      "c": "Use 'will be + past participle' to express passive voice in passive voice. 'Will be' becomes 'will be + past participle'. Contoh yang benar: The new bridge will be built next year.",
+      "d": "Use past tense 'will be' (singular) or 'will be + past participle' (plural) for passive voice in the past. Contoh yang benar: The new bridge will be built next year."
+    }
+  },
+  "q_reported_005": {
+    "correct": "Jawaban Anda benar! 'She said that she could help me.' adalah pilihan yang tepat. Use reported speech in reported speech situations when the subject and object are the same. Contoh: She said that she could help me.",
+    "incorrect": {
+      "a": "In reported speech, present perfect becomes past perfect. 'Can' becomes 'could'. Contoh yang benar: She said that she could help me.",
+      "c": "In reported speech, present modals change to past modals. 'Can' becomes 'could'. Contoh yang benar: She said that she could help me.",
+      "d": "In reported speech, 'can' becomes 'could'. Contoh yang benar: She said that she could help me."
+    }
+  },
+  "q_adjective_clauses_014": {
+    "correct": "Jawaban Anda benar! 'The song that I heard yesterday was beautiful.' adalah pilihan yang tepat. Use 'that' (or 'that' in informal English) with 'that'. 'That' is singular, so use 'that'. Contoh: The song that I heard yesterday was beautiful.",
+    "incorrect": {
+      "b": "Use 'that' to show possession in adjective clauses. 'That' can refer to anything. Contoh yang benar: The song that I heard yesterday was beautiful.",
+      "c": "Use 'that' for things that are not in themselves. 'That' is an adjective and must be singular. Contoh yang benar: The song that I heard yesterday was beautiful.",
+      "d": "Use 'that' to show possession in adjective clauses. 'That' refers to a object, so use 'that'. Contoh yang benar: The song that I heard yesterday was beautiful."
+    }
+  },
+  "q_adjective_clauses_015": {
+    "correct": "Jawaban Anda benar! 'when' adalah pilihan yang tepat. Use 'when' for time in adjective clauses. 'The day' refers to a time, so use 'when'. Contoh: The day when I met you was the best day of my life.",
+    "incorrect": {
+      "a": "Use 'when' for time in adjective clauses. 'The day' refers to a time in a specific time zone. Contoh yang benar: The day when I met you was the best day of my life.",
+      "b": "Use 'when' to show duration in adjective clauses. 'The day' refers to a time in the past. Contoh yang benar: The day when I met you was the best day of my life.",
+      "d": "Use 'when' for time in adjective clauses. 'The day' refers to a time in the past. Contoh yang benar: The day when I met you was the best day of my life."
+    }
+  },
+  "q_adjective_clauses_016": {
+    "correct": "Jawaban Anda benar! 'The actor whom I admire most is very talented.' adalah pilihan yang tepat. Use 'whom' (or 'who' in informal English) for people as objects in adjective clauses. 'The actor' is the object, so use 'whom'. Contoh: The actor whom I admire most is very talented.",
+    "incorrect": {
+      "a": "Use 'whom' for people as objects in adjective clauses. 'The actor' is the object of 'admire'. Contoh yang benar: The actor whom I admire most is very talented.",
+      "b": "Use 'whom' (or 'who' in modern English) for people as objects in adjective clauses. 'The actor' is the object of 'admire'. Contoh yang benar: The actor whom I admire most is very talented.",
+      "d": "Use 'whom' for people as objects in adjective clauses. 'The actor' is the object, so use 'whom'. Contoh yang benar: The actor whom I admire most is very talented."
+    }
+  },
+  "q_sentence_combining_008": {
+    "correct": "Jawaban Anda benar! 'I was hungry, so I ate a sandwich.' adalah pilihan yang tepat. Use 'so' to show cause and effect. 'So' explains the reason. Contoh: I was hungry, so I ate a sandwich.",
+    "incorrect": {
+      "a": "Use 'so' to show cause and effect. 'So' connects the reason and the result. Contoh yang benar: I was hungry, so I ate a sandwich.",
+      "c": "Use 'so' to show cause and effect. 'So' connects the reason and the result. Contoh yang benar: I was hungry, so I ate a sandwich.",
+      "d": "Use 'so' to show cause and effect. 'So' connects the reason and the result. Contoh yang benar: I was hungry, so I ate a sandwich."
+    }
+  },
+  "q_sentence_combining_009": {
+    "correct": "Jawaban Anda benar! 'She studied all night, but she was still tired in the morning.' adalah pilihan yang tepat. Use 'but' or 'however' to show contrast. 'But' suggests tiredness and 'even though' suggests good reason. Contoh: She studied all night, but",
+    "incorrect": {
+      "b": "Use 'but' or 'however' to show contrast. 'But' is more common in informal situations. Contoh yang benar: She studied all night, but she was still tired in the morning.",
+      "c": "Use 'but' or 'however' to show contrast. 'But' explains the reason. Contoh yang benar: She studied all night, but she was still tired in the morning.",
+      "d": "Use 'but' or 'however' to show contrast. 'But' connects contrasting clauses. Contoh yang benar: She studied all night, but she was still tired in the morning."
+    }
+  },
+  "q_sentence_combining_010": {
+    "correct": "Jawaban Anda benar! 'but' adalah pilihan yang tepat. Use 'but' to show contrast between two ideas. Contoh: I wanted to watch the movie, but I had to finish my homework first.",
+    "incorrect": {
+      "a": "Use 'but' to show contrast between two ideas. 'But' connects contrasting clauses. Contoh yang benar: I wanted to watch the movie, but I had to finish my homework first.",
+      "c": "Use 'but' to show contrast between two ideas. 'But' connects contrasting clauses. Contoh yang benar: I wanted to watch the movie, but I had to finish my homework first.",
+      "d": "Use 'but' to show contrast between two ideas. Contoh yang benar: I wanted to watch the movie, but I had to finish my homework first."
+    }
+  },
+  "q_pronouns_014": {
+    "correct": "Jawaban Anda benar! 'their' adalah pilihan yang tepat. Use 'their' (not 'their' in modern English) with 'students'. Contoh: The teacher gave the students their homework.",
+    "incorrect": {
+      "a": "Use 'their' for things in pronouns. 'Students' refers to people. Contoh yang benar: The teacher gave the students their homework.",
+      "b": "Use 'their' to express a group's ownership. 'Students' is a noun, so use 'their'. Contoh yang benar: The teacher gave the students their homework.",
+      "d": "Use object pronouns (my, your, his, her, us, them) when the pronoun is the subject. 'Students' is singular, so use 'their'. Contoh yang benar: The teacher gave the students their homework."
+    }
+  },
+  "q_pronouns_015": {
+    "correct": "Jawaban Anda benar! 'herself' adalah pilihan yang tepat. Use reflexive pronouns when the subject and object are the same. 'She' cut 'herself'. Contoh: She cut herself while cooking.",
+    "incorrect": {
+      "a": "Use reflexive pronouns when the subject and object are the same. 'She' cut 'herself'. Contoh yang benar: She cut herself while cooking.",
+      "c": "Use reflexive pronouns when the subject and object are the same. 'She' cut 'herself'. Contoh yang benar: She cut herself while cooking.",
+      "d": "Use reflexive pronouns (her, his, her, our, her) when the subject and object are the same. Contoh yang benar: She cut herself while cooking."
+    }
+  },
+  "q_pronouns_016": {
+    "correct": "Jawaban Anda benar! 'both of' adalah pilihan yang tepat. Use 'their' with 'both' and 'both' before pronouns. 'Both' refers to both people and things. Contoh: Both of the students finished their assignments.",
+    "incorrect": {
+      "a": "Use 'their' (not 'their' in modern English) with 'students'. 'Both' refers to both people and things. Contoh yang benar: Both of the students finished their assignments.",
+      "c": "Use 'their' (not 'their' in modern English) with 'both of' to show possession. 'Both' is plural. Contoh yang benar: Both of the students finished their assignments.",
+      "d": "Use reflexive pronouns (my, your, his, her, our, our's, our's) when the pronoun is the subject of the sentence. Contoh yang benar: Both of the students finished their assignments."
+    }
+  },
+  "q_complex_008": {
+    "correct": "Jawaban Anda benar! 'The writer who wrote this novel is very famous.' adalah pilihan yang tepat. Use 'who' for people as subjects in relative clauses. 'The writer' is the subject, so use 'who'. Contoh: The writer who wrote this novel is very famous.",
+    "incorrect": {
+      "b": "Use 'who' for people as subjects in relative clauses. 'The writer' is the subject and the verb. Contoh yang benar: The writer who wrote this novel is very famous.",
+      "c": "Use 'who' for people as subjects in relative clauses. 'The writer' is the subject, so use 'who'. Contoh yang benar: The writer who wrote this novel is very famous.",
+      "d": "Use 'who' for people as subjects in relative clauses. 'The writer' is the subject, so use 'who'. Contoh yang benar: The writer who wrote this novel is very famous."
+    }
+  },
+  "q_complex_009": {
+    "correct": "Jawaban Anda benar! 'where' adalah pilihan yang tepat. Use 'where' to show location in relative clauses. 'The restaurant' refers to a location, so use 'where'. Contoh: The restaurant where we had dinner was expensive.",
+    "incorrect": {
+      "a": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'. Contoh yang benar: The restaurant where we had dinner was expensive.",
+      "b": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'. Contoh yang benar: The restaurant where we had dinner was expensive.",
+      "d": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'. Contoh yang benar: The restaurant where we had dinner was expensive."
+    }
+  },
+  "q_complex_010": {
+    "correct": "Jawaban Anda benar! 'My laptop, which I bought last year, is already slow.' adalah pilihan yang tepat. Use 'which' for non-restrictive clauses (with commas). 'That' is restrictive, so use 'which'. Contoh: My laptop, which I bought last year, is already slow.",
+    "incorrect": {
+      "a": "Use 'which' for non-restrictive clauses (with commas). 'That' cannot be used with commas. Contoh yang benar: My laptop, which I bought last year, is already slow.",
+      "c": "Use 'which' for non-restrictive clauses (with commas). 'That' is restrictive and will cause a 'slow' reading. Contoh yang benar: My laptop, which I bought last year, is already slow.",
+      "d": "Use 'which' for non-restrictive clauses (with commas). 'That' can refer to a specific object. Contoh yang benar: My laptop, which I bought last year, is already slow."
+    }
+  },
+  "q_articles_006": {
+    "correct": "Jawaban Anda benar! 'an' adalah pilihan yang tepat. Use 'an' before words starting with a vowel sound. 'A' starts with a vowel sound and ends with a vowel sound. Contoh: I need an umbrella because it's raining.",
+    "incorrect": {
+      "b": "Use 'an' before words starting with a vowel sound. 'Umbrella' starts with a vowel sound. Contoh yang benar: I need an umbrella because it's raining.",
+      "c": "Use 'an' before words starting with a vowel sound. 'Ambrella' starts with a vowel sound, so use 'an'. Contoh yang benar: I need an umbrella because it's raining.",
+      "d": "Use 'an' before words starting with a vowel sound. 'Umbrella' starts with a vowel sound. Contoh yang benar: I need an umbrella because it's raining."
+    }
+  },
+  "q_articles_007": {
+    "correct": "Jawaban Anda benar! 'The Pacific Ocean is the largest ocean.' adalah pilihan yang tepat. Use 'the' before words starting with a vowel sound. 'The' starts with a vowel sound. Contoh: The Pacific Ocean is the largest ocean.",
+    "incorrect": {
+      "a": "Use 'the' before words starting with a vowel sound. 'The' starts with a vowel sound. Contoh yang benar: The Pacific Ocean is the largest ocean.",
+      "b": "Use 'the' before words starting with a vowel sound. 'The' starts with a vowel sound, so use 'the'. Contoh yang benar: The Pacific Ocean is the largest ocean.",
+      "d": "Use 'the' to show possession or ownership in articles. Contoh yang benar: The Pacific Ocean is the largest ocean."
+    }
+  },
+  "q_articles_008": {
+    "correct": "Jawaban Anda benar! 'no article' adalah pilihan yang tepat. Use 'no article' for things you love. 'Coffee' is not a favorite pastime. Contoh: I love coffee in the morning.",
+    "incorrect": {
+      "a": "Use 'no article' for non-restrictive articles (no article, no subject, no article structure). Contoh yang benar: I love coffee in the morning.",
+      "b": "Use 'no article' to talk about habits or routines. Contoh yang benar: I love coffee in the morning.",
+      "c": "Use no article with uncountable nouns when speaking in general. Contoh yang benar: I love coffee in the morning."
+    }
+  },
+  "q_sva_006": {
+    "correct": "Jawaban Anda benar! 'either the teacher or the students are wrong.' adalah pilihan yang tepat. Use 'either the teacher or the students are wrong'. 'Either the teacher or the students are wrong.' is plural, so use 'either'. Contoh: Either the teacher or the students are wrong.",
+    "incorrect": {
+      "a": "Use 'are' (not 'are') when asking a question. 'Both' is preferred. Contoh yang benar: Either the teacher or the students are wrong.",
+      "b": "Use 'are' (or 'should' in modern English) with 'students'. Contoh yang benar: Either the teacher or the students are wrong.",
+      "d": "'Students' agrees with 'who'. Contoh yang benar: Either the teacher or the students are wrong."
+    }
+  },
+  "q_sva_007": {
+    "correct": "Jawaban Anda benar! 'is' adalah pilihan yang tepat. Use 'is' (not 'will') for actions that will be completed before another action takes place. Contoh: The team is celebrating their victory.",
+    "incorrect": {
+      "b": "Use 'is' (not 'was') for actions that started in the past and continue to the present. Contoh yang benar: The team is celebrating their victory.",
+      "c": "Use 'is' or 'will' to express agreement or regret about past actions. Contoh yang benar: The team is celebrating their victory.",
+      "d": "Use 'is' to express agreement or disagreement. 'Team' is used with 'everyone'. Contoh yang benar: The team is celebrating their victory."
+    }
+  },
+  "q_sva_008": {
+    "correct": "Jawaban Anda benar! 'each of' adalah pilihan yang tepat. Use subject-verb agreement (have/has been + verb-ing) for actions that started in the past and continue to the present. Contoh: Each of the students has a different book.",
+    "incorrect": {
+      "b": "Use 'has' to express agreement or disagreement based on evidence. 'Each' refers to multiple subjects. Contoh yang benar: Each of the students has a different book.",
+      "c": "This is a first conditional. Use 'has' in the if-clause for past hypothetical situations. Contoh yang benar: Each of the students has a different book.",
+      "d": "This is a first conditional. Use 'has' in the main clause for all subjects in general. Contoh yang benar: Each of the students has a different book."
+    }
+  },
+  "q_passive_006": {
+    "correct": "Jawaban Anda benar! 'The chef cooked a delicious meal.' adalah pilihan yang tepat. Use present perfect passive: 'by' or 'for' to express past perfect passive. Contoh: The chef cooked a delicious meal by the chef.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'was/were + past participle'. Contoh yang benar: A delicious meal was cooked by the chef.",
+      "c": "Use present perfect passive: 'by by + past participle'. 'By' is preferred here. Contoh yang benar: A delicious meal was cooked by the chef.",
+      "d": "Passive voice: be + past participle. 'The chef' is the subject and the subject only, so use 'by'. Contoh yang benar: The chef cooked a delicious meal."
+    }
+  },
+  "q_passive_007": {
+    "correct": "Jawaban Anda benar! 'was' adalah pilihan yang tepat. Use present perfect passive: 'was/were + past participle'. Contoh: The problem was solved by the team yesterday.",
+    "incorrect": {
+      "a": "Use 'was' for actions completed before a deadline. Contoh yang benar: The problem was solved by the team yesterday.",
+      "c": "Use reflexive pronouns when the subject and object are the same. 'The problem' refers to the problem at a time in the past. Contoh yang benar: The problem was solved by the team yesterday.",
+      "d": "Use past tense 'was' (not 'was') for actions completed before another past action. Contoh yang benar: The problem was solved by the team yesterday."
+    }
+  },
+  "q_passive_008": {
+    "correct": "Jawaban Anda benar! 'A new school is being built.' adalah pilihan yang tepat. Use present perfect passive: 'is building', 'is building' or 'is about to' for actions in progress. Contoh: A new school is being built.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'is/are + past participle'. 'The school' refers to a location, so use present perfect passive. Contoh yang benar: A new school is being built.",
+      "b": "Use present perfect passive: 'are building' or 'is building' to show cause and effect. Contoh yang benar: A new school is being built.",
+      "d": "Use present perfect passive: 'is building' or 'are building' for present perfect passive. Contoh yang benar: A new school is being built."
+    }
+  },
+  "q_reported_006": {
+    "correct": "Jawaban Anda benar! 'He said that he had been waiting for an hour.' adalah pilihan yang tepat. This is reported speech. Use reported speech for reported speech. Contoh: He said that he had been waiting for an hour.",
+    "incorrect": {
+      "a": "In reported speech, 'had been' becomes 'had been'. 'After' becomes 'had been waiting'. Contoh yang benar: He said that he had been waiting for an hour.",
+      "b": "In reported speech, 'had been' becomes 'had been waiting'. 'Has been' becomes 'had been waiting'. Contoh yang benar: He said that he had been waiting for an hour.",
+      "d": "In reported speech, 'had' becomes 'had been'. 'Had been' becomes 'had been'. Contoh yang benar: He said that he had been waiting for an hour."
+    }
+  },
+  "q_reported_007": {
+    "correct": "Jawaban Anda benar! 'would' adalah pilihan yang tepat. Use reported speech for actions that started in the past and continue to the present. Contoh: She said that she would call me later.",
+    "incorrect": {
+      "a": "In reported speech, present perfect becomes past perfect. Contoh yang benar: She said that she would call me later.",
+      "c": "In reported speech, 'will' becomes 'would'. Present tense becomes 'would'. Contoh yang benar: She said that she would call me later.",
+      "d": "In reported speech, present continuous becomes past continuous. 'Will' becomes 'were'. Contoh yang benar: She said that she would call me later."
+    }
+  },
+  "q_reported_008": {
+    "correct": "Jawaban Anda benar! 'He asked what time it was.' adalah pilihan yang tepat. This is reported speech. Use reported speech for reported speech situations. Contoh: He asked what time it was.",
+    "incorrect": {
+      "a": "Jawaban Anda benar! 'He asked what time it was.' adalah pilihan yang tepat. This is a reported speech modal. Use reported speech for reported speech situations. Contoh: He asked what time it was.",
+      "c": "Use reported speech for actions that are reported in real time. Contoh yang benar: He asked what time it was.",
+      "d": "In reported speech, 'asked' becomes 'told'. Contoh yang benar: He asked what time it was."
+    }
+  },
+  "q_prepositions_015": {
+    "correct": "Jawaban Anda benar! 'on' adalah pilihan yang tepat. Use 'on' for specific days of the week. Contoh: I will see you on Monday.",
+    "incorrect": {
+      "a": "Use 'on' for specific days of the week. Contoh yang benar: I will see you on Monday.",
+      "b": "Use 'on' for specific days of the week. Contoh yang benar: I will see you on Monday.",
+      "d": "Use 'on' for specific days of the week. Contoh yang benar: I will see you on Monday."
+    }
+  },
+  "q_prepositions_016": {
+    "correct": "Jawaban Anda benar! 'of' adalah pilihan yang tepat. Use 'afraid of' to express a preposition. Contoh: She is afraid of spiders.",
+    "incorrect": {
+      "a": "Use 'afraid of' or 'afraid of' to show cause and effect. 'The' is a preposition. Contoh yang benar: She is afraid of spiders.",
+      "c": "Use 'afraid of' to show cause and effect. 'She is afraid of spiders.' is more common in informal English. Contoh yang benar: She is afraid of spiders.",
+      "d": "Use 'afraid of' (not 'afraid about'). Contoh yang benar: She is afraid of spiders."
+    }
+  },
+  "q_prepositions_017": {
+    "correct": "Jawaban Anda benar! 'look forward to meeting you' adalah pilihan yang tepat. Use 'look forward to + past participle' to talk about future plans or actions. Contoh: I'm looking forward to meeting you.",
+    "incorrect": {
+      "a": "Use 'look forward to + past participle' to show unexpectedness. Contoh yang benar: I'm looking forward to meeting you.",
+      "c": "Use 'look forward to' for actions that are ongoing. Contoh yang benar: I'm looking forward to meeting you.",
+      "d": "Use 'look forward to' to express a logical conclusion about something. Contoh yang benar: I'm looking forward to meeting you."
+    }
+  },
+  "q_modals_011": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh: You must not enter without permission.",
+    "incorrect": {
+      "b": "Use 'must not' to express prohibition or obligation. 'Must not' means something has been or is not allowed. Contoh yang benar: You must not enter without permission.",
+      "c": "Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh yang benar: You must not enter without permission.",
+      "d": "Use 'must not' to express prohibition. 'Must not' means something is not allowed. Contoh yang benar: You must not enter without permission."
+    }
+  },
+  "q_modals_012": {
+    "correct": "Jawaban Anda benar! 'must' adalah pilihan yang tepat. Use 'must have + past participle' in the main clause for actions that must have happened before another action. Contoh: She must have left already. Her car is gone.",
+    "incorrect": {
+      "b": "Use 'must have + past participle' to express a logical conclusion based on evidence. Contoh yang benar: She must have left already. Her car is gone.",
+      "c": "Use 'must have + past participle' to express an informal idea about a past event. Contoh yang benar: She must have left already. Her car is gone.",
+      "d": "Use 'must have + past participle' to express a logical conclusion based on evidence. Contoh yang benar: She must have left already. Her car is gone."
+    }
+  },
+  "q_conditionals_011": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use simple past tense 'had' to express conditional ability or possibility. Contoh: If I had enough money, I would buy a new car.",
+    "incorrect": {
+      "a": "This is a second conditional. Use simple present in the if-clause. Contoh yang benar: If I had enough money, I would buy a new car.",
+      "c": "This is a second conditional. Use 'had + past participle' in the main clause. Contoh yang benar: If I had enough money, I would buy a new car.",
+      "d": "Use 'had + past participle' to show cause and effect. Contoh yang benar: If I had enough money, I would buy a new car."
+    }
+  },
+  "q_conditionals_012": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use 'had + past participle' to show cause and effect. Contoh: If she had studied harder, she would have passed.",
+    "incorrect": {
+      "a": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she had studied harder, she would have passed.",
+      "c": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she had studied harder, she would have passed.",
+      "d": "This is a third conditional. Use 'had + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she had studied harder, she would have passed."
+    }
+  },
+  "q_tenses_020": {
+    "correct": "Jawaban Anda benar! 'have been working' adalah pilihan yang tepat. Use present perfect continuous (have/has been + verb-ing) for actions completed before another past action. Contoh: I have been working on this project for three hours.",
+    "incorrect": {
+      "a": "Use present perfect continuous (have/has been + verb-ing) for actions completed before another past action. Contoh yang benar: I have been working on this project for three hours.",
+      "b": "Use present perfect continuous (have/has been + verb-ing) for actions completed before a future time point. Contoh yang benar: I have been working on this project for three hours.",
+      "d": "Use present perfect continuous (have/has been + verb-ing) for actions completed before a deadline. Contoh yang benar: I have been working on this project for three hours."
+    }
+  },
+  "q_tenses_021": {
+    "correct": "Jawaban Anda benar! 'will have been' adalah pilihan yang tepat. Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh: By next year, I will have been living here for five years.",
+    "incorrect": {
+      "a": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been living here for five years.",
+      "c": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been living here for five years.",
+      "d": "Use future perfect continuous (will have been + verb-ing) for actions that will continue up to a future time. Contoh yang benar: By next year, I will have been living here for five years."
+    }
+  },
+  "q_adjective_clauses_017": {
+    "correct": "Jawaban Anda benar! 'The phone that I bought yesterday is already broken.' adalah pilihan yang tepat. Use 'that' for things that are already known or likely to happen. Contoh: The phone that I bought yesterday is already broken.",
+    "incorrect": {
+      "b": "Use 'that' to show possession in adjective clauses. 'That' refers to both the original object and the result. Contoh yang benar: The phone that I bought yesterday is already broken.",
+      "c": "Use 'that' or 'which' for non-restrictive clauses. 'That' means something, so use 'that'. Contoh yang benar: The phone that I bought yesterday is already broken.",
+      "d": "Use 'that' to show possession in adjective clauses. 'That' is used before 'that'. Contoh yang benar: The phone that I bought yesterday is already broken."
+    }
+  },
+  "q_adjective_clauses_018": {
+    "correct": "Jawaban Anda benar! 'why' adalah pilihan yang tepat. Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened. Contoh: The reason why she left is still unknown.",
+    "incorrect": {
+      "a": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is still unknown.",
+      "b": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is still unknown.",
+      "d": "Use 'why' for reasons in adjective clauses. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is still unknown."
+    }
+  },
+  "q_adjective_clauses_019": {
+    "correct": "Jawaban Anda benar! 'The professor whom I respect most is retiring this year.' adalah pilihan yang tepat. Use 'whom' for people as objects in adjective clauses. 'The professor' is the object of 'respect'. Contoh: The professor whom I respect most is retiring this year.",
+    "incorrect": {
+      "a": "Use 'whom' (or 'who' in modern English) for people as objects in adjective clauses. 'The professor' refers to a person, so use 'whom'. Contoh yang benar: The professor whom I respect most is retiring this year.",
+      "c": "Use 'whom' for people as objects in adjective clauses. 'The professor' is the object of 'respect'. Contoh yang benar: The professor whom I respect most is retiring this year.",
+      "d": "Use 'whom' for people as objects in adjective clauses. 'The professor' is the object of 'respect'. Contoh yang benar: The professor whom I respect most is retiring this year."
+    }
+  },
+  "q_adjective_clauses_020": {
+    "correct": "Jawaban Anda benar! 'The company whose profits increased is expanding.' adalah pilihan yang tepat. Use 'whose' for people as objects in adjective clauses. 'Whose' refers to a person, so use 'whose'. Contoh: The company whose profits increased is expanding.",
+    "incorrect": {
+      "b": "Use 'whose' to show possession in adjective clauses. 'Whose' can refer to both people and things. Contoh yang benar: The company whose profits increased is expanding.",
+      "c": "Use 'whose' for people as objects in adjective clauses. 'Whose' is used for people as objects. Contoh yang benar: The company whose profits increased is expanding.",
+      "d": "Use 'whose' to show possession in adjective clauses. 'Whose' is a noun, so use 'whose'. Contoh yang benar: The company whose profits increased is expanding."
+    }
+  },
+  "q_adjective_clauses_021": {
+    "correct": "Jawaban Anda benar! 'when' adalah pilihan yang tepat. Use 'when' for time in adjective clauses. 'The moment' refers to a time in a past. Contoh: The moment when I saw her, I knew she was special.",
+    "incorrect": {
+      "a": "Use 'when' for time in adjective clauses. 'The moment' refers to when something happened. Contoh yang benar: The moment when I saw her, I knew she was special.",
+      "b": "Use 'when' to talk about a time in your past. Contoh yang benar: The moment when I saw her, I knew she was special.",
+      "d": "Use 'when' for time in adjective clauses. 'The moment' refers to a time in a sequence. Contoh yang benar: The moment when I saw her, I knew she was special."
+    }
+  },
+  "q_pronouns_017": {
+    "correct": "Jawaban Anda benar! 'my' adalah pilihan yang tepat. Use 'mine' before pronouns when speaking in general. 'Mine' refers to a book, so use 'mine'. Contoh: The book is mine, not yours.",
+    "incorrect": {
+      "a": "Use possessive pronouns (mine, yours, his, hers, hers) when the subject and object are the same. 'Mine' is singular. Contoh yang benar: The book is mine, not yours.",
+      "c": "Use 'mine' (not 'mine' in 'plural') for things in general. 'Mine' is plural, so use 'mine'. Contoh yang benar: The book is mine, not yours.",
+      "d": "Use reflexive pronouns when the subject and object are the same. 'Mine' is more common in pronouns. Contoh yang benar: The book is mine, not yours."
+    }
+  },
+  "q_pronouns_018": {
+    "correct": "Jawaban Anda benar! 'one's' adalah pilihan yang tepat. Use reflexive pronouns (one's, one's, one's) after words starting with a vowel sound. 'One should always do' starts with a vowel sound. Contoh: One should always do one's best.",
+    "incorrect": {
+      "a": "Use 'one's' (not 'one's') for actions performed by a person. 'One' is singular, so use 'one's'. Contoh yang benar: One should always do one's best.",
+      "c": "Use reflexive pronouns (one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's, one's,",
+      "d": "Use reflexive pronouns (one's, one's, one's, one's) when the subject and object are the same. Contoh yang benar: One should always do one's best."
+    }
+  },
+  "q_pronouns_019": {
+    "correct": "Jawaban Anda benar! 'themselves' adalah pilihan yang tepat. Use reflexive pronouns when the subject and object are the same. 'The children' enjoyed themselves at the park.",
+    "incorrect": {
+      "a": "Use reflexive pronouns (myself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourselves, yourself) when the subject and object are the same. Contoh yang benar: The children enjoyed themselves at the park.",
+      "c": "Use reflexive pronouns (myself, yourself, himself, himself, himself) after nouns. 'The' is singular, so use 'self'. Contoh yang benar: The children enjoyed themselves at the park.",
+      "d": "Use reflexive pronouns when the subject and object are the same. 'The children' enjoyed themselves at the park. Contoh yang benar: The children enjoyed themselves at the park."
+    }
+  },
+  "q_pronouns_020": {
+    "correct": "Jawaban Anda benar! 'their' adalah pilihan yang tepat. Use 'their' (or 'their' in modern English) with 'everyone'. Contoh: Nobody brought their own lunch.",
+    "incorrect": {
+      "a": "Use 'their' to talk about people or things. 'Nobody' means something. Contoh yang benar: Nobody brought their own lunch.",
+      "c": "Use 'their' (not 'their' or 'their' in modern English) with 'everyone'. Contoh yang benar: Nobody brought their own lunch.",
+      "d": "Use 'their' with 'nobody' or 'nobody' when talking about people. Contoh yang benar: Nobody brought their own lunch."
+    }
+  },
+  "q_pronouns_021": {
+    "correct": "Jawaban Anda benar! 'myself' adalah pilihan yang tepat. Use reflexive pronouns when the subject and object are the same. 'I' made 'myself'. Contoh: I made this cake myself.",
+    "incorrect": {
+      "a": "Use reflexive pronouns (myself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourselves, yourselves, yourselves, yourselves, yourselves) when the subject and object are the same. Contoh yang benar: I made this cake myself.",
+      "c": "Use reflexive pronouns (myself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourself, yourselves, yourselves, yourselves, yourselves) when the subject and object are the same. Contoh yang benar: I made this cake myself.",
+      "d": "Use reflexive pronouns (myself, yourself, himself, himself, himself, ourselves, ourselves, ourselves, ourselves, ourselves, ourselves, ourselves, ourselves, itself, itself) to talk about a past event. Contoh yang benar: I made this cake myself."
+    }
+  },
+  "q_sentence_combining_011": {
+    "correct": "Jawaban Anda benar! 'The weather was bad, so we decided to stay home.' adalah pilihan yang tepat. Use 'so' to show cause and effect. 'So' connects the reason and the result. Contoh: The weather was bad, so we decided to stay home.",
+    "incorrect": {
+      "a": "Use 'so' or 'or' to show cause and effect. 'So' connects the reason and the result. Contoh yang benar: The weather was bad, so we decided to stay home.",
+      "c": "Use 'so' to show cause and effect. 'So' explains the reason. Contoh yang benar: The weather was bad, so we decided to stay home.",
+      "d": "Use 'so' to show cause and effect. 'So' connects the reason and the result. Contoh yang benar: The weather was bad, so we decided to stay home."
+    }
+  },
+  "q_sentence_combining_012": {
+    "correct": "Jawaban Anda benar! 'He failed the exam because he didn't study enough.' adalah pilihan yang tepat. Use 'because' to show cause and effect. 'Because' explains the reason. Contoh: He failed the exam because he didn't study enough.",
+    "incorrect": {
+      "b": "Use 'because' to show cause and effect. 'Because' connects the reason and the result. Contoh yang benar: He failed the exam because he didn't study enough.",
+      "c": "Use 'because' to show cause and effect. 'Because' explains the reason. Contoh yang benar: He failed the exam because he didn't study enough.",
+      "d": "Use 'because' to show cause and effect. 'Because' is more common in informal English. Contoh yang benar: He failed the exam because he didn't study enough."
+    }
+  },
+  "q_sentence_combining_013": {
+    "correct": "Jawaban Anda benar! 'but' adalah pilihan yang tepat. Use 'but' to show contrast between two preferences. Contoh: I like coffee, but my friend prefers tea.",
+    "incorrect": {
+      "a": "Use 'but' to show contrast between two different preferences. 'But' connects the two. Contoh yang benar: I like coffee, but my friend prefers tea.",
+      "c": "Use 'but' to show contrast between two different preferences. 'But' can be used with 'not'. Contoh yang benar: I like coffee, but my friend prefers tea.",
+      "d": "Use 'but' to show contrast between two ideas. 'But' connects contrasting ideas. Contoh yang benar: I like coffee, but my friend prefers tea."
+    }
+  },
+  "q_sentence_combining_014": {
+    "correct": "Jawaban Anda benar! 'Although she was very tired, she continued working.' adalah pilihan yang tepat. Use 'although' to show contrast. 'Although' is more common in informal English. Contoh: Although she was very tired, she continued working.",
+    "incorrect": {
+      "a": "Use 'although' to show contrast between contrasting ideas. 'Although' explains the reason. Contoh yang benar: Although she was very tired, she continued working.",
+      "c": "Use 'although' or 'even though' to show contrast. 'Although' is more common in modern English. Contoh yang benar: Although she was very tired, she continued working.",
+      "d": "Use 'although' to show contrast between the reported condition and the evidence. Contoh yang benar: Although she was very tired, she continued working."
+    }
+  },
+  "q_articles_009": {
+    "correct": "Jawaban Anda benar! 'an' adalah pilihan yang tepat. Use 'an' before words starting with a vowel sound. 'Owl' starts with a vowel sound. Contoh: I saw an owl in the tree.",
+    "incorrect": {
+      "b": "Use 'an' before words starting with a vowel sound. 'Owl' starts with a vowel sound. Contoh yang benar: I saw an owl in the tree.",
+      "c": "Use 'an' before words starting with a vowel sound. 'Owl' starts with a vowel sound. Contoh yang benar: I saw an owl in the tree.",
+      "d": "Use 'an' before words starting with a vowel sound. 'Owl' starts with a vowel sound. Contoh yang benar: I saw an owl in the tree."
+    }
+  },
+  "q_articles_010": {
+    "correct": "Jawaban Anda benar! 'The United States is a large country.' adalah pilihan yang tepat. Use 'the' before words starting with a vowel sound. Contoh: The United States is a large country.",
+    "incorrect": {
+      "a": "Use 'the' to show geographical location in articles. Contoh yang benar: The United States is a large country.",
+      "b": "Use 'the' to show geographical location in relative clauses. 'United States' is a geographical location. Contoh yang benar: The United States is a large country.",
+      "d": "Use 'the' for places in articles. 'United' is commonly used with 'place'. Contoh yang benar: The United States is a large country."
+    }
+  },
+  "q_articles_011": {
+    "correct": "Jawaban Anda benar! 'no article' adalah pilihan yang tepat. Use no article with uncountable nouns. 'Information' is uncountable. Contoh: I need information about this topic.",
+    "incorrect": {
+      "a": "Use 'no article' to talk about articles without permission. Contoh yang benar: I need no article about this topic.",
+      "b": "Use 'no article' or 'no reason' to express unexpected or unexpected opinions. Contoh yang benar: I need information about this topic.",
+      "c": "Use 'no article' before words starting with a vowel sound. 'Information' starts with a vowel sound. Contoh yang benar: I need no article about this topic."
+    }
+  },
+  "q_articles_012": {
+    "correct": "Jawaban Anda benar! 'an' adalah pilihan yang tepat. Use 'an' before words starting with a vowel sound. Contoh: She is an honest person.",
+    "incorrect": {
+      "a": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound. Contoh yang benar: She is an honest person.",
+      "c": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound. Contoh yang benar: She is an honest person.",
+      "d": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound. Contoh yang benar: She is an honest person."
+    }
+  },
+  "q_sva_009": {
+    "correct": "Jawaban Anda benar! 'News' adalah pilihan yang tepat. Use 'is' (or 'will') for actions that will be reported to the news team. Contoh: The news is very surprising.",
+    "incorrect": {
+      "b": "This is a first conditional. Use 'is' or 'are' to show agreement. Contoh yang benar: The news is very surprising.",
+      "c": "This is a first conditional. Use 'is' or 'are' to show agreement. Contoh yang benar: The news is very surprising.",
+      "d": "Use 'is' (not 'are') for actions that are ongoing. Contoh yang benar: The news is very surprising."
+    }
+  },
+  "q_sva_010": {
+    "correct": "Jawaban Anda benar! 'not only the teacher but also the students are excited.' adalah pilihan yang tepat. Use subject-verb agreement (not 'are') for actions that are ongoing. Contoh: Not only the teacher but also the students are excited.",
+    "incorrect": {
+      "a": "Use 'are' (not 'are') for actions that are ongoing. Contoh yang benar: Not only the teacher but also the students are excited.",
+      "c": "Use subject-verb agreement (not 'are'). Contoh yang benar: Not only the teacher but also the students are excited.",
+      "d": "Use 'are' (not 'are') when speaking in formal or informal situations. Contoh yang benar: Not only the teacher but also the students are excited."
+    }
+  },
+  "q_sva_011": {
+    "correct": "Jawaban Anda benar! 'Mathematics' adalah pilihan yang tepat. Use 'is' or 'should' to express agreement or disagreement. Contoh: Mathematics is my favorite subject.",
+    "incorrect": {
+      "b": "Use 'is' to express agreement or disagreement. 'Mathematics' is a formal subject. Contoh yang benar: Mathematics is my favorite subject.",
+      "c": "Use 'is' or 'will' to express agreement about a subject. Contoh yang benar: Mathematics is my favorite subject.",
+      "d": "Use 'is' or 'would' to express agreement about a subject. 'Mathematics' is a subject and subject has no formal subject. Contoh yang benar: Mathematics is my favorite subject."
+    }
+  },
+  "q_sva_012": {
+    "correct": "Jawaban Anda benar! 'is' adalah pilihan yang tepat. Use 'is' (not 'are'). Contoh: The group of students is waiting outside.",
+    "incorrect": {
+      "b": "Use 'is' (or 'was') for actions that are not formal or formal. Contoh yang benar: The group of students is waiting outside.",
+      "c": "Use 'is' (or 'will' in informal English) with 'everyone'. Contoh yang benar: The group of students is waiting outside.",
+      "d": "Use 'is' (or 'should' in informal English) to express agreement or disagreement. Contoh yang benar: The group of students is waiting outside."
+    }
+  },
+  "q_passive_009": {
+    "correct": "Jawaban Anda benar! 'The classroom was cleaned by the students.' adalah pilihan yang tepat. Use present perfect passive: 'by the students'. 'By the students' means 'by the students finished their assignments'. Contoh: The classroom was cleaned by the students.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'by the students' (not 'by themselves'). Contoh yang benar: The classroom was cleaned by the students.",
+      "b": "Use present perfect passive: 'by the students'. 'By the students' is a past participle. Contoh yang benar: The classroom was cleaned by the students.",
+      "d": "Use present perfect passive: 'by themselves' or 'with others'. Contoh yang benar: The classroom was cleaned by the students."
+    }
+  },
+  "q_passive_010": {
+    "correct": "Jawaban Anda benar! 'was' adalah pilihan yang tepat. Use 'was' (not 'was') for actions completed before another ongoing action. Contoh: The report was written by the team last week.",
+    "incorrect": {
+      "a": "Use present perfect passive: 'was' or 'were' to express a logical conclusion based on evidence. Contoh yang benar: The report was written by the team last week.",
+      "c": "Use past tense 'was' (not 'was') for actions that started in the past and continue to the present. Contoh yang benar: The report was written by the team last week.",
+      "d": "Use 'was' (not 'was') for actions that were completed before a report. Contoh yang benar: The report was written by the team last week."
+    }
+  },
+  "q_passive_011": {
+    "correct": "Jawaban Anda benar! 'My wallet has been stolen.' adalah pilihan yang tepat. Use present perfect passive: 'has stolen' or 'has been stolen' to show possession. 'Has stolen' refers to the possession and not to the original object. Contoh: My wallet has been stolen.",
+    "incorrect": {
+      "a": "Passive voice: 'has stolen' becomes 'has been stolen'. Contoh yang benar: My wallet has been stolen.",
+      "c": "Passive voice: 'has stolen' becomes 'has been stolen'. Contoh yang benar: My wallet has been stolen.",
+      "d": "Use present perfect passive: 'has stolen', 'has been stolen from' or 'has been stolen from'. Contoh yang benar: My wallet has been stolen."
+    }
+  },
+  "q_passive_012": {
+    "correct": "Jawaban Anda benar! 'are' adalah pilihan yang tepat. Use passive voice (not 'is') for actions completed before another ongoing action. Contoh: The windows are cleaned every week.",
+    "incorrect": {
+      "a": "Use past tense 'are' or 'will' to express an expectation or expectation. Contoh yang benar: The windows are cleaned every week.",
+      "c": "Use 'whom' for people as objects in passive voice. 'The windows' refers to a location, so use 'whom'. Contoh yang benar: The windows are cleaned every week.",
+      "d": "Use 'are' (not 'is') for actions that started in the past and continue to the present. Contoh yang benar: The windows are cleaned every week."
+    }
+  },
+  "q_reported_009": {
+    "correct": "Jawaban Anda benar! 'She said that she could speak three languages.' adalah pilihan yang tepat. Use reported speech to express reported ability. 'Can' becomes 'can't'. Contoh: She said that she could speak three languages.",
+    "incorrect": {
+      "a": "In reported speech, 'can' becomes 'could'. 'Can' becomes 'could'. Contoh yang benar: She said that she could speak three languages.",
+      "c": "Jawaban Anda benar! 'She said that she could speak three languages.' adalah pilihan yang tepat. Use reported speech for nonverbal actions that can't be reported. Contoh: She said that she could speak three languages.",
+      "d": "In reported speech, 'can' becomes 'could'. 'Could' becomes 'could'. Contoh yang benar: She said that she could speak three languages."
+    }
+  },
+  "q_reported_010": {
+    "correct": "Jawaban Anda benar! 'was' adalah pilihan yang tepat. This is a reported speech modal. Use 'was' (not 'was') for all subjects in reported speech. Contoh: He said that he was leaving then.",
+    "incorrect": {
+      "a": "In reported speech, present perfect becomes past perfect. 'I'm leaving' becomes 'he was leaving then'. Contoh yang benar: He said that he was leaving then.",
+      "c": "This is a reported speech modal. Use reported speech modals for actions that started in the past and continue to now. Contoh yang benar: He said that he was leaving then.",
+      "d": "This is a reported speech problem. Use reported speech (not reported speech) for actions that were reported before an event. Contoh yang benar: He said that he was leaving then."
+    }
+  },
+  "q_reported_011": {
+    "correct": "Jawaban Anda benar! 'She asked where I lived.' adalah pilihan yang tepat. Use reported speech in reported speech situations when a question is reported and the result is unexpected. Contoh: She asked where I lived.",
+    "incorrect": {
+      "a": "In reported speech, present perfect is replaced by past perfect. 'Where do you live?' becomes 'she asked where I lived'. Contoh yang benar: She asked where I lived.",
+      "b": "In reported speech, 'asked' becomes 'told'. In reported speech, 'told' becomes 'could have been told'. Contoh yang benar: She asked where I lived.",
+      "d": "Use reported speech when the subject and object are the same. 'Where do you live?' becomes 'she asked where I lived.' Contoh yang benar: She asked where I lived."
+    }
+  },
+  "q_reported_012": {
+    "correct": "Jawaban Anda benar! 'had' adalah pilihan yang tepat. Use reported speech for actions reported before a reported event. Contoh: She said that she had seen him the day before.",
+    "incorrect": {
+      "a": "In reported speech, present modals change to past modals. 'I saw' becomes 'he/she had seen'. Contoh yang benar: She had seen him the day before.",
+      "c": "This is a third conditional. Use reported speech (was/were + verb-ing) for actions that happened the day before. Contoh yang benar: She said that she had seen him the day before.",
+      "d": "In reported speech, present continuous becomes past continuous. 'The day before' becomes 'the day before'. Contoh yang benar: She had said that she had seen him the day before."
+    }
+  },
+  "q_complex_011": {
+    "correct": "Jawaban Anda benar! 'The singer who performed last night was amazing.' adalah pilihan yang tepat. Use 'who' for people as subjects in relative clauses. 'The singer' is the subject, so use 'who'. Contoh: The singer who performed last night was amazing.",
+    "incorrect": {
+      "b": "Use 'who' for people as subjects in relative clauses. 'The singer' is the subject, so use 'who'. Contoh yang benar: The singer who performed last night was amazing.",
+      "c": "Use 'who' for people as subjects in relative clauses. 'The singer' is the subject and the subject of the sentence. Contoh yang benar: The singer who performed last night was amazing.",
+      "d": "Use 'who' for people as subjects in relative clauses. 'The singer' is the subject, so use 'who'. Contoh yang benar: The singer who performed last night was amazing."
+    }
+  },
+  "q_complex_012": {
+    "correct": "Jawaban Anda benar! 'where' adalah pilihan yang tepat. Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'. Contoh: The house where I grew up is now demolished.",
+    "incorrect": {
+      "a": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'. Contoh yang benar: The house where I grew up is now demolished.",
+      "b": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'. Contoh yang benar: The house where I grew up is now demolished.",
+      "d": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'. Contoh yang benar: The house where I grew up is now demolished."
+    }
+  },
+  "q_complex_013": {
+    "correct": "Jawaban Anda benar! 'My phone, which I bought last month, is already broken.' adalah pilihan yang tepat. Use 'which' for non-restrictive clauses (with commas). 'That' refers to a specific object. Contoh: My phone, which I bought last month, is already broken.",
+    "incorrect": {
+      "a": "Use 'which' for non-restrictive clauses (with commas). 'That' is restrictive and doesn't include commas. Contoh yang benar: My phone, which I bought last month, is already broken.",
+      "c": "Use 'which' for non-restrictive clauses (with commas). 'That' is restrictive. Contoh yang benar: My phone, which I bought last month, is already broken.",
+      "d": "Use 'which' for non-restrictive clauses (with commas). 'That' can't be used with commas. Contoh yang benar: My phone, which I bought last month, is already broken."
+    }
+  }
+}

@@ -1,0 +1,1855 @@
+{
+  "total_issues": 71,
+  "issues_by_type": {
+    "answer_mismatch": [
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_003",
+        "current_answer": "was",
+        "correct_choice_id": "b",
+        "correct_choice_text": "was",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'was' or 'were' to show cause and effect. 'The' is more common in informal situations. Contoh yang benar: She was reading a book when I called.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_007",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'by' to show duration, location, and duration. Contoh yang benar: By the time she arrived, I had already left.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_009",
+        "current_answer": "have",
+        "correct_choice_id": "a",
+        "correct_choice_text": "have",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use past tense 'have been waiting for an hour'. 'Hour' is singular, so use 'have been'. Contoh yang benar: I have been waiting for an hour.",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_012",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use had + past participle for actions completed before another past action. Contoh yang benar: When I arrived, they had already finished dinner.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_014",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use had + past participle for actions that started in the past and continued to the present. Contoh yang benar: She had been living in London for three years before",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_003",
+        "current_answer": "should",
+        "correct_choice_id": "b",
+        "correct_choice_text": "should",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: You should have told me earlier!",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_006",
+        "current_answer": "can",
+        "correct_choice_id": "a",
+        "correct_choice_text": "can",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'can' to express a logical conclusion based on evidence. 'Can' is more common in informal situations. Contoh yang benar: You can borrow my book if you want.",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_008",
+        "current_answer": "could",
+        "correct_choice_id": "b",
+        "correct_choice_text": "could",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'could have + past participle' in the if-clause for hypothetical situations. Contoh yang benar: I could have done better if I had studied more.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_010",
+        "current_answer": "should",
+        "correct_choice_id": "b",
+        "correct_choice_text": "should",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: You should have been more careful!",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_001",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'had + past participle' in the if-clause for hypothetical situations. Contoh yang benar: If I had known, I would have gone.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_006",
+        "current_answer": "should",
+        "correct_choice_id": "b",
+        "correct_choice_text": "should",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: If she should call, tell her I'm busy.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_008",
+        "current_answer": "were",
+        "correct_choice_id": "c",
+        "correct_choice_text": "were",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "In modern English, 'if' is commonly used with 'would'. 'If' is more common. Contoh yang benar: If I were rich, I would travel the world",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_010",
+        "current_answer": "had been",
+        "correct_choice_id": "c",
+        "correct_choice_text": "had been",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'had been' to show possession in hypothetical situations. Contoh yang benar: If I had been you, I would have accepted the offer.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_articles_003",
+        "current_answer": "an",
+        "correct_choice_id": "b",
+        "correct_choice_text": "an",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'an' before words starting with a vowel sound. 'Hour' starts with a vowel sound. Contoh yang benar: I need an hour to finish this.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_passive_002",
+        "current_answer": "was",
+        "correct_choice_id": "b",
+        "correct_choice_text": "was",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'was' or 'were' to show cause and effect. 'The building' refers to a building, so use 'was'. Contoh yang benar: The building was built last year.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_002",
+        "current_answer": "on",
+        "correct_choice_id": "b",
+        "correct_choice_text": "on",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'on' for non-restrictive clauses (with commas). 'The book' can't be used with commas. Contoh yang benar: The book is on the table.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_004",
+        "current_answer": "in",
+        "correct_choice_id": "b",
+        "correct_choice_text": "in",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'interested in' or 'interested about' to express interest in a past event. Contoh yang benar: I'm interested in learning English.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_017",
+        "current_answer": "have",
+        "correct_choice_id": "a",
+        "correct_choice_text": "have",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'have' to express unexpected unexpectedness. 'I' always refers to something, so use 'have'. Contoh yang benar: I have never been to Paris before.",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_019",
+        "current_answer": "were",
+        "correct_choice_id": "b",
+        "correct_choice_text": "were",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'were' (not 'was') for all subjects in hypothetical situations. Contoh yang benar: They were playing tennis when it started to rain.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_014",
+        "current_answer": "Could",
+        "correct_choice_id": "b",
+        "correct_choice_text": "Could",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'Could' or 'Must' to show cause and effect. 'Could' is more common in informal situations. Contoh yang benar: Could you help me with this, please?",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_006",
+        "current_answer": "under",
+        "correct_choice_id": "c",
+        "correct_choice_text": "under",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'under' for things that are not connected to a surface. 'The cat' is connected to the bed, so use 'under'. Contoh yang benar: The cat is hiding under",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_008",
+        "current_answer": "on",
+        "correct_choice_id": "c",
+        "correct_choice_text": "on",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'on' for specific days of the week. 'Monday' is a specific day, so use 'on'. Contoh yang benar: I will see you on Monday.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_005",
+        "current_answer": "why",
+        "correct_choice_id": "b",
+        "correct_choice_text": "why",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'why' for reasons in formal English. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is unknown.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_005",
+        "current_answer": "mine",
+        "correct_choice_id": "b",
+        "correct_choice_text": "mine",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'mine' or 'my' to show ownership in relative clauses. 'Mine' refers to a book, so use 'mine'. Contoh yang benar: The book is mine, not",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_022",
+        "current_answer": "have",
+        "correct_choice_id": "a",
+        "correct_choice_text": "have",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'have already seen' in the if-clause for past hypothetical situations. Contoh yang benar: I have already seen that movie three times.",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_024",
+        "current_answer": "was",
+        "correct_choice_id": "b",
+        "correct_choice_text": "was",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'while' for actions that started while another action was ongoing. Contoh yang benar: While I was cooking, the phone rang.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_017",
+        "current_answer": "should",
+        "correct_choice_id": "b",
+        "correct_choice_text": "should",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: I should have called you, but I forgot.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_019",
+        "current_answer": "should",
+        "correct_choice_id": "b",
+        "correct_choice_text": "should",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: He should have arrived by now. The",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_015",
+        "current_answer": "were",
+        "correct_choice_id": "c",
+        "correct_choice_text": "were",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "This is a first question. Use 'were' in the if-clause for hypothetical situations.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_010",
+        "current_answer": "of",
+        "correct_choice_id": "b",
+        "correct_choice_text": "of",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'afraid of' or 'afraid of' to show cause and effect. 'The' is more common in informal situations. Contoh yang benar: She is afraid of spiders.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_012",
+        "current_answer": "to",
+        "correct_choice_id": "b",
+        "correct_choice_text": "to",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'look forward to + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: I'm looking forward to seeing you.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_007",
+        "current_answer": "when",
+        "correct_choice_id": "b",
+        "correct_choice_text": "when",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'when' for time in relative clauses. 'The day' refers to a specific time. Contoh yang benar: The day when we met was sunny.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_007",
+        "current_answer": "I",
+        "correct_choice_id": "a",
+        "correct_choice_text": "I",
+        "ai_suggestion": {
+          "confidence": 0.9,
+          "suggestion": "Use 'went to' for all subjects in hypothetical situations. 'She and _____ went to the store together' is technically correct. Contoh yang benar: She and I went to the",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.9
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_027",
+        "current_answer": "will have been",
+        "correct_choice_id": "b",
+        "correct_choice_text": "will have been",
+        "ai_suggestion": {
+          "confidence": 0.9,
+          "suggestion": "Use 'will have been' in the if-clause for future hypothetical clauses. 'By next year' is technically correct. Contoh yang benar:",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.9
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_022",
+        "current_answer": "should",
+        "correct_choice_id": "b",
+        "correct_choice_text": "should",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'should have + past participle' in the if-clause for past hypothetical situations. Contoh yang benar: You should have told me earlier. Now it",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_018",
+        "current_answer": "were",
+        "correct_choice_id": "c",
+        "correct_choice_text": "were",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'were' to show possession in relative clauses. 'If I were rich, I would buy a house.' becomes 'If I were rich, I would buy a house.'",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_029",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use had + past participle for actions that started in the past and continue to the present. Contoh yang benar: She had been waiting for an hour when I arrived.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_024",
+        "current_answer": "might",
+        "correct_choice_id": "b",
+        "correct_choice_text": "might",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use past tense 'have forgotten to lock the door'. 'Has forgotten to lock' becomes 'has forgotten to lock'. Contoh yang benar: I have forgotten to lock",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_020",
+        "current_answer": "ask",
+        "correct_choice_id": "a",
+        "correct_choice_text": "ask",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'asked by' in the if-clause for hypothetical situations. 'If you' is more common in informal situations. Contoh yang benar: If you ask me,",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_014",
+        "current_answer": "for",
+        "correct_choice_id": "b",
+        "correct_choice_text": "for",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'responsible for' to express a strong idea or idea without formal formalities. Contoh yang benar: She is responsible for the project.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_009",
+        "current_answer": "by",
+        "correct_choice_id": "b",
+        "correct_choice_text": "by",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'by' to show cause and effect. 'By' connects the reason and the result. Contoh yang benar: They made the decision by themselves.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_010",
+        "current_answer": "whose",
+        "correct_choice_id": "c",
+        "correct_choice_text": "whose",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'whose' for non-restrictive clauses (with commas). 'Whose' is more restrictive. Contoh yang benar: The book, whose cover",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_013",
+        "current_answer": "why",
+        "correct_choice_id": "c",
+        "correct_choice_text": "why",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'why' for reasons in formal English. 'The reason' refers to why something happened. Contoh yang benar: The reason why I called you is important.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_sentence_combining_007",
+        "current_answer": "but",
+        "correct_choice_id": "b",
+        "correct_choice_text": "but",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'but' or 'however' to show contrast. 'But' is more common in informal situations. Contoh yang benar: I wanted to go",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_011",
+        "current_answer": "themselves",
+        "correct_choice_id": "b",
+        "correct_choice_text": "themselves",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'self' (or 'theirself' in modern English) with 'theirselves'. 'Students' is plural, so use 'theirselves'. Contoh yang benar: The students should",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_complex_006",
+        "current_answer": "where",
+        "correct_choice_id": "c",
+        "correct_choice_text": "where",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'where' for places in relative clauses. 'The company' refers to a location, so use 'where'. Contoh yang benar: The company where I work is very large.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_passive_005",
+        "current_answer": "will be",
+        "correct_choice_id": "b",
+        "correct_choice_text": "will be",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'will be' to express certainty about future events. Contoh yang benar: The new bridge will be built next year.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_015",
+        "current_answer": "when",
+        "correct_choice_id": "c",
+        "correct_choice_text": "when",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'when' for time in relative clauses. 'The day' refers to a time, so use 'when'. Contoh yang benar: The day when I",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_sentence_combining_010",
+        "current_answer": "but",
+        "correct_choice_id": "b",
+        "correct_choice_text": "but",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'but' or 'however' to show cause and effect. 'But' explains the reason. Contoh yang benar: I wanted to watch",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_015",
+        "current_answer": "herself",
+        "correct_choice_id": "b",
+        "correct_choice_text": "herself",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use present perfect passive: 'she cut herself while cooking'. 'She' is singular, so use 'she'. Contoh yang benar: She cut herself while cooking.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_complex_009",
+        "current_answer": "where",
+        "correct_choice_id": "c",
+        "correct_choice_text": "where",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'where' for places in relative clauses. 'The restaurant' refers to a location, so use 'where'. Contoh yang benar: The restaurant where we had dinner was expensive.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_sva_007",
+        "current_answer": "is",
+        "correct_choice_id": "a",
+        "correct_choice_text": "is",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'is' to show possession in relative clauses. 'Team' is plural. Contoh yang benar: The team is celebrating their victory.",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_passive_007",
+        "current_answer": "was",
+        "correct_choice_id": "b",
+        "correct_choice_text": "was",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'was' to show cause and effect. 'The problem' refers to a problem solved by a team. Contoh yang benar: The problem was solved by the team yesterday.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_reported_007",
+        "current_answer": "would",
+        "correct_choice_id": "b",
+        "correct_choice_text": "would",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Would be polite if she said that.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_prepositions_016",
+        "current_answer": "of",
+        "correct_choice_id": "b",
+        "correct_choice_text": "of",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'of' to show cause and effect. 'Fearful' is more common. Contoh yang benar: She is afraid of spiders.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_modals_012",
+        "current_answer": "must",
+        "correct_choice_id": "a",
+        "correct_choice_text": "must",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'must have + past participle' to express unexpected unexpectedness. 'She must have left already' means 'she left already'. Contoh yang benar: She must have",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_conditionals_012",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use had + past participle for actions that had been completed before another action. Contoh yang benar: If she had studied harder, she would have passed.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_tenses_021",
+        "current_answer": "will have been",
+        "correct_choice_id": "b",
+        "correct_choice_text": "will have been",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'will have been' or 'will have been' to express certainty about future plans. 'By next year' is more common. Contoh yang ben",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_018",
+        "current_answer": "why",
+        "correct_choice_id": "c",
+        "correct_choice_text": "why",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'why' for reasons in formal English. 'The reason' refers to why something happened. Contoh yang benar: The reason why she left is still unknown.",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_adjective_clauses_021",
+        "current_answer": "when",
+        "correct_choice_id": "c",
+        "correct_choice_text": "when",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'when' for time in relative clauses. 'The moment' refers to when something happened. Contoh yang benar: The moment when I saw her, I knew",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_018",
+        "current_answer": "one's",
+        "correct_choice_id": "b",
+        "correct_choice_text": "one's",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'one's' in the if-clause for past hypothetical situations. 'One should always do' is common for hypothetical situations. Contoh yang benar: One should always do one",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_pronouns_021",
+        "current_answer": "myself",
+        "correct_choice_id": "b",
+        "correct_choice_text": "myself",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use present perfect passive: 'made' or 'made by themselves'. 'I' made it 'myself'. Contoh yang benar: I made this cake myself.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_sentence_combining_013",
+        "current_answer": "but",
+        "correct_choice_id": "b",
+        "correct_choice_text": "but",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'but' or 'however' to show contrast. 'But' is more common in informal situations. Contoh yang benar: I like coffee, but my friend prefers tea",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_articles_012",
+        "current_answer": "an",
+        "correct_choice_id": "b",
+        "correct_choice_text": "an",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'an' before words starting with a vowel sound. 'Honest' starts with a vowel sound. Contoh yang benar: She is an honest person.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_sva_010",
+        "current_answer": "are",
+        "correct_choice_id": "b",
+        "correct_choice_text": "are",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'are' to show possession in relative clauses. 'Students' is plural, so use 'are'. Contoh yang benar: Not only the teacher but also the students are",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_sva_012",
+        "current_answer": "is",
+        "correct_choice_id": "a",
+        "correct_choice_text": "is",
+        "ai_suggestion": {
+          "confidence": 0.9,
+          "suggestion": "Use 'is' for actions that are technically correct. Contoh yang benar: The group of students is waiting outside.",
+          "recommended_answer": "a"
+        },
+        "fix": {
+          "answer": "a",
+          "confidence": 0.9
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_passive_010",
+        "current_answer": "was",
+        "correct_choice_id": "b",
+        "correct_choice_text": "was",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'was' to show cause and effect. 'Team' is the main subject. Contoh yang benar: The report was written by the team last week.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_passive_012",
+        "current_answer": "are",
+        "correct_choice_id": "b",
+        "correct_choice_text": "are",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'are' to show possession in relative clauses. 'The windows' refers to a location, so use 'are'. Contoh yang benar: The windows are cleaned every week.",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_reported_010",
+        "current_answer": "was",
+        "correct_choice_id": "b",
+        "correct_choice_text": "was",
+        "ai_suggestion": {
+          "confidence": 0.9,
+          "suggestion": "'I'm leaving' is technically correct. Use 'was' in the if-clause for hypothetical situations. Contoh yang benar: He said",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.9
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_reported_012",
+        "current_answer": "had",
+        "correct_choice_id": "b",
+        "correct_choice_text": "had",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "In modern English, 'had' is commonly used with 'was'. 'The day before' is commonly used with 'the day before'. Cont",
+          "recommended_answer": "b"
+        },
+        "fix": {
+          "answer": "b",
+          "confidence": 0.8
+        }
+      },
+      {
+        "type": "answer_mismatch",
+        "question_id": "q_complex_012",
+        "current_answer": "where",
+        "correct_choice_id": "c",
+        "correct_choice_text": "where",
+        "ai_suggestion": {
+          "confidence": 0.8,
+          "suggestion": "Use 'where' for places in relative clauses. 'The house' refers to a location, so use 'where'. Contoh yang benar: The house where I grew up is now",
+          "recommended_answer": "c"
+        },
+        "fix": {
+          "answer": "c",
+          "confidence": 0.8
+        }
+      }
+    ]
+  },
+  "fixes": [
+    {
+      "question_id": "q_tenses_003",
+      "issue_type": "answer_mismatch",
+      "current": "was",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_007",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_009",
+      "issue_type": "answer_mismatch",
+      "current": "have",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_012",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_014",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_003",
+      "issue_type": "answer_mismatch",
+      "current": "should",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_006",
+      "issue_type": "answer_mismatch",
+      "current": "can",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_008",
+      "issue_type": "answer_mismatch",
+      "current": "could",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_010",
+      "issue_type": "answer_mismatch",
+      "current": "should",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_001",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_006",
+      "issue_type": "answer_mismatch",
+      "current": "should",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_008",
+      "issue_type": "answer_mismatch",
+      "current": "were",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_010",
+      "issue_type": "answer_mismatch",
+      "current": "had been",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_articles_003",
+      "issue_type": "answer_mismatch",
+      "current": "an",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_passive_002",
+      "issue_type": "answer_mismatch",
+      "current": "was",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_002",
+      "issue_type": "answer_mismatch",
+      "current": "on",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_004",
+      "issue_type": "answer_mismatch",
+      "current": "in",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_017",
+      "issue_type": "answer_mismatch",
+      "current": "have",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_019",
+      "issue_type": "answer_mismatch",
+      "current": "were",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_014",
+      "issue_type": "answer_mismatch",
+      "current": "Could",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_006",
+      "issue_type": "answer_mismatch",
+      "current": "under",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_008",
+      "issue_type": "answer_mismatch",
+      "current": "on",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_005",
+      "issue_type": "answer_mismatch",
+      "current": "why",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_005",
+      "issue_type": "answer_mismatch",
+      "current": "mine",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_022",
+      "issue_type": "answer_mismatch",
+      "current": "have",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_024",
+      "issue_type": "answer_mismatch",
+      "current": "was",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_017",
+      "issue_type": "answer_mismatch",
+      "current": "should",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_019",
+      "issue_type": "answer_mismatch",
+      "current": "should",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_015",
+      "issue_type": "answer_mismatch",
+      "current": "were",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_010",
+      "issue_type": "answer_mismatch",
+      "current": "of",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_012",
+      "issue_type": "answer_mismatch",
+      "current": "to",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_007",
+      "issue_type": "answer_mismatch",
+      "current": "when",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_007",
+      "issue_type": "answer_mismatch",
+      "current": "I",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.9
+      },
+      "confidence": 0.9
+    },
+    {
+      "question_id": "q_tenses_027",
+      "issue_type": "answer_mismatch",
+      "current": "will have been",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.9
+      },
+      "confidence": 0.9
+    },
+    {
+      "question_id": "q_modals_022",
+      "issue_type": "answer_mismatch",
+      "current": "should",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_018",
+      "issue_type": "answer_mismatch",
+      "current": "were",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_029",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_024",
+      "issue_type": "answer_mismatch",
+      "current": "might",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_020",
+      "issue_type": "answer_mismatch",
+      "current": "ask",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_014",
+      "issue_type": "answer_mismatch",
+      "current": "for",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_009",
+      "issue_type": "answer_mismatch",
+      "current": "by",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_010",
+      "issue_type": "answer_mismatch",
+      "current": "whose",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_013",
+      "issue_type": "answer_mismatch",
+      "current": "why",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_sentence_combining_007",
+      "issue_type": "answer_mismatch",
+      "current": "but",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_011",
+      "issue_type": "answer_mismatch",
+      "current": "themselves",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_complex_006",
+      "issue_type": "answer_mismatch",
+      "current": "where",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_passive_005",
+      "issue_type": "answer_mismatch",
+      "current": "will be",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_015",
+      "issue_type": "answer_mismatch",
+      "current": "when",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_sentence_combining_010",
+      "issue_type": "answer_mismatch",
+      "current": "but",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_015",
+      "issue_type": "answer_mismatch",
+      "current": "herself",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_complex_009",
+      "issue_type": "answer_mismatch",
+      "current": "where",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_sva_007",
+      "issue_type": "answer_mismatch",
+      "current": "is",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_passive_007",
+      "issue_type": "answer_mismatch",
+      "current": "was",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_reported_007",
+      "issue_type": "answer_mismatch",
+      "current": "would",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_prepositions_016",
+      "issue_type": "answer_mismatch",
+      "current": "of",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_modals_012",
+      "issue_type": "answer_mismatch",
+      "current": "must",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_conditionals_012",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_tenses_021",
+      "issue_type": "answer_mismatch",
+      "current": "will have been",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_018",
+      "issue_type": "answer_mismatch",
+      "current": "why",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_adjective_clauses_021",
+      "issue_type": "answer_mismatch",
+      "current": "when",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_018",
+      "issue_type": "answer_mismatch",
+      "current": "one's",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_pronouns_021",
+      "issue_type": "answer_mismatch",
+      "current": "myself",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_sentence_combining_013",
+      "issue_type": "answer_mismatch",
+      "current": "but",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_articles_012",
+      "issue_type": "answer_mismatch",
+      "current": "an",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_sva_010",
+      "issue_type": "answer_mismatch",
+      "current": "are",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_sva_012",
+      "issue_type": "answer_mismatch",
+      "current": "is",
+      "fix": {
+        "answer": "a",
+        "confidence": 0.9
+      },
+      "confidence": 0.9
+    },
+    {
+      "question_id": "q_passive_010",
+      "issue_type": "answer_mismatch",
+      "current": "was",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_passive_012",
+      "issue_type": "answer_mismatch",
+      "current": "are",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_reported_010",
+      "issue_type": "answer_mismatch",
+      "current": "was",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.9
+      },
+      "confidence": 0.9
+    },
+    {
+      "question_id": "q_reported_012",
+      "issue_type": "answer_mismatch",
+      "current": "had",
+      "fix": {
+        "answer": "b",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    },
+    {
+      "question_id": "q_complex_012",
+      "issue_type": "answer_mismatch",
+      "current": "where",
+      "fix": {
+        "answer": "c",
+        "confidence": 0.8
+      },
+      "confidence": 0.8
+    }
+  ]
+}

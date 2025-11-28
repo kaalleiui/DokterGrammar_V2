@@ -1,6 +1,7 @@
 import '../constants/app_constants.dart';
 import '../models/test_session.dart';
 import '../models/question.dart';
+import '../models/standardized_answer.dart';
 
 class ScoringService {
   /// Calculate overall score from test attempts
@@ -27,71 +28,70 @@ class ScoringService {
   }
 
   /// Check if answer is correct
-  /// Validates answer-isCorrect consistency and handles all question types correctly
+  /// Uses standardized answer format when available (Plan 2), falls back to legacy logic
   static bool isAnswerCorrect(Question question, String? userAnswer) {
     if (userAnswer == null || userAnswer.isEmpty) return false;
     
+    // Use standardized answer if available (Plan 2)
+    try {
+      final standardizedAnswer = question.getStandardizedAnswer();
+      
+      // Check if user answer is a choiceId
+      if (question.choices.isNotEmpty) {
+        final userChoice = question.choices.firstWhere(
+          (c) => c.choiceId.toLowerCase() == userAnswer.toLowerCase(),
+          orElse: () => QuestionChoice(choiceId: '', text: ''),
+        );
+        
+        if (userChoice.choiceId.isNotEmpty) {
+          // User selected a choice - check by choiceId or text
+          if (standardizedAnswer.format == AnswerFormat.choiceId) {
+            return standardizedAnswer.matches(userAnswer);
+          } else {
+            // Answer is text format, compare by text
+            return standardizedAnswer.matchesByText(userChoice.text);
+          }
+        }
+      }
+      
+      // Direct comparison
+      return standardizedAnswer.matches(userAnswer);
+    } catch (e) {
+      // Fallback to legacy logic if standardized answer fails
+      return _legacyAnswerCheck(question, userAnswer);
+    }
+  }
+
+  /// Legacy answer checking logic (fallback)
+  static bool _legacyAnswerCheck(Question question, String userAnswer) {
     switch (question.type) {
       case 'multiple_choice':
-        // For multiple_choice, answer should be choiceId
-        // User answer is also choiceId
         return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
         
       case 'gap_fill':
-        // For gap_fill, answer might be text or choiceId
-        // User answer might be choiceId (if selecting from choices) or text
         if (question.choices.isNotEmpty) {
-          // Check if userAnswer is a choiceId
           final userChoice = question.choices.firstWhere(
             (c) => c.choiceId.toLowerCase() == userAnswer.toLowerCase(),
             orElse: () => QuestionChoice(choiceId: '', text: ''),
           );
           
           if (userChoice.choiceId.isNotEmpty) {
-            // User selected a choice (choiceId)
-            // Check if answer field is choiceId or text
-            final answerIsChoiceId = question.choices.any(
-              (c) => c.choiceId.toLowerCase() == question.answer.toLowerCase().trim(),
+            final correctChoice = question.choices.firstWhere(
+              (c) => c.isCorrect,
+              orElse: () => QuestionChoice(choiceId: '', text: ''),
             );
             
-            if (answerIsChoiceId) {
-              // Answer is choiceId, compare choiceIds
-              return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
-            } else {
-              // Answer is text, get correct choice by isCorrect flag and compare text
-              final correctChoice = question.choices.firstWhere(
-                (c) => c.isCorrect,
-                orElse: () => QuestionChoice(choiceId: '', text: ''),
-              );
-              
-              if (correctChoice.choiceId.isNotEmpty) {
-                // Compare user's choice text with correct choice text
-                return userChoice.text.toLowerCase().trim() == correctChoice.text.toLowerCase().trim();
-              } else {
-                // No isCorrect flag, fallback to comparing answer text with user choice text
-                return question.answer.toLowerCase().trim() == userChoice.text.toLowerCase().trim();
-              }
+            if (correctChoice.choiceId.isNotEmpty) {
+              return userChoice.text.toLowerCase().trim() == correctChoice.text.toLowerCase().trim();
             }
-          } else {
-            // UserAnswer is not a choiceId, treat as text
-            // Compare directly with answer field
-            return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
+            return question.answer.toLowerCase().trim() == userChoice.text.toLowerCase().trim();
           }
-        } else {
-          // No choices, treat as direct text comparison
-          return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
         }
+        return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
         
       case 'short_answer':
-        // Direct text comparison
-        return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
-        
       case 'reorder':
-        // For reorder, answer is typically a sequence string
-        return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
-        
       default:
-        // Default: direct comparison
         return question.answer.toLowerCase().trim() == userAnswer.toLowerCase().trim();
     }
   }

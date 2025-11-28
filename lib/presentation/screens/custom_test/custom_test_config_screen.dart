@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import '../../../core/constants/color_scheme.dart';
 import '../../../core/constants/strings.dart';
 import '../../../core/constants/app_constants.dart';
-import '../../../core/database/database_helper.dart';
 import '../../widgets/common/modern_header.dart';
 import '../test/test_screen.dart';
 import '../../theme/page_transitions.dart';
@@ -16,53 +15,8 @@ class CustomTestConfigScreen extends StatefulWidget {
 
 class _CustomTestConfigScreenState extends State<CustomTestConfigScreen> {
   int _selectedQuestionCount = AppConstants.customTestDefaultQuestions;
-  final List<Map<String, dynamic>> _topics = [];
-  final Map<int, bool> _selectedTopics = {};
-  bool _isLoading = true;
-
-  @override
-  void initState() {
-    super.initState();
-    _loadTopics();
-  }
-
-  Future<void> _loadTopics() async {
-    try {
-      final db = await DatabaseHelper.instance.database;
-      final topicMaps = await db.query('topics', orderBy: 'name');
-      
-      setState(() {
-        _topics.clear();
-        for (final map in topicMaps) {
-          final topicId = map['id'] as int;
-          _topics.add({
-            'id': topicId,
-            'name': map['name'] as String,
-            'display_name': map['display_name'] as String,
-          });
-          // Select all topics by default
-          _selectedTopics[topicId] = true;
-        }
-        _isLoading = false;
-      });
-    } catch (e) {
-      setState(() => _isLoading = false);
-    }
-  }
 
   void _startTest() {
-    final selectedTopicIds = _selectedTopics.entries
-        .where((e) => e.value)
-        .map((e) => e.key)
-        .toList();
-
-    if (selectedTopicIds.isEmpty) {
-      ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(content: Text('Pilih minimal satu topik')),
-      );
-      return;
-    }
-
     AppNavigator.pushFadeSlide(
       context,
       TestScreen(
@@ -74,19 +28,6 @@ class _CustomTestConfigScreenState extends State<CustomTestConfigScreen> {
 
   @override
   Widget build(BuildContext context) {
-    if (_isLoading) {
-      return Scaffold(
-        body: Container(
-          decoration: const BoxDecoration(
-            color: AppColors.background,
-          ),
-          child: const Center(
-            child: CircularProgressIndicator(),
-          ),
-        ),
-      );
-    }
-
     return Scaffold(
       backgroundColor: AppColors.background,
       body: SafeArea(
@@ -156,7 +97,7 @@ class _CustomTestConfigScreenState extends State<CustomTestConfigScreen> {
                                 ),
                                 SizedBox(height: 4),
                                 Text(
-                                  'Pilih jumlah soal dan topik yang ingin dipelajari',
+                                  'Pilih jumlah soal. Topik akan dipilih otomatis berdasarkan area terlemah Anda',
                                   style: TextStyle(
                                     fontSize: 13,
                                     color: AppColors.textSecondary,
@@ -259,160 +200,6 @@ class _CustomTestConfigScreenState extends State<CustomTestConfigScreen> {
                               );
                             }).toList(),
                           ),
-                        ],
-                      ),
-                    ),
-                    const SizedBox(height: 24),
-                    
-                    // Topic Selection - Enhanced
-                    Container(
-                      padding: const EdgeInsets.all(20),
-                      decoration: BoxDecoration(
-                        color: AppColors.cardBackground,
-                        borderRadius: BorderRadius.circular(20),
-                        boxShadow: AppColors.cardShadow,
-                        border: Border.all(
-                          color: AppColors.primary.withOpacity(0.1),
-                          width: 1,
-                        ),
-                      ),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                            children: [
-                              Flexible(
-                                child: Row(
-                                  children: [
-                                    Container(
-                                      padding: const EdgeInsets.all(8),
-                                      decoration: BoxDecoration(
-                                        color: AppColors.primary.withOpacity(0.15),
-                                        borderRadius: BorderRadius.circular(10),
-                                      ),
-                                      child: const Icon(
-                                        Icons.category_rounded,
-                                        color: AppColors.primary,
-                                        size: 20,
-                                      ),
-                                    ),
-                                    const SizedBox(width: 12),
-                                    const Flexible(
-                                      child: Text(
-                                        'Pilih Topik',
-                                        style: TextStyle(
-                                          fontSize: 18,
-                                          fontWeight: FontWeight.bold,
-                                          color: AppColors.textPrimary,
-                                        ),
-                                        overflow: TextOverflow.ellipsis,
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                              ),
-                              const SizedBox(width: 8),
-                              Flexible(
-                                child: Container(
-                                  constraints: const BoxConstraints(maxWidth: double.infinity),
-                                  decoration: BoxDecoration(
-                                    color: AppColors.primary.withOpacity(0.1),
-                                    borderRadius: BorderRadius.circular(12),
-                                  ),
-                                  child: TextButton(
-                                    onPressed: () {
-                                      setState(() {
-                                        final allSelected = _selectedTopics.values.every((v) => v);
-                                        for (final topicId in _selectedTopics.keys) {
-                                          _selectedTopics[topicId] = !allSelected;
-                                        }
-                                      });
-                                    },
-                                    style: TextButton.styleFrom(
-                                      padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 8),
-                                      minimumSize: Size.zero,
-                                      tapTargetSize: MaterialTapTargetSize.shrinkWrap,
-                                    ),
-                                    child: Row(
-                                      mainAxisSize: MainAxisSize.min,
-                                      mainAxisAlignment: MainAxisAlignment.center,
-                                      children: [
-                                        Icon(
-                                          _selectedTopics.values.every((v) => v)
-                                              ? Icons.check_box_outlined
-                                              : Icons.check_box_outline_blank,
-                                          size: 16,
-                                          color: AppColors.primary,
-                                        ),
-                                        const SizedBox(width: 4),
-                                        Flexible(
-                                          child: Text(
-                                            _selectedTopics.values.every((v) => v)
-                                                ? 'Hapus Semua'
-                                                : 'Pilih Semua',
-                                            style: const TextStyle(
-                                              fontSize: 12,
-                                              fontWeight: FontWeight.bold,
-                                              color: AppColors.primary,
-                                            ),
-                                            overflow: TextOverflow.ellipsis,
-                                            maxLines: 1,
-                                          ),
-                                        ),
-                                      ],
-                                    ),
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                          const SizedBox(height: 20),
-                          ..._topics.map((topic) {
-                            final topicId = topic['id'] as int;
-                            final isSelected = _selectedTopics[topicId] ?? false;
-                            return Container(
-                              margin: const EdgeInsets.only(bottom: 12),
-                              decoration: BoxDecoration(
-                                color: isSelected 
-                                    ? AppColors.primary.withOpacity(0.1)
-                                    : Colors.transparent,
-                                borderRadius: BorderRadius.circular(12),
-                                border: Border.all(
-                                  color: isSelected 
-                                      ? AppColors.primary.withOpacity(0.3)
-                                      : AppColors.primary.withOpacity(0.1),
-                                  width: 1,
-                                ),
-                              ),
-                              child: CheckboxListTile(
-                                title: Text(
-                                  topic['display_name'] as String,
-                                  style: TextStyle(
-                                    fontSize: 15,
-                                    fontWeight: isSelected ? FontWeight.w600 : FontWeight.normal,
-                                    color: AppColors.textPrimary,
-                                  ),
-                                  maxLines: 1,
-                                  overflow: TextOverflow.ellipsis,
-                                ),
-                                value: isSelected,
-                                onChanged: (value) {
-                                  setState(() {
-                                    _selectedTopics[topicId] = value ?? false;
-                                  });
-                                },
-                                activeColor: AppColors.primary,
-                                contentPadding: const EdgeInsets.symmetric(
-                                  horizontal: 12,
-                                  vertical: 4,
-                                ),
-                                shape: RoundedRectangleBorder(
-                                  borderRadius: BorderRadius.circular(12),
-                                ),
-                              ),
-                            );
-                          }),
                         ],
                       ),
                     ),

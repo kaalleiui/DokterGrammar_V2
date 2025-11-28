@@ -44,7 +44,7 @@ class AppColors {
   
   static List<BoxShadow> buttonShadow = [
     BoxShadow(
-      color: primary.withOpacity(0.3),
+      color: primary.withOpacity(0.3), //ni orens jelek bgt
       blurRadius: 15,
       offset: const Offset(0, 4),
     ),
